@@ -178,6 +178,24 @@ Mingxuan Liu, Haoxiang Li, Haibo Qu, Qiyuan Tian
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='../images/ISCAS2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification
+
+Jingqiao Lu, **Mingxuan Liu**, Hong Chen
+
+2023 IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181870" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
