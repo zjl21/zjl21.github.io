@@ -77,7 +77,7 @@ IEEE Transactions on Instrumentation and Measurement, Under Review
 
 ## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
 
-**Mingxuan Liu**, Jiankai Tang, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
+**Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
 Neural Networks, Under Review
 
@@ -89,7 +89,21 @@ Neural Networks, Under Review
 
 </div>
 </div>
-  
+
+#### CONFERENCE PUBLICATIONS
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Image Quality Assessment using an Orientation Recognition Network for Fetal MRI
+
+**Mingxuan Liu\***, Haoxiang Li\* (\*Co-first Author), Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
+
+[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/)
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
