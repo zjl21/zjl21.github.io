@@ -139,7 +139,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning
