@@ -144,7 +144,7 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 
 ## Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning
 
-Mingxuan Liu, Haoxiang Li, Haibo Qu, Qiyuan Tian
+**Mingxuan Liu**, Haoxiang Li, Haibo Qu, Qiyuan Tian
 
 [AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). (Top3 prize)
 
@@ -189,6 +189,24 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 
 <div class="extra-links">
     <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181870" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioCAS 2022</div><img src='../images/BioCAS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data
+
+**Mingxuan Liu**, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen
+
+2022 IEEE Biomedical Circuits and Systems Conference (BioCAS) (Oral Presentation)
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/9948645" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
 </div>
