@@ -92,12 +92,24 @@ Neural Networks, Under Review
 
 #### CONFERENCE PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Image Quality Assessment using an Orientation Recognition Network for Fetal MRI
 
 **Mingxuan Liu\***, Haoxiang Li\* (\*Co-first Author), Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
+
+[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## FetalSurfer: an automated fetal cortex reconstruction method to study complex development of fetal brain using AI segmentation
+
+Haoxiang Li\*, **Mingxuan Liu\*** (\*Co-first Author), Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian
 
 [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/)
 
