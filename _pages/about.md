@@ -71,14 +71,32 @@ IEEE Transactions on Instrumentation and Measurement, Under Review
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='../images/TIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency
+
+**Mingxuan Liu**, Yunrui Jiao, Jingqiao Lu, Hong Chen
+
+IEEE Transactions on Instrumentation and Measurement, Under Review
+
+<div class="extra-links">
+    <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
   
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
-- *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> *Top scholarship in China. 0.2% domestically*.
+- *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; *Top scholarship in China. 0.2% domestically*.
 - *2022* **Scholarship for Academic Excellence**, Tsinghua University
 - *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
-- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> *Supported by a National College Student Innovation and Entrepreneurship Project*
+- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
 - *2020* **Scholarship for Academic Excellence**, Tsinghua University
 
 # 📖 Educations
