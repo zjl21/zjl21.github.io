@@ -214,6 +214,25 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 
+#### PREPRINT PUBLICATIONS
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/arxiv-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks
+
+**Mingxuan Liu\***, Jie Gan\*, Rui Wen\* (\*Co-first Author), Tao Li, Yongli Chen, Hong Chen
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2308.10187" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/Arktis2022/Spiking-Diffusion">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
