@@ -72,17 +72,17 @@ IEEE Transactions on Instrumentation and Measurement, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='../images/TIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency
+## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
 
-**Mingxuan Liu**, Yunrui Jiao, Jingqiao Lu, Hong Chen
+**Mingxuan Liu**, Jiankai Tang, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
-IEEE Transactions on Instrumentation and Measurement, Under Review
+Neural Networks, Under Review
 
 <div class="extra-links">
-    <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
+    <a class="_blank" href="https://arxiv.org/abs/2402.04798" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
 </div>
