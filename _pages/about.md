@@ -246,5 +246,12 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2021.09 - present*, **School of Biomedical Engineering**, Tsinghua University, China. 
 - *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
 
+# 🎣 Activities
+- *2023.11.24*, Won the top3 Prize in Al Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering)
+- *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://img.erpweb.eu.org/imgs/2024/02/2547ed7aa1423a38.jpg)
+- *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://img.erpweb.eu.org/imgs/2024/02/0cb68379b33a36d5.png)
+- *2023.10.22*, Visited the National Museum of China with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/02/b0b5af6405497e7d.png)
+- *2023.10.02*, Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/02/5514cfe5a7abca58.png)
+- *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Haoxiang Li: [Department of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Jack Tang: [Xinya College, Tsinghua University](https://mcjacktang.github.io/)<br>Yunkang Cao: [Huazhong University of Science and Technology](https://caoyunkang.github.io/)<br>Xiao Zhang: [Department of Biomedical Engineering, Tsinghua University](https://xzy-xyz.github.io/)<br>Yiming Huang: [Microsoft Research Asia](https://scholar.google.com/citations?hl=en&user=L8E-ccakgcQC)<br>Siwei Li: [Department of Electronic Engineering of Tsinghua University](https://hplqaq.github.io/)
