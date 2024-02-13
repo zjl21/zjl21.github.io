@@ -243,12 +243,8 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2020* **Scholarship for Academic Excellence**, Tsinghua University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - present*, **School of Biomedical Engineering**, Tsinghua University, China. 
+- *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔗 LINKS
+BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Haoxiang Li: [Department of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Jack Tang: [Xinya College, Tsinghua University](https://mcjacktang.github.io/)<br>Yunkang Cao: [Huazhong University of Science and Technology](https://caoyunkang.github.io/)<br>Xiao Zhang: [Department of Biomedical Engineering, Tsinghua University](https://xzy-xyz.github.io/)<br>Yiming Huang: [Microsoft Research Asia](https://scholar.google.com/citations?hl=en&user=L8E-ccakgcQC)<br>Siwei Li: [Department of Electronic Engineering of Tsinghua University](https://hplqaq.github.io/)
