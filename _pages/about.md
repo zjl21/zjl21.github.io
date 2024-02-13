@@ -139,6 +139,23 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning
+
+Mingxuan Liu, Haoxiang Li, Haibo Qu, Qiyuan Tian
+
+[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). (Top3 prize)
+
+<div class="extra-links">
+    <a class="_blank" href="https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
