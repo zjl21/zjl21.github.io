@@ -67,6 +67,9 @@ IEEE Transactions on Instrumentation and Measurement, Under Review
     <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
+    <a class="_blank" href="https://github.com/Arktis2022/Skip-TS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
 </div>
 
 </div>
@@ -99,7 +102,7 @@ Neural Networks, Under Review
 
 **Mingxuan Liu\***, Haoxiang Li\* (\*Co-first Author), Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
 
-[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/)
+[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Oral Power Pitch)
 
 </div>
 </div>
@@ -111,7 +114,27 @@ Neural Networks, Under Review
 
 Haoxiang Li\*, **Mingxuan Liu\*** (\*Co-first Author), Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian
 
-[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/)
+[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Digital Poster)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='../images/ICASSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## SAM-Deblur: Let Segment Anything Boost Image Deblurring
+
+Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou
+
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2309.02270" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://hplqaq.github.io/projects/sam-deblur">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Project
+    </a>
+</div>
 
 </div>
 </div>
