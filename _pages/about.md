@@ -178,7 +178,7 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='../images/ISCAS2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='../images/ISCAS2023-2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification
