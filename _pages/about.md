@@ -156,6 +156,28 @@ Mingxuan Liu, Haoxiang Li, Haibo Qu, Qiyuan Tian
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='../images/ISCAS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections
+
+**Mingxuan Liu**, Yunrui Jiao, Hong Chen
+
+IEEE International Symposium on Circuits and Systems (ISCAS)
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181639" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/Arktis2022/Skip-TS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
