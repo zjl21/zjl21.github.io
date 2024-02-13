@@ -54,7 +54,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='./images/TIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='../images/TIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency
