@@ -125,7 +125,7 @@ Haoxiang Li\*, **Mingxuan Liu\*** (\*Co-first Author), Jialan Zheng, Hongjia Yan
 
 Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou
 
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2309.02270" >
@@ -164,7 +164,7 @@ Mingxuan Liu, Haoxiang Li, Haibo Qu, Qiyuan Tian
 
 **Mingxuan Liu**, Yunrui Jiao, Hong Chen
 
-IEEE International Symposium on Circuits and Systems (ISCAS)
+2023 IEEE International Symposium on Circuits and Systems (ISCAS) (Oral Presentation)
 
 <div class="extra-links">
     <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181639" >
