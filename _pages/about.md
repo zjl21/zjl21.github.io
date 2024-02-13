@@ -93,10 +93,10 @@ IEEE Transactions on Instrumentation and Measurement, Under Review
 # 🎖 Honors and Awards
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
-- *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; *Top scholarship in China. 0.2% domestically*.
+- *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - *2022* **Scholarship for Academic Excellence**, Tsinghua University
 - *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
-- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
+- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
 - *2020* **Scholarship for Academic Excellence**, Tsinghua University
 
 # 📖 Educations
