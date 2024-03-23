@@ -254,6 +254,8 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
   
 # 💌 Social Event
+- *2024.03.20*, Watched the stage play "Count Wulong Mountain" (《乌龙山伯爵》) at the Happy Twist Theater (开心麻花剧场) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/03/f1eec2640d6e2ded.jpg)
+- *2024.03.19*, Visited the Happy Valley Beijing (欢乐谷) with my girlfriend, in Beijing. [Photo A](https://img.erpweb.eu.org/imgs/2024/03/8ddc3c7236876ab4.jpg) [Photo B](https://img.erpweb.eu.org/imgs/2024/03/6302a2dab7c7ff69.jpg)
 - *2024.02.28*, Visited the Juzizhou Island (橘子洲) with my girlfriend, in Changsha. [Photo](https://ibb.co/mDLzGyS)
 - *2023.10.22*, Visited the National Museum of China (国家博物馆) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/02/b0b5af6405497e7d.png)
 - *2023.06.14*, Visited the Yuewang Pavilion (岳王亭) with my girlfriend, in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2024/03/b621eaab184bcea3.jpg)
