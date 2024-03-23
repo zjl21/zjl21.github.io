@@ -61,7 +61,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **Mingxuan Liu**, Yunrui Jiao, Jingqiao Lu, Hong Chen
 
-IEEE Transactions on Instrumentation and Measurement, Under Review
+IEEE Transactions on Instrumentation and Measurement, Minor Revsion
 
 <div class="extra-links">
     <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
