@@ -61,7 +61,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **Mingxuan Liu**, Yunrui Jiao, Jingqiao Lu, Hong Chen
 
-IEEE Transactions on Instrumentation and Measurement, Minor Revsion
+[IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim), Minor Revsion
 
 <div class="extra-links">
     <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
@@ -82,7 +82,7 @@ IEEE Transactions on Instrumentation and Measurement, Minor Revsion
 
 **Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
-Neural Networks, Under Review
+[Neural Networks](https://www.sciencedirect.com/journal/neural-networks), Under Review
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2402.04798" >
@@ -125,7 +125,7 @@ Haoxiang Li\*, **Mingxuan Liu\*** (\*Co-first Author), Jialan Zheng, Hongjia Yan
 
 Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou
 
-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+[2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)](https://2024.ieeeicassp.org/) (Poster)
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2309.02270" >
@@ -164,7 +164,7 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 
 **Mingxuan Liu**, Yunrui Jiao, Hong Chen
 
-2023 IEEE International Symposium on Circuits and Systems (ISCAS) (Oral Presentation)
+[2023 IEEE International Symposium on Circuits and Systems (ISCAS)](https://2023.ieee-iscas.org/) (Oral Presentation)
 
 <div class="extra-links">
     <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181639" >
@@ -185,7 +185,7 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 
 Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 
-2023 IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)
+[2023 IEEE International Symposium on Circuits and Systems (ISCAS)](https://2023.ieee-iscas.org/) (Poster)
 
 <div class="extra-links">
     <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181870" >
@@ -203,7 +203,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 
 **Mingxuan Liu**, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen
 
-2022 IEEE Biomedical Circuits and Systems Conference (BioCAS) (Oral Presentation)
+[2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)](https://2022.ieee-biocas.org/site/page.aspx?pid=901&sid=1419&lang=en) (Oral Presentation)
 
 <div class="extra-links">
     <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/9948645" >
