@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm senior undergraduate student from [Department of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes anomaly detection, spiking neural networks, medical imaging.
+I'm senior undergraduate student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes anomaly detection, spiking neural networks, medical imaging.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1357/4249.htm) of [Birth Lab](https://birthlab.github.io/) from [Department of Biomedical Engineering](https://bme.med.tsinghua.edu.cn/), Tsinghua University. I was advised by [Prof. Hong Chen](https://www.ime.tsinghua.edu.cn/info/1015/1399.htm) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
 
