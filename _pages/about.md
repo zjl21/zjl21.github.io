@@ -27,6 +27,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.04.14:** Attended the ICASSP 2024 held in held in Seoul and posted a [poster](https://drive.google.com/file/d/1VUZIOY-K7SmnXrXcejkNnu-JccUAkZ0L/view?usp=sharing).
+
 **2024.02.13:** 🎉🎉 Awarded **Educational Stipend Award** by 2024 ISMRM!
 
 **2024.01.26:** 🎉🎉 Our paper addressed [Fetal MRI image quality assessment](https://www.ismrm.org/24/accepted_abstracts.pdf) has been accepted by [ISMRM 2024](https://www.ismrm.org/24m/) as oral power pitch (top 13%).
@@ -247,6 +249,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
 
 # 🎣 Activities
+- *2023.04.17*, Attended the ICASSP 2024, held in Seoul. [Photo](https://img.erpweb.eu.org/imgs/2024/04/0a91be3331527e5d.jpg)
 - *2023.11.24*, Won the top3 Prize in Al Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering)
 - *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://img.erpweb.eu.org/imgs/2024/02/2547ed7aa1423a38.jpg)
 - *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://img.erpweb.eu.org/imgs/2024/02/0cb68379b33a36d5.png)
