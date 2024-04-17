@@ -39,7 +39,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2023.11.24:** 🎉🎉 Won the top3 Prize in [Al Health Summit 2023 Poster Competition](https://mp.weixin.qq.com/s/Y7yvnuK6nqyBeBf8tAofOQ).
 
-**2023.11.23:** Attended the AI Health Summit 2023 held in held in Singapore and posted a [poster](https://drive.google.com/file/d/1g9uQsFCsOHGoOQ5ChehHDCV1Aqt2qpaq/view?usp=sharing). 
+**2023.11.23:** Attended the AI Health Summit 2023 held in held in Singapore and posted a [poster](https://docs.google.com/presentation/d/1qF3I-coGVHokjrGOg2rSnimPrS6ak-8m/edit?usp=sharing&ouid=115888010982299494146&rtpof=true&sd=true). 
 
 **2023.10.20:** 🎉🎉 Our abstract addressed [Fetal MRI image quality assessment](https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp) has been accepted by [AI Health Summit 2023](https://healthsummit.ai/main/abstracts/)
 
