@@ -27,7 +27,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2024.04.20:** 🎉🎉 Awarded **2024 ISMRM Magna Cum Laude Merit Award**!
+**2024.04.20:** 🎉🎉 Awarded **2024 ISMRM Magna Cum Laude Merit Award (Top 10%)**!
 
 **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1) has been accepted by [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim).
 
