@@ -240,7 +240,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2024* **2024 ISMRM Magna Cum Laude Merit Award**
+- *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 10%)**
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
 - *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
