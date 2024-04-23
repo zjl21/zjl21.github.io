@@ -106,7 +106,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 ## Image Quality Assessment using an Orientation Recognition Network for Fetal MRI
 
-**Mingxuan Liu\***, Haoxiang Li\* (\*Co-first Author), Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
+**Mingxuan Liu**, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
 
 [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Oral Power Pitch)
 
@@ -118,7 +118,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 ## FetalSurfer: an automated fetal cortex reconstruction method to study complex development of fetal brain using AI segmentation
 
-Haoxiang Li\*, **Mingxuan Liu\*** (\*Co-first Author), Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian
+Haoxiang Li, **Mingxuan Liu**, Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian
 
 [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Digital Poster)
 </div>
