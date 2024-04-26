@@ -101,9 +101,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 #### CONFERENCE PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSNA 2024</div><img src='../images/RSNA2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 ## Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI using Label-free deep learning
 
 **Mingxuan Liu**, Haoxiang Li, Juncheng Zhu, Jialan Zheng, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian
@@ -112,8 +112,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSNA 2024</div><img src='../images/RSNA2024.jpg' alt="sym" width="100%"></div></div>
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## Image Quality Assessment using an Orientation Recognition Network for Fetal MRI
