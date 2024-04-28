@@ -1,4 +1,4 @@
-![image](https://github.com/Arktis2022/Arktis2022.github.io/assets/96528625/cf4380ff-ace0-4ab5-a8bc-d2c5358533a9)---
+---
 permalink: /
 title: ""
 author_profile: true
