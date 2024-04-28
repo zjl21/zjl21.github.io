@@ -113,6 +113,18 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSNA 2024</div><img src='../images/RSNA2024_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+## Comparative study of MRI in fetuses with germinal matrix-ventricular hemorrhage
+
+Haoxiang Li, Juncheng Zhu, **Mingxuan Liu**, Jialan Zheng, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian
+
+ Submitted to [The Scientific Assembly and Annual Meeting of Radiological Society of North America (RSNA) 2024](https://www.rsna.org/annual-meeting)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
