@@ -88,7 +88,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
-[Neural Networks](https://www.sciencedirect.com/journal/neural-networks), Under Review
+[Neural Networks](https://www.sciencedirect.com/journal/neural-networks), Revise
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2402.04798" >
