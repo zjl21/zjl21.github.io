@@ -256,7 +256,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
 
 # 🎣 Activities
-- *2024.05.07*, Attended the ISMRM 2024, held in Singapore. [Photo A](Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore.) [Photo B](https://img.erpweb.eu.org/imgs/2024/05/a2646308883e4385.jpg)
+- *2024.05.07*, Attended the ISMRM 2024, held in Singapore. [Photo A](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg) [Photo B](https://img.erpweb.eu.org/imgs/2024/05/a2646308883e4385.jpg)
 - *2023.04.17*, Attended the ICASSP 2024, held in Seoul. [Photo](https://img.erpweb.eu.org/imgs/2024/04/0a91be3331527e5d.jpg)
 - *2023.11.24*, Won the top3 Prize in Al Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering)
 - *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://img.erpweb.eu.org/imgs/2024/02/2547ed7aa1423a38.jpg)
