@@ -27,6 +27,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.05.07:** Attended the ISMRM 2024 held in Singapore and gave a [presentation](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg).
+
 **2024.04.20:** 🎉🎉 Awarded **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**!
 
 **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1) has been accepted by [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim).
@@ -43,7 +45,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2023.11.24:** 🎉🎉 Won the top3 Prize in [Al Health Summit 2023 Poster Competition](https://mp.weixin.qq.com/s/Y7yvnuK6nqyBeBf8tAofOQ).
 
-**2023.11.23:** Attended the AI Health Summit 2023 held in held in Singapore and posted a [poster](https://docs.google.com/presentation/d/1qF3I-coGVHokjrGOg2rSnimPrS6ak-8m/edit?usp=sharing&ouid=115888010982299494146&rtpof=true&sd=true). 
+**2023.11.23:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://docs.google.com/presentation/d/1qF3I-coGVHokjrGOg2rSnimPrS6ak-8m/edit?usp=sharing&ouid=115888010982299494146&rtpof=true&sd=true). 
 
 **2023.10.20:** 🎉🎉 Our abstract addressed [Fetal MRI image quality assessment](https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp) has been accepted by [AI Health Summit 2023](https://healthsummit.ai/main/abstracts/)
 
@@ -254,6 +256,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
 
 # 🎣 Activities
+- *2024.05.07*, Attended the ISMRM 2024, held in Singapore. [Photo A](Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore.) [Photo B](https://img.erpweb.eu.org/imgs/2024/05/a2646308883e4385.jpg)
 - *2023.04.17*, Attended the ICASSP 2024, held in Seoul. [Photo](https://img.erpweb.eu.org/imgs/2024/04/0a91be3331527e5d.jpg)
 - *2023.11.24*, Won the top3 Prize in Al Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering)
 - *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://img.erpweb.eu.org/imgs/2024/02/2547ed7aa1423a38.jpg)
