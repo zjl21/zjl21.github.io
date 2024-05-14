@@ -113,6 +113,12 @@ Xinxu Lin\*, **Mingxuan Liu\***(\*Co-first Author), Kezhuo Liu, Hong Chen
 
 Submitted to [The British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/)
 
+<div class="extra-links">
+    <a class="_blank" href="https://hal.science/hal-04572397" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
 </div>
 </div>
 
