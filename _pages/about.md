@@ -27,7 +27,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2024.05.14:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
+**2024.05.10:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
 
 **2024.05.07:** Attended the ISMRM 2024 held in Singapore and gave a [presentation](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg).
 
