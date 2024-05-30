@@ -74,7 +74,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim), Accept
 
 <div class="extra-links">
-    <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
+    <a class="_blank" href="https://doi.org/10.1109/TIM.2024.3406792" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
     <a class="_blank" href="https://github.com/Arktis2022/Skip-TS">
