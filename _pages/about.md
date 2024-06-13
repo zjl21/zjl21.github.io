@@ -31,7 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2024.05.07:** Attended the ISMRM 2024 held in Singapore and gave a [presentation](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg).
 
-**2024.04.20:** 🎉🎉 Awarded **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**!
+**2024.04.20:** 🎉🎉 Awarded **2024 ISMRM Magna Cum Laude Merit [Award](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) (Top 15%)**!
 
 **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1) has been accepted by [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim).
 
@@ -273,7 +273,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**
+- *2024* **2024 ISMRM Magna Cum Laude Merit [Award](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) (Top 15%)**
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
 - *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
