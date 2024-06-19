@@ -277,11 +277,11 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)** [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg)
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
-- *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- *2022* **Scholarship for Academic Excellence**, Tsinghua University
-- *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
-- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
-- *2020* **Scholarship for Academic Excellence**, Tsinghua University
+- *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/e01c9a39ab4705eb.png)<br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
+- *2022* **Scholarship for Academic Excellence**, Tsinghua University [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/3725764c812767de.jpg)
+- *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/fa3e12191add4d53.jpg)
+- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/881250f26de144d3.jpg)&nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
+- *2020* **Scholarship for Academic Excellence**, Tsinghua University [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg)
 
 # 📖 Educations
 - *2021.09 - present*, **School of Biomedical Engineering**, Tsinghua University, China. 
