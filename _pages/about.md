@@ -273,8 +273,8 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2024* ** United Nations Children's Fund (unicef) Second Anniversary Commemorative Certificate [Certificate](https://img.erpweb.eu.org/imgs/2024/06/379f54cbbf11e115.jpg)
-- *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)** [Certificate]((https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg))
+- *2024* **United Nations Children's Fund (unicef) Second Anniversary Commemorative Certificate** [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/379f54cbbf11e115.jpg)
+- *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)** [[Certificate]]((https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg))
 - *2024* **2024 ISMRM: Educational Stipend Award**
 - *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
 - *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
