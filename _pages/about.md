@@ -310,6 +310,6 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 
 # 🫶 Other
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/379f54cbbf11e115.jpg) *2024* **United Nations Children's Fund (unicef) Second Anniversary Commemorative Certificate**
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/577a0ba3ae662a03.jpg) *2023* ****United Nations Children's Fund (unicef) First Anniversary Commemorative Certificate** 
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/577a0ba3ae662a03.jpg) *2023* **United Nations Children's Fund (unicef) First Anniversary Commemorative Certificate** 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Haoxiang Li: [Department of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Jack Tang: [Xinya College, Tsinghua University](https://mcjacktang.github.io/)<br>Yunkang Cao: [Huazhong University of Science and Technology](https://caoyunkang.github.io/)<br>Xiao Zhang: [Department of Biomedical Engineering, Tsinghua University](https://xzy-xyz.github.io/)<br>Yiming Huang: [Microsoft Research Asia](https://scholar.google.com/citations?hl=en&user=L8E-ccakgcQC)<br>Siwei Li: [Department of Electronic Engineering of Tsinghua University](https://hplqaq.github.io/)
