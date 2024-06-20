@@ -273,7 +273,6 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 # 🎖 Honors and Awards
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/379f54cbbf11e115.jpg) *2024* **United Nations Children's Fund (unicef) Second Anniversary Commemorative Certificate** 
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**
 - [[Certificate]](https://arktis2022.github.io/) *2024* **2024 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
@@ -309,5 +308,8 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2023.10.22*, Visited the National Museum of China (国家博物馆) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/02/b0b5af6405497e7d.png)
 - *2023.06.14*, Visited the Yuewang Pavilion (岳王亭) with my girlfriend, in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2024/03/b621eaab184bcea3.jpg)
 
+# 🫶 Other
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/379f54cbbf11e115.jpg) *2024* **United Nations Children's Fund (unicef) Second Anniversary Commemorative Certificate**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/577a0ba3ae662a03.jpg) *2023* ****United Nations Children's Fund (unicef) First Anniversary Commemorative Certificate** 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Haoxiang Li: [Department of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Jack Tang: [Xinya College, Tsinghua University](https://mcjacktang.github.io/)<br>Yunkang Cao: [Huazhong University of Science and Technology](https://caoyunkang.github.io/)<br>Xiao Zhang: [Department of Biomedical Engineering, Tsinghua University](https://xzy-xyz.github.io/)<br>Yiming Huang: [Microsoft Research Asia](https://scholar.google.com/citations?hl=en&user=L8E-ccakgcQC)<br>Siwei Li: [Department of Electronic Engineering of Tsinghua University](https://hplqaq.github.io/)
