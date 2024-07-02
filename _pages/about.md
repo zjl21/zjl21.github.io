@@ -273,6 +273,8 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 # 🎖 Honors and Awards
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/6cac5893381c31d0.jpg) *2024* **Outstanding Graduate of Beijing**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/b8f175077893bf72.jpg) *2024* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**
 - [[Certificate]](https://arktis2022.github.io/) *2024* **2024 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
