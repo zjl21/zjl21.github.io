@@ -16,9 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm senior undergraduate student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis, Spiking Neural Network.
+I'm First-year PhD student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis, Spiking Neural Network.
 
-I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1357/4249.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.med.tsinghua.edu.cn/), Tsinghua University. I was advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.cn/) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
+I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1357/4249.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.med.tsinghua.edu.cn/), Tsinghua University. 
+
+I was previously advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.cn/) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
 
 You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://drive.google.com/file/d/1_AdwP3kM8S54H9hw5yXXT3xNGdMc7l6u/view?usp=sharing).
 
@@ -28,6 +30,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 # 🔥 News
 **2024.07.02:** Awarded **Outstanding Graduate of Beijing** and **Outstanding Graduate of Tsinghua University (Top 2%)** !
+
 **2024.05.10:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
 
 **2024.05.07:** Attended the ISMRM 2024 held in Singapore and gave a [presentation](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg).
