@@ -27,6 +27,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.07.02:** Awarded **Outstanding Graduate of Beijing** and **Outstanding Graduate of Tsinghua University (Top 2%)** !
 **2024.05.10:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
 
 **2024.05.07:** Attended the ISMRM 2024 held in Singapore and gave a [presentation](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg).
@@ -285,8 +286,9 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
 
 # 📖 Educations
-- *2021.09 - present*, **School of Biomedical Engineering**, Tsinghua University, China. 
-- *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
+- *2024.08 - present*, PhD: **School of Biomedical Engineering**, Tsinghua University, China.
+- *2021.09 - 2024.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
+- *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
 
 # 🎓 Academic Service
 + As one of the organizers of [OCSMRM 2024](http://www.ocsmrm.org/)
