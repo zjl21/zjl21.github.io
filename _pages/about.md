@@ -24,6 +24,8 @@ I was previously advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.c
 
 You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://drive.google.com/file/d/1_AdwP3kM8S54H9hw5yXXT3xNGdMc7l6u/view?usp=sharing).
 
+[My previous profile in Chinese](https://mp.weixin.qq.com/s/yvf6LKf-0XhFasQ4mtH-mQ).
+
 Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -309,6 +311,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
   
 # 💌 Social Event
+- *2024.06.28*, Graduated with a bachelor's degree from Tsinghua University. [Photo](https://img.erpweb.eu.org/imgs/2024/07/51b1f1467d9be574.jpg)
 - *2024.05.02*, Visited the Tientsin Eye (天津之眼) with my girlfriend, in Tianjing. [Photo](https://img.erpweb.eu.org/imgs/2024/05/231e58636bd80878.jpg)
 - *2024.03.20*, Watched the stage play "Count Wulong Mountain" (《乌龙山伯爵》) at the Happy Twist Theater (开心麻花剧场) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/03/f1eec2640d6e2ded.jpg)
 - *2024.03.19*, Visited the Happy Valley Beijing (欢乐谷) with my girlfriend, in Beijing. [Photo A](https://img.erpweb.eu.org/imgs/2024/03/8ddc3c7236876ab4.jpg) [Photo B](https://img.erpweb.eu.org/imgs/2024/03/6302a2dab7c7ff69.jpg)
