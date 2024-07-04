@@ -96,7 +96,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 ## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
 
-**Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
+**Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Chengli Yong, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang, Hong Chen
 
 [Neural Networks](https://www.sciencedirect.com/journal/neural-networks), Revise
 
