@@ -298,6 +298,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 # 🎓 Academic Service
 + As one of the organizers of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, IEEE Trans. Image Processing.
++ *Conference Reviewer*, ACM MobileHCI.
   
 # 🎣 Activities
 - *2024.05.10*, Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
