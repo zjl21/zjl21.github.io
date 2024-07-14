@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.07.14:** Attended the Medical Imaging Computing Seminar 2024 ([MICS 2024](https://nidshm.xmu.edu.cn/MICS2024.html)). [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
+
 **2024.07.04:** Attended the ADVANCED IMAGING AND MICROSCOPY (AIM 2024). [Photo](https://img.erpweb.eu.org/imgs/2024/07/05c57542c5d7591a.jpg)
 
 **2024.07.02:** Awarded **Outstanding Graduate of Beijing** and **Outstanding Graduate of Tsinghua University (Top 2%)** !
