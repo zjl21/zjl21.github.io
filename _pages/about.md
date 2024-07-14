@@ -303,6 +303,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 + *Conference Reviewer*, ACM MobileHCI.
   
 # 🎣 Activities
+- *2024.07.14*, Attended the Medical Imaging Computing Seminar 2024 (MICS 2024). [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
 - *2024.07.04*, Attended the ADVANCED IMAGING AND MICROSCOPY (AIM 2024). [Photo](https://img.erpweb.eu.org/imgs/2024/07/05c57542c5d7591a.jpg)
 - *2024.05.10*, Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
 - *2024.05.08*, Attended the OCSMRM 2024 as one of the organizers, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/05/0bb68e1150ae04be.png)
