@@ -33,6 +33,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🔥 News
 **2024.07.17:** 🎉🎉 Our paper addressed [Fetal Brain GMH-IVH Detection](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as oral paper presentation.
 
+**2024.07.17:** 🎉🎉 Our paper addressed [Automated quantification of myelination in fetal brains](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as poster.
+
 **2024.07.14:** Attended the Medical Imaging Computing Seminar 2024 ([MICS 2024](https://nidshm.xmu.edu.cn/MICS2024.html)). [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
 
 **2024.07.04:** Attended the ADVANCED IMAGING AND MICROSCOPY (AIM 2024). [Photo](https://img.erpweb.eu.org/imgs/2024/07/05c57542c5d7591a.jpg)
@@ -149,7 +151,7 @@ Submitted to [The British Machine Vision Conference (BMVC) 2024](https://bmvc202
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSNA 2024</div><img src='../images/RSNA2024_2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## Automated quantification ofmyelination in fetal brains
+## Automated quantification of myelination in fetal brains
 
 Keyu Chen, Fenglin Jia, Haoxiang Li, Jialan Zheng, **Mingxuan Liu**, Hongjia Yang, Zihan Li, Yi Liao, Haibo Qu
 
