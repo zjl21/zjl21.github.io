@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.07.20:** 🎉🎉 Our paper addressed [Sign Language Recognition](https://bmvc2024.org/programme/accepted_papers/) has been accepted by [BMVC 2024](https://bmvc2024.org/).
+
 **2024.07.17:** 🎉🎉 Our paper addressed [Fetal Brain GMH-IVH Detection](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as oral paper presentation.
 
 **2024.07.17:** 🎉🎉 Our paper addressed [Automated quantification of myelination in fetal brains](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as poster.
@@ -125,7 +127,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 Xinxu Lin\*, **Mingxuan Liu\***(\*Co-first Author), Kezhuo Liu, Hong Chen
 
-Submitted to [The British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/)
+[The British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/) [Acceptance rate = 25.9%]
 
 <div class="extra-links">
     <a class="_blank" href="https://hal.science/hal-04572397" >
