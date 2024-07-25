@@ -31,6 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.07.25:** 🎉🎉 Awarded [the 1st prize](https://www.bmedesign.cn/#/home) at the 9th National Biomedical Engineering Innovation Design Competition for College Students.
 **2024.07.20:** 🎉🎉 Our paper addressed [Sign Language Recognition](https://bmvc2024.org/programme/accepted_papers/) has been accepted by [BMVC 2024](https://bmvc2024.org/).
 
 **2024.07.17:** 🎉🎉 Our paper addressed [Fetal Brain GMH-IVH Detection](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as oral paper presentation.
@@ -301,6 +302,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 </div>
 </div>
 # 🎖 Honors and Awards
+- [[Certificate]](https://www.bmedesign.cn/#/home) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/6cac5893381c31d0.jpg) *2024* **Outstanding Graduate of Beijing**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/b8f175077893bf72.jpg) *2024* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**
