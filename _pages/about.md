@@ -328,10 +328,10 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
 
 # 🦜 Invited Talks
-- *2024* 2024 ISMRM & ISMRT Annual Meeting & Exhibition
-- *2023* AI Health Summit 2023
-- *2023* 2023 IEEE International Symposium on Circuits and Systems
-- *2022* 2022 IEEE Biomedical Circuits and Systems Conference
+- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition**
+- *2023* **AI Health Summit 2023**
+- *2023* **2023 IEEE International Symposium on Circuits and Systems**
+- *2022* **2022 IEEE Biomedical Circuits and Systems Conference**
 
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
