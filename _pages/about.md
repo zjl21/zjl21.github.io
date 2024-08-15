@@ -336,7 +336,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 # 💰 Funding
 - *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program**
 - *2022-2023* **National College Student Innovation and Entrepreneurship Project**
-- 
+
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, IEEE Trans. Image Processing.
