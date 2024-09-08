@@ -323,7 +323,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
 
 # 📖 Educations
-- *2024.08 - present*, PhD: **School of Biomedical Engineering**, Tsinghua University, China.
+- *2024.08 - present*, PhD student: **School of Biomedical Engineering**, Tsinghua University, China.
 - *2021.09 - 2024.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
 - *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
 
