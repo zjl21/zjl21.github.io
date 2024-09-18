@@ -357,6 +357,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 - *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
   
 # 💌 Social Event
+- *2024.09.17*, Celebrating the Moon Festival at Huazhong University of Science and Technology (HUST) with my girlfriend, in Wuhan. [Photo](https://img.erpweb.eu.org/imgs/2024/09/648d5b55b079db83.jpg)
 - *2024.07.26*, 🎂 Celebrating girlfriend's birthday 🎂. [Photo](https://img.erpweb.eu.org/imgs/2024/08/5078c45c4becf74c.jpg)
 - *2024.06.28*, Graduated with a bachelor's degree from Tsinghua University. [Photo](https://img.erpweb.eu.org/imgs/2024/07/51b1f1467d9be574.jpg)
 - *2024.05.02*, Visited the Tientsin Eye (天津之眼) with my girlfriend, in Tianjing. [Photo](https://img.erpweb.eu.org/imgs/2024/05/231e58636bd80878.jpg)
