@@ -170,7 +170,7 @@ Keyu Chen, Fenglin Jia, Haoxiang Li, Jialan Zheng, **Mingxuan Liu**, Hongjia Yan
 
 **Mingxuan Liu**, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
 
-[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Oral Power Pitch, Magna Cum Laude Merit Award)
+[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
 
 <div class="extra-links">
     <a class="_blank" href="https://www.bilibili.com/video/BV1ow4m1e7Dk/?spm_id_from=333.788.recommend_more_video.13&vd_source=51af935938b507e665a456504af91f5b" >
@@ -220,7 +220,7 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 
 **Mingxuan Liu**, Haoxiang Li, Haibo Qu, Qiyuan Tian
 
-[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). (Top3 prize)
+[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). (Top3 prize, Top 3%)
 
 <div class="extra-links">
     <a class="_blank" href="https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp" >
