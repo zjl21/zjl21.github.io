@@ -31,7 +31,10 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.09.22:** Attended the 2024 Annual Meeting of the Neuroimaging Committee of chinese Psychological society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
+
 **2024.07.25:** 🎉🎉 Awarded [the 1st prize](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) at the 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
+
 **2024.07.20:** 🎉🎉 Our paper addressed [Sign Language Recognition](https://bmvc2024.org/programme/accepted_papers/) has been accepted by [BMVC 2024](https://bmvc2024.org/).
 
 **2024.07.17:** 🎉🎉 Our paper addressed [Fetal Brain GMH-IVH Detection](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as oral paper presentation (Top 10%).
@@ -343,6 +346,7 @@ Jingqiao Lu, **Mingxuan Liu**, Hong Chen
 + *Conference Reviewer*, ACM MobileHCI.
   
 # 🎣 Activities
+- *2024.09.22*, Attended the 2024 Annual Meeting of the Neuroimaging Committee of chinese Psychological society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
 - *2024.07.20*, Attended the 9th National Biomedical Engineering Innovation Design Competition for College Students, held in Sanya. [Photo](https://img.erpweb.eu.org/imgs/2024/07/aed77c3330a9ef9c.jpg)
 - *2024.07.14*, Attended the Medical Imaging Computing Seminar 2024 (MICS 2024), held in Xiamen. [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
 - *2024.07.04*, Attended the ADVANCED IMAGING AND MICROSCOPY (AIM 2024), held in Huairou District. [Photo](https://img.erpweb.eu.org/imgs/2024/07/05c57542c5d7591a.jpg)
