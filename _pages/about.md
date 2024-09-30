@@ -233,7 +233,7 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 [AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). (Top3 prize, Top 3%)
 
 <div class="extra-links">
-    <a class="_blank" href="https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp" >
+    <a class="_blank" href="https://drive.google.com/file/d/1hL0Vyr0e5Wm23xKJhQriVa_dF318Osjg/view?usp=sharing" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
 </div>
