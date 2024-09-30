@@ -176,7 +176,7 @@ Keyu Chen, Fenglin Jia, Haoxiang Li, Jialan Zheng, **Mingxuan Liu**, Hongjia Yan
 [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
 
 <div class="extra-links">
-    <a class="_blank" href="https://www.bilibili.com/video/BV1ow4m1e7Dk/?spm_id_from=333.788.recommend_more_video.13&vd_source=51af935938b507e665a456504af91f5b" >
+    <a class="_blank" href="https://submissions.mirasmart.com/ISMRM2024/Itinerary/Login.aspx" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Video
     </a>
 </div>
@@ -192,6 +192,13 @@ Keyu Chen, Fenglin Jia, Haoxiang Li, Jialan Zheng, **Mingxuan Liu**, Hongjia Yan
 Haoxiang Li, **Mingxuan Liu**, Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian
 
 [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Digital Poster)
+
+<div class="extra-links">
+    <a class="_blank" href="https://submissions.mirasmart.com/ISMRM2024/Itinerary/Login.aspx" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Video
+    </a>
+</div>
+
 </div>
 </div>
 
