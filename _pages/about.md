@@ -137,7 +137,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
     <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022.
   </li>
- </ol>
+</ol>
  
 #### CONFERENCE ABSTRACTS
 <ol reversed>
@@ -171,7 +171,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning <br>
     <a href="https://drive.google.com/file/d/1hL0Vyr0e5Wm23xKJhQriVa_dF318Osjg/view?usp=sharing">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Haibo Qu, Qiyuan Tian* <br>
-    <i>[AI Health Summit](https://healthsummit.ai/ai-health-summit-2023/). 2024. (Top3 prize, Top 3%)
+    <i>AI Health Summit. </i> 2024. (Top3 prize, Top 3%)
   </li>
 </ol>
       
