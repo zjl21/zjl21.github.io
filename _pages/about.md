@@ -97,7 +97,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer <br> 
     <a href="https://arxiv.org/abs/2402.04798">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jiankai Tang#, Chengli Yong#, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang*, Hong Chen* <br>
-    <i>Neural Network <strong>(NN). </strong></i> 2024 (Major Revision).
+    <i>Neural Network <strong>(NN). </strong></i> 2024. (Major Revision)
   </li>
 </ol>
 
