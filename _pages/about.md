@@ -90,34 +90,15 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency <br>
     <a href="https://doi.org/10.1109/TIM.2024.3406792">[Paper]</a> <a href="https://github.com/Arktis2022/Skip-TS">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Jingqiao Lu, Hong Chen* <br>
-    <i>IEEE Transactions on Instrumentation and Measurement. <strong>(IEEE TIM).</strong></i> 2024.
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM). </strong></i> 2024.
   </li>
 
   <li id="JP-Pub2"> 
     Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer 
-    <a href="https://arxiv.org/abs/2402.04798">[Paper]</a> <a href="https://github.com/Arktis2022/Skip-TS">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Jingqiao Lu, Hong Chen* <br>
-    <i>IEEE Transactions on Instrumentation and Measurement. <strong>(IEEE TIM).</strong></i> 2024.
+    <a href="https://arxiv.org/abs/2402.04798">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jiankai Tang#, Chengli Yong#, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang*, Hong Chen* <br>
+    <i>Neural Network <strong>(NN). </strong></i> 2024.
   </li>
-  
-  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
-
-**Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Chengli Yong, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang, Hong Chen
-
-[Neural Networks](https://www.sciencedirect.com/journal/neural-networks), Revise
-
-<div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2402.04798" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
 
 #### CONFERENCE PUBLICATIONS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2024</div><img src='../images/BMVC2024.jpg' alt="sym" width="100%"></div></div>
