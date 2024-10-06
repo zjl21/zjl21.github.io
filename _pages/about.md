@@ -133,7 +133,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CP-Pub5"> 
     <span style="color:#000000; font-weight:bold;">Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data</span> <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10181870">[Paper]</a> <br> 
+    <a href="https://ieeexplore.ieee.org/document/9948645">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
     <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022.
   </li>
