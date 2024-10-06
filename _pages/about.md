@@ -94,7 +94,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 
   <li id="JP-Pub2"> 
-    Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer <br> 
+    <span style="color:#000000; font-weight:bold;">Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer</span> <br> 
     <a href="https://arxiv.org/abs/2402.04798">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jiankai Tang#, Chengli Yong#, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang*, Hong Chen* <br>
     <i>Neural Networks <strong>(NN). </strong></i> 2024. (Major Revision)
@@ -104,35 +104,35 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 #### CONFERENCE PAPERS
 <ol reversed>
   <li id="CP-Pub1"> 
-    Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition <br>
+    <span style="color:#000000; font-weight:bold;">Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition</span> <br>
     <a href="https://hal.science/hal-04572397">[Paper]</a>  <br> 
     Xinxu Lin#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Kezhuo Liu, Hong Chen* <br>
     <i>The British Machine Vision Conference <strong>(BMVC). </strong></i> 2024.
   </li>
 
   <li id="CP-Pub2"> 
-    SAM-Deblur: Let Segment Anything Boost Image Deblurring <br>
+    <span style="color:#000000; font-weight:bold;">SAM-Deblur: Let Segment Anything Boost Image Deblurring</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10445844">[Paper]</a> <a href="https://hplqaq.github.io/projects/sam-deblur">[Project]</a>  <br> 
     Siwei Li#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen*, Zifei Dou* <br>
     <i>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP). </strong></i> 2024.
   </li>
 
   <li id="CP-Pub3"> 
-    Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections <br>
+    <span style="color:#000000; font-weight:bold;">Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10181639">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hong Chen* <br>
     <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023.
   </li>
 
   <li id="CP-Pub4"> 
-    PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification <br>
+    <span style="color:#000000; font-weight:bold;">PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10181870">[Paper]</a> <br> 
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen* <br>
     <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023.
   </li>
 
   <li id="CP-Pub5"> 
-    Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data <br>
+    <span style="color:#000000; font-weight:bold;">Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10181870">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
     <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022.
@@ -142,33 +142,33 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 #### CONFERENCE ABSTRACTS
 <ol reversed>
   <li id="CA-Pub1"> 
-    Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning <br>
+    <span style="color:#000000; font-weight:bold;">Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Juncheng Zhu, Jialan Zheng, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian *<br>
     <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Oral Paper Presentation)
   </li>
 
   <li id="CA-Pub2"> 
-    Automated quantification of myelination in fetal brains <br>
+    <span style="color:#000000; font-weight:bold;">Automated quantification of myelination in fetal brains</span> <br>
     Keyu Chen, Fenglin Jia, Haoxiang Li, Jialan Zheng, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Zihan Li, Yi Liao, Haibo Qu* <br>
     <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Poster Presentation)
   </li>
 
   <li id="CA-Pub3"> 
-    Image Quality Assessment using an Orientation Recognition Network for Fetal MRI <br>
+    <span style="color:#000000; font-weight:bold;">Image Quality Assessment using an Orientation Recognition Network for Fetal MRI</span> <br>
     <a href="https://submissions.mirasmart.com/ISMRM2024/Itinerary/Login.aspx">[Video]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian* <br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2024. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
   </li>
 
   <li id="CA-Pub4"> 
-    FetalSurfer: an automated fetal cortex reconstruction method to study complex development of fetal brain using AI segmentation <br>
+    <span style="color:#000000; font-weight:bold;">FetalSurfer: an automated fetal cortex reconstruction method to study complex development of fetal brain using AI segmentation</span> <br>
     <a href="https://submissions.mirasmart.com/ISMRM2024/Itinerary/Login.aspx">[Video]</a>  <br> 
     Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian* <br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2024. (Digital Poster)
   </li>
 
   <li id="CA-Pub5"> 
-    Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning <br>
+    <span style="color:#000000; font-weight:bold;">Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning</span> <br>
     <a href="https://drive.google.com/file/d/1hL0Vyr0e5Wm23xKJhQriVa_dF318Osjg/view?usp=sharing">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Haibo Qu, Qiyuan Tian* <br>
     <i>AI Health Summit. </i> 2024. (Top3 prize, Top 3%)
@@ -178,7 +178,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 #### ARXIV PAPERS
 <ol reversed>
   <li id="AP-Pub1"> 
-    Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks <br>
+    <span style="color:#000000; font-weight:bold;">Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks</span> <br>
     <a href="https://arxiv.org/abs/2308.10187">[Paper]</a> <a href="https://github.com/Arktis2022/Spiking-Diffusion">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jie Gan#, Rui Wen#, Tao Li, Yongli Chen, Hong Chen* <br>
   </li>
