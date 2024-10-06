@@ -87,7 +87,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 #### JOURNAL PAPERS
 <ol reversed>
   <li id="JP-Pub1"> 
-    Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency <br>
+    span style="color:#000000; font-weight:bold;">Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency</span> <br>
     <a href="https://doi.org/10.1109/TIM.2024.3406792">[Paper]</a> <a href="https://github.com/Arktis2022/Skip-TS">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Jingqiao Lu, Hong Chen* <br>
     <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM). </strong></i> 2024.
