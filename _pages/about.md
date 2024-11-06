@@ -216,7 +216,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, IEEE Trans. Image Processing.
-+ *Conference Reviewer*, MobileHCI 2024; AAAI-25 UC.
++ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025.
   
 # 🎣 Activities
 - *2024.09.22*, Attended the 2024 Annual Meeting of the Neuroimaging Committee of Chinese Psychological Society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
