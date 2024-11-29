@@ -31,6 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.11.24:** Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/e8a70034e2cb6e23.jpg)
 **2024.09.22:** Attended the 2024 Annual Meeting of the Neuroimaging Committee of Chinese Psychological Society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
 
 **2024.07.25:** 🎉🎉 Awarded [the 1st prize](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) at the 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
@@ -210,9 +211,10 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, IEEE Trans. Image Processing.
-+ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025.
++ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025.
   
 # 🎣 Activities
+- *2024.11.24*, Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/cb1c15b029cec4e7.jpg)
 - *2024.09.22*, Attended the 2024 Annual Meeting of the Neuroimaging Committee of Chinese Psychological Society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
 - *2024.07.20*, Attended the 9th National Biomedical Engineering Innovation Design Competition for College Students, held in Sanya. [Photo](https://img.erpweb.eu.org/imgs/2024/07/aed77c3330a9ef9c.jpg)
 - *2024.07.14*, Attended the Medical Imaging Computing Seminar 2024 (MICS 2024), held in Xiamen. [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
