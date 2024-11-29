@@ -232,7 +232,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   
 # 💌 Social Event
 - *2024.11.11*, Visited the Universal Beijing Resort (环球影城) with my girlfriend. [Photo](https://img.erpweb.eu.org/imgs/2024/11/0bf79f13a48a3433.jpg)
-- *2024.11.08*, Visited the Forbidden City (故宫) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/11/8f7cd19ce32b296a.jpg)
+- *2024.11.08*, Visited the Forbidden City (故宫) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/11/59aa6f9f72433bac.jpg)
 - *2024.09.17*, Celebrating the Moon Festival at Huazhong University of Science and Technology (HUST) with my girlfriend, in Wuhan. [Photo](https://img.erpweb.eu.org/imgs/2024/09/648d5b55b079db83.jpg)
 - *2024.07.26*, 🎂 Celebrating girlfriend's birthday 🎂. [Photo](https://img.erpweb.eu.org/imgs/2024/08/5078c45c4becf74c.jpg)
 - *2024.06.28*, Graduated with a bachelor's degree from Tsinghua University. [Photo](https://img.erpweb.eu.org/imgs/2024/07/51b1f1467d9be574.jpg)
