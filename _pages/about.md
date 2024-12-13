@@ -123,7 +123,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks</span> <br>
     <a href="https://arxiv.org/abs/2308.10187">[Paper]</a> <a href="https://github.com/Arktis2022/Spiking-Diffusion">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jie Gan#, Rui Wen#, Tao Li, Yongli Chen, Hong Chen* <br>
-    <i>International Conference on Computer, Big Data and Artificial Intelligence <strong>(ICCBD+AI). </strong></i> 2024.
+    <i>International Conference on Computer, Big Data and Artificial Intelligence <strong>(ICCBD+AI). </strong></i> 2024. (Best Paper Award)
   </li>
 
   <li id="CP-Pub3"> 
@@ -186,6 +186,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) *2024* **2024 ISMRM Magna Cum Laude Merit Award (Top 15%)**
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Second Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Image Deblurring System Driven by Multimodal Data Augmentation*
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **2024 ICCBDAI Best Paper Award**
 - [[Certificate]](https://arktis2022.github.io/) *2024* **2024 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/e01c9a39ab4705eb.png) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
