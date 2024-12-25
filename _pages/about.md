@@ -153,7 +153,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption</span> <br>
     Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion <strong>. </strong></i> 2025. (Oral Power Pitch)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Power Pitch)
+  </li>
+
+  <li id="CA-Pub5"> 
+    <span style="color:#000000; font-weight:bold;">DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications</span> <br>
+    Yifei Chen, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Qiyuan Tian*<br>
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
   </li>
   
   <li id="CA-Pub1"> 
