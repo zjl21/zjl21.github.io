@@ -31,7 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2024.12.25:** 🎉🎉 Our paper addressed [Fetal brian mask](https://www.ismrm.org/workshops/2025/Diffusion40/) has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
+**2024.12.25:** 🎉🎉 Our paper addressed [Fetal brain mask](https://www.ismrm.org/workshops/2025/Diffusion40/) has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
 
 **2024.12.25:** 🎉🎉 Our paper addressed [Diffusion MRI Parameter Estimation](https://www.ismrm.org/workshops/2025/Diffusion40/) has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
 
