@@ -150,6 +150,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
  
 #### CONFERENCE ABSTRACTS
 <ol reversed>
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption</span> <br>
+    Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
+    <i>ISMRM Workshop on 40 Years of Diffusion <strong>. </strong></i> 2025. (Oral Power Pitch)
+  </li>
+  
   <li id="CA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning</span> <br>
     <a href="https://reg.meeting.rsna.org/flow/rsna/rsna24/MeetingCentralRSNA24/page/session-catalog/session/1719506117296001dVkS">[Paper]</a>  <br>
