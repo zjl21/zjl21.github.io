@@ -181,7 +181,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 
   <li id="CA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">FetalSurfer: an automated fetal cortex reconstruction method to study complex development of fetal brain using AI segmentation</span> <br>
+    <span style="color:#000000; font-weight:bold;">FetalSurfer: Automated Fetal Cortical Surface Reconstruction</span> <br>
     <a href="https://archive.ismrm.org/2024/3635.html">[Paper]</a>  <br> 
     Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian* <br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2024. (Digital Poster)
