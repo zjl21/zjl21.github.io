@@ -115,14 +115,14 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition</span> <br>
     <a href="https://hal.science/hal-04572397">[Paper]</a>  <a href="https://bmvc2024.org/proceedings/493/">[Project]</a> <br> 
     Xinxu Lin#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Kezhuo Liu, Hong Chen* <br>
-    <i>The British Machine Vision Conference <strong>(BMVC). </strong></i> 2024.
+    <i>The British Machine Vision Conference <strong>(BMVC). </strong></i> 2024. (Poster)
   </li>
 
   <li id="CP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">SAM-Deblur: Let Segment Anything Boost Image Deblurring</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10445844">[Paper]</a> <a href="https://hplqaq.github.io/projects/sam-deblur">[Project]</a>  <br> 
     Siwei Li#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen*, Zifei Dou* <br>
-    <i>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP). </strong></i> 2024.
+    <i>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP). </strong></i> 2024. (Poster)
   </li>
 
   <li id="CP-Pub6"> 
@@ -136,21 +136,21 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10181639">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hong Chen* <br>
-    <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023.
+    <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023. (Oral Paper Presentation)
   </li>
 
   <li id="CP-Pub4"> 
     <span style="color:#000000; font-weight:bold;">PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10181870">[Paper]</a> <br> 
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen* <br>
-    <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023.
+    <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023. (Poster)
   </li>
 
   <li id="CP-Pub5"> 
     <span style="color:#000000; font-weight:bold;">Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data</span> <br>
     <a href="https://ieeexplore.ieee.org/document/9948645">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
-    <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022.
+    <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022. (Oral Paper Presentation)
   </li>
 </ol>
  
