@@ -113,7 +113,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <ol reversed>
   <li id="CP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition</span> <br>
-    <a href="https://hal.science/hal-04572397">[Paper]</a>  <a href="https://bmvc2024.org/proceedings/493/">[Project]</a> <br> 
+    <a href="https://bmva-archive.org.uk/bmvc/2024/papers/Paper_493/paper.pdf">[Paper]</a>  <a href="https://bmvc2024.org/proceedings/493/">[Project]</a> <br> 
     Xinxu Lin#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Kezhuo Liu, Hong Chen* <br>
     <i>The British Machine Vision Conference <strong>(BMVC). </strong></i> 2024. (Poster)
   </li>
