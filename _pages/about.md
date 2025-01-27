@@ -92,18 +92,18 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 #### JOURNAL PAPERS
 <ol reversed>
+<li id="JP-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer</span> <br> 
+    <a href="https://www.sciencedirect.com/science/article/pii/S0893608025000073">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jiankai Tang#, Chengli Yong, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang*, Hong Chen* <br>
+    <i>Neural Networks <strong>(NN). </strong></i> 2025. 
+  </li>
+  
   <li id="JP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency</span> <br>
     <a href="https://doi.org/10.1109/TIM.2024.3406792">[Paper]</a> <a href="https://github.com/Arktis2022/Skip-TS">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Jingqiao Lu, Hong Chen* <br>
     <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM). </strong></i> 2024.
-  </li>
-
-  <li id="JP-Pub2"> 
-    <span style="color:#000000; font-weight:bold;">Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer</span> <br> 
-    <a href="https://www.sciencedirect.com/science/article/pii/S0893608025000073">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jiankai Tang#, Chengli Yong, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang*, Hong Chen* <br>
-    <i>Neural Networks <strong>(NN). </strong></i> 2025. 
   </li>
 </ol>
 
@@ -164,6 +164,18 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications</span> <br>
     Yifei Chen, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Qiyuan Tian*<br>
     <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
+  </li>
+
+   <li id="CA-Pub7"> 
+    <span style="color:#000000; font-weight:bold;">Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation</span> <br>
+     Zheng J, Yang C, Zhong W, Wang Z, Li H, Li Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Yang H, Cao X, Liao C, Salat DH, Huang SY, Tian Q*<br>
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Power Pitch)
+  </li>
+  
+  <li id="CA-Pub6"> 
+    <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
+     Zihan Li, Jialan Zheng, Ziyu Li, Ziang Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Guochen Ning, Hongen Liao, QIyuan Tian*<br>
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Power Pitch)
   </li>
   
   <li id="CA-Pub1"> 
