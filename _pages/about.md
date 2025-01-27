@@ -33,9 +33,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🔥 News
 **2025.01.03:** 🎉🎉 Our paper addressed [Remote Photoplethysmography](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 
-**2024.12.25:** 🎉🎉 Our paper addressed [Fetal brain mask](https://www.ismrm.org/workshops/2025/Diffusion40/) has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
-
-**2024.12.25:** 🎉🎉 Our paper addressed [Diffusion MRI Parameter Estimation](https://www.ismrm.org/workshops/2025/Diffusion40/) has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
+**2024.12.25:** 🎉🎉 Our several papers have been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
 
 **2024.11.24:** Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/e8a70034e2cb6e23.jpg)
 
