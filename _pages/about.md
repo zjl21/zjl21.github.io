@@ -169,13 +169,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
    <li id="CA-Pub7"> 
     <span style="color:#000000; font-weight:bold;">Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation</span> <br>
      Zheng J, Yang C, Zhong W, Wang Z, Li H, Li Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Yang H, Cao X, Liao C, Salat DH, Huang SY, Tian Q*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Power Pitch)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Presentation)
   </li>
   
   <li id="CA-Pub6"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
      Zihan Li, Jialan Zheng, Ziyu Li, Ziang Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Guochen Ning, Hongen Liao, QIyuan Tian*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Power Pitch)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
   </li>
   
   <li id="CA-Pub1"> 
