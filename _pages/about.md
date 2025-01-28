@@ -174,14 +174,14 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   
   <li id="CA-Pub6"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
-     Zihan Li, Jialan Zheng, Ziyu Li, Ziang Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Guochen Ning, Hongen Liao, QIyuan Tian*<br>
+     Zihan Li, Jialan Zheng, Ziyu Li, Ziang Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Guochen Ning, Hongen Liao, Qiyuan Tian*<br>
     <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
   </li>
   
   <li id="CA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning</span> <br>
     <a href="https://reg.meeting.rsna.org/flow/rsna/rsna24/MeetingCentralRSNA24/page/session-catalog/session/1719506117296001dVkS">[Paper]</a>  <br>
-    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Juncheng Zhu, Jialan Zheng, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian *<br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Juncheng Zhu, Jialan Zheng, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian*<br>
     <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Oral Paper Presentation)
   </li>
   
