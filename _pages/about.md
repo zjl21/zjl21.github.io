@@ -111,7 +111,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <ol reversed>
   <li id="CP-Pubx"> 
     <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
-    <a href="[https://bmva-archive.org.uk/bmvc/2024/papers/Paper_493/paper.pdf](https://openreview.net/forum?id=ns6nq592HX&referrer=%5Bthe%20profile%20of%20Yifei%20Chen%5D(%2Fprofile%3Fid%3D~Yifei_Chen18))">[Paper]</a> <br> 
+    <a href="https://openreview.net/forum?id=ns6nq592HX&referrer=%5Bthe%20profile%20of%20Yifei%20Chen%5D(%2Fprofile%3Fid%3D~Yifei_Chen18">[Paper]</a> <br> 
     Xuguang Bai#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yifei Chen, Hongjia Yang, Qiyuan Tian* <br>
     <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Submitted)
   </li>
