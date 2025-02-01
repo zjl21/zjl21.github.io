@@ -81,13 +81,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2023.10.15:** 🎉🎉 Awarded **National Scholarship** by Ministry of Education!
 
-**2023.10.2:** Attended the [NUS-THU Joint Workshop on Biomedical Engineering 2023](https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/) hosted by the [National University of Singapore](https://nus.edu.sg/) and posted a [poster](https://drive.google.com/file/d/1XvKr1N_4eonvEOxT0u8NA1tLA0tvImT3/view). 
+**2023.10.02:** Attended the [NUS-THU Joint Workshop on Biomedical Engineering 2023](https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/) hosted by the [National University of Singapore](https://nus.edu.sg/) and posted a [poster](https://drive.google.com/file/d/1XvKr1N_4eonvEOxT0u8NA1tLA0tvImT3/view). 
 
-**2023.7.16:** Attended the [IEEE ASYNC 2023](https://c360-o2o.c360dn.com/b14b26a8836a3f6cf111018ac518dfa51920?watermark/3/image/aHR0cHM6Ly9jMzYwLW8yby5jMzYwZG4uY29tL2Y5OGQ4ODI5LTAwNjMtNDMxZi1iZmEyLTU2ZWU2Mjg5YTA2Mz9pbWFnZXMy/dissolve/100/gravity/SouthEast/dx/0/dy/0/ws/0.2071148722770726) held in Beijing, China.
+**2023.07.16:** Attended the [IEEE ASYNC 2023](https://c360-o2o.c360dn.com/b14b26a8836a3f6cf111018ac518dfa51920?watermark/3/image/aHR0cHM6Ly9jMzYwLW8yby5jMzYwZG4uY29tL2Y5OGQ4ODI5LTAwNjMtNDMxZi1iZmEyLTU2ZWU2Mjg5YTA2Mz9pbWFnZXMy/dissolve/100/gravity/SouthEast/dx/0/dy/0/ws/0.2071148722770726) held in Beijing, China.
 
-**2023.5.21:** 🎉🎉 Our paper addressed [Tooth-Marked Tongue Classification](https://ieeexplore.ieee.org/abstract/document/10181870) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
+**2023.05.21:** 🎉🎉 Our paper addressed [Tooth-Marked Tongue Classification](https://ieeexplore.ieee.org/abstract/document/10181870) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
 
-**2023.5.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
+**2023.05.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
