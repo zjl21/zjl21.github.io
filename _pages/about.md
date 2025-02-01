@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.02.01:** 🎉🎉 🎉🎉 Our several papers have been accepted by [ISMRM 2025](https://www.ismrm.org/25m/).
+
 **2025.01.03:** 🎉🎉 Our paper addressed [Remote Photoplethysmography](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 
 **2024.12.25:** 🎉🎉 Our several papers have been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
@@ -161,6 +163,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
  
 #### CONFERENCE ABSTRACTS
 <ol reversed>
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling</span> <br>
+    Chen Y, Li Z, Wang Y, Li Z, Zheng J, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Tian Q*<br>
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+  </li>
+  
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption</span> <br>
     Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
