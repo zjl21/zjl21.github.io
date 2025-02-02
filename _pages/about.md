@@ -170,11 +170,11 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 
   <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
-     Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    <span style="color:#000000; font-weight:bold;">FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry</span> <br>
+    Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Li H, Zhu J, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation)
   </li>
-
+  
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">CortexKAN: Multi-input KAN for fetal cortical surface reconstruction</span> <br>
      Li H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Zheng J, Yang H, Li Z, Qu H, Tian Q*<br>
@@ -188,15 +188,15 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
   
   <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
+     Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+  </li>
+  
+  <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling</span> <br>
     Chen Y, Li Z, Wang Y, Li Z, Zheng J, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
-  </li>
-
-  <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry</span> <br>
-    Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Li H, Zhu J, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation)
   </li>
 
   <li id="CA-Pub0"> 
