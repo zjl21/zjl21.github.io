@@ -241,7 +241,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Presentation)
   </li>
 
-    <li id="CA-Pub7"> DeepEddy: high-quality eddy current and bulk motion correction using deep learning-based image synthesis and co-registration
+  <li id="CA-Pub7"> DeepEddy: high-quality eddy current and bulk motion correction using deep learning-based image synthesis and co-registration
     <span style="color:#000000; font-weight:bold;">Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation</span> <br>
      Jize Zhang, Frederik Lange, Jesper Andersson, Jialan Zheng, Yi Jing, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zihan Li, Wenchuan Wu, Qiyuan Tian, Ziyu Li*<br>
     <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Presentation)
