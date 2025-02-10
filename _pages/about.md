@@ -323,7 +323,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, IEEE TCDS; IEEE TCAS-I; IEEE TCAS-II; IEEE TIP; Applied Intelligence.
-+ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; MICCAI 2025.
++ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025.
   
 # 🎣 Activities
 - *2024.11.24*, Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/cb1c15b029cec4e7.jpg)
