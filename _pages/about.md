@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.02.12:** 🎉🎉 🎉🎉 Our several papers have been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
+
 **2025.02.01:** 🎉🎉 🎉🎉 Our several papers have been accepted by [ISMRM 2025](https://www.ismrm.org/25m/).
 
 **2025.01.03:** 🎉🎉 Our paper addressed [Remote Photoplethysmography](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
@@ -163,6 +165,18 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
  
 #### CONFERENCE ABSTRACTS
 <ol reversed>
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Haibo Qu, Qiyuan Tian*<br>
+    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
+  </li>
+
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">&#x3C9;-DAE: Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder</span> <br>
+    Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
+    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
+  </li>
+  
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage</span> <br>
     <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Yang H, Zheng J, Li ZH, Li ZY, Qu H, Tian Q*<br>
