@@ -31,7 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2025.02.16:** Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://img.erpweb.eu.org/imgs/2025/02/42b4445e9e936afb.jpg)
+**2025.02.16:** Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://img.erpweb.eu.org/imgs/2025/02/fc0bf20835bfe885.jpg)
 
 **2025.02.12:** 🎉🎉 Our several papers have been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
 
