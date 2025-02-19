@@ -342,7 +342,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science).
   
 # 🎣 Activities
-- *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://img.erpweb.eu.org/imgs/2025/02/42b4445e9e936afb.jpg)
+- *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://img.erpweb.eu.org/imgs/2025/02/fc0bf20835bfe885.jpg)
 - *2024.11.24*, Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/cb1c15b029cec4e7.jpg)
 - *2024.09.22*, Attended the 2024 Annual Meeting of the Neuroimaging Committee of Chinese Psychological Society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
 - *2024.07.20*, Attended the 9th National Biomedical Engineering Innovation Design Competition for College Students, held in Sanya. [Photo](https://img.erpweb.eu.org/imgs/2024/07/aed77c3330a9ef9c.jpg)
