@@ -178,6 +178,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
+
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Volume Reconstruction from Single MRI Thick-slice Stack with Deep Learning for Fetal Brain</span> <br>
+    Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
+    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
+  </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage</span> <br>
