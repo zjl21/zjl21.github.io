@@ -20,14 +20,14 @@ layout: compress
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
-          <!-- New component starts -->
-          <a href="https://time.is/Anywhere_on_Earth" id="time_is_link" rel="nofollow" style="font-size:18px">Current Time Anywhere on Earth:</a>
+          <!-- 新组件开始 -->
+          <a href="https://time.is/Anywhere_on_Earth" id="time_is_link" rel="nofollow" style="font-size:18px">Anywhere on Earth Time:</a>
           <span id="_zU-720" style="font-size:18px; display:inline;"></span>
           <script src="//widget.time.is/zh.js"></script>
           <script>
-          time_is_widget.init({"_zU-720":{id:"Anywhere_on_Earth_zU-720", template:"TIME<br>DATE", date_format:"year-mnum-dnum-dayname"}});
+          time_is_widget.init({"_zU-720":{id:"Anywhere_on_Earth_zU-720", template:"TIME DATE", date_format:"year-mnum-dnum-dayname"}});
           </script>
-          <!-- New component ends -->
+          <!-- 新组件结束 -->
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
