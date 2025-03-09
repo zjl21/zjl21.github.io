@@ -184,7 +184,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 
   <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">&#x3C9;-DAE: Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder</span> <br>
+    <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
     Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
     <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
