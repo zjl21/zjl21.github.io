@@ -333,7 +333,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://arktis2022.github.io/) *2024* **2024 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **2024 ICCBD+AI Best Paper Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/e01c9a39ab4705eb.png) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/1646fe4986f106aa.jpg) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/3725764c812767de.jpg) *2022* **Scholarship for Academic Excellence**, Tsinghua University 
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/fa3e12191add4d53.jpg) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
