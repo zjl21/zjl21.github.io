@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.03.28:** 🎉🎉 Our paper addressed [Multidisease Detection and Localization](https://openreview.net/forum?id=ns6nq592HX#discussion) has been accepted by [MIDL 2025](https://2025.midl.io/).
+
 **2025.03.06:** 🎉🎉 Our paper addressed [Fetal Cortical Surface Reconstruction](https://openreview.net/forum?id=Ra0xioC3He) has been accepted by [ICLR 2025 Workshop AI4CHL](https://pediamedai.com//ai4chl/) as Oral Paper Presentation.
 
 **2025.02.16:** Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
@@ -121,7 +123,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
     <a href="https://openreview.net/forum?id=ns6nq592HX&referrer=%5Bthe%20profile%20of%20Yifei%20Chen%5D(%2Fprofile%3Fid%3D~Yifei_Chen18">[Paper]</a> <br> 
     Xuguang Bai#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yifei Chen, Hongjia Yang, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Submitted)
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
   </li>
 
   <li id="CP-Pubx"> 
