@@ -149,7 +149,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CP-Pub6"> 
     <span style="color:#000000; font-weight:bold;">Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks</span> <br>
-    <a href="https://arxiv.org/abs/2308.10187">[Paper]</a> <a href="https://github.com/Arktis2022/Spiking-Diffusion">[Code]</a> <br> 
+    <a href="https://ieeexplore.ieee.org/document/10933745">[Paper]</a> <a href="https://github.com/Arktis2022/Spiking-Diffusion">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jie Gan#, Rui Wen#, Tao Li, Yongli Chen, Hong Chen* <br>
     <i>IEEE International Conference on Computer, Big Data and Artificial Intelligence <strong>(ICCBD+AI). </strong></i> 2024. (Best Paper Award)
   </li>
