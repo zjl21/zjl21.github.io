@@ -209,7 +209,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry</span> <br>
     Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Li H, Zhu J, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation)
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
   
   <li id="CA-Pub0"> 
@@ -227,7 +227,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
      Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
   
   <li id="CA-Pub0"> 
@@ -239,13 +239,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DeepEddy: high-quality fast eddy current and bulk motion correction using deep learning-based image synthesis and co-registration</span> <br>
     Zhang J, Lange F, Andersson J, Zheng J, Jing Y, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Li Z, Wu W, Tian Q, Li Z*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation)
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, Magna Cum Laude Merit Award, Top 15%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
     Li Z, Zheng J, Li Z, Wang Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Ning G, Liao H, Tian Q*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Power Pitch)
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
   </li>
 
   <li id="CA-Pub0"> 
