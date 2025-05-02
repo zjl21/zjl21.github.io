@@ -182,21 +182,26 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 #### CONFERENCE SHORT PAPERS
 <ol reversed>
-  <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
-  <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <br> 
-  Yingqi Hao#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-  <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
+    <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <br> 
+    Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+  </li>
 
-  <span style="color:#000000; font-weight:bold;">Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry</span> <br>
-  <a href="https://openreview.net/forum?id=iLBipDelQu">[Paper]</a> <br> 
-  Yijin Li#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-  <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+ <li id="CA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry</span> <br>
+    <a href="https://openreview.net/forum?id=iLBipDelQu">[Paper]</a> <br> 
+    Yijin Li#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+</li>
 
-  <span style="color:#000000; font-weight:bold;">Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T MRI</span> <br>
-  <a href="https://openreview.net/forum?id=fn8aDbnylG">[Paper]</a> <br> 
-  Haoxiang Li#, Mingxuan Liu#, Hongjia Yang, Yi Liao, Haibo Qu, Jonathan R. Polimeni, Qiyuan Tian* <br>
-  <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
-
+  <li id="CA-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T MRI</span> <br>
+    <a href="https://openreview.net/forum?id=fn8aDbnylG">[Paper]</a> <br> 
+    Haoxiang Li#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Hongjia Yang, Yi Liao, Haibo Qu, Jonathan R. Polimeni, Qiyuan Tian* <br>
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+  </li>
 </ol>
 
 
