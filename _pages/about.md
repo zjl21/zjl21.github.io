@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.05.02:** 🎉🎉 Our several short papers have been accepted by [MIDL 2025](https://2025.midl.io/).
+
 **2025.04.24:** Attended the the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
 
 **2025.03.28:** 🎉🎉 Our paper addressed [Multidisease Detection and Localization](https://openreview.net/forum?id=ns6nq592HX#discussion) has been accepted by [MIDL 2025](https://2025.midl.io/).
@@ -177,7 +179,27 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022. (Oral Paper Presentation)
   </li>
 </ol>
- 
+
+#### CONFERENCE SHORT PAPERS
+<ol reversed>
+  <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
+  <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <br> 
+  Yingqi Hao#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+  <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+
+  <span style="color:#000000; font-weight:bold;">Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry</span> <br>
+  <a href="https://openreview.net/forum?id=iLBipDelQu">[Paper]</a> <br> 
+  Yijin Li#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+  <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+
+  <span style="color:#000000; font-weight:bold;">Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T MRI</span> <br>
+  <a href="https://openreview.net/forum?id=fn8aDbnylG">[Paper]</a> <br> 
+  Haoxiang Li#, Mingxuan Liu#, Hongjia Yang, Yi Liao, Haibo Qu, Jonathan R. Polimeni, Qiyuan Tian* <br>
+  <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+
+</ol>
+
+
 #### CONFERENCE ABSTRACTS
 <ol reversed>
   <li id="CA-Pub0"> 
