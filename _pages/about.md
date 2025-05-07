@@ -376,6 +376,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
 
 # 🦜 Invited Talks
+- *2024* **2024 Annual Meeting of Radiological Society of North America**
 - *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition**
 - *2023* **AI Health Summit 2023**
 - *2023* **2023 IEEE International Symposium on Circuits and Systems**
