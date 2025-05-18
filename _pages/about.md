@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.05.14:** Attended the the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
+
 **2025.05.02:** 🎉🎉 Our several short papers have been accepted by [MIDL 2025](https://2025.midl.io/).
 
 **2025.04.24:** Attended the the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
@@ -392,6 +394,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025.
   
 # 🎣 Activities
+- *2025.05.14*, Attended the the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
 - *2025.04.24*, Attended the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
 - *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
 - *2024.11.24*, Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/cb1c15b029cec4e7.jpg)
