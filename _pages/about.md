@@ -31,6 +31,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.05.24:** 🎉🎉 Awarded **2025 OHBM Merit Abstract Award** !
+
 **2025.05.19:** Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
 
 **2025.05.14:** Attended the the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
@@ -215,7 +217,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Haibo Qu, Qiyuan Tian*<br>
     <a href="https://hal.science/hal-04974115">[Paper]</a> <br> 
-    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
+    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster, OHBM Merit Abstract Award)
   </li>
 
   <li id="CA-Pub0"> 
