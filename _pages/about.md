@@ -24,8 +24,6 @@ I was previously advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.c
 
 You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://drive.google.com/file/d/1_AdwP3kM8S54H9hw5yXXT3xNGdMc7l6u/view?usp=sharing).
 
-[My previous profile in Chinese](https://mp.weixin.qq.com/s/yvf6LKf-0XhFasQ4mtH-mQ).
-
 Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
