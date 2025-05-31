@@ -414,6 +414,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://img.erpweb.eu.org/imgs/2024/02/0cb68379b33a36d5.png)
 - *2023.10.02*, Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/02/5514cfe5a7abca58.png)
 - *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
+
+# 📚 Book Reading
+- *2025.05.01 – 2025.05.31*, [**The House on the Borderland**](https://en.wikipedia.org/wiki/The_House_on_the_Borderland) by William Hope Hodgson. 
   
 # 🫶 Other
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/379f54cbbf11e115.jpg) *2024* **United Nations Children's Fund (unicef) Second Anniversary Commemorative Certificate**
