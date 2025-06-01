@@ -164,7 +164,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CP-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections</span> <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10181639">[Paper]</a> <br> 
+    <a href="https://ieeexplore.ieee.org/abstract/document/10181639">[Paper]</a> <a href="https://github.com/Arktis2022/Skip-TS">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yunrui Jiao, Hong Chen* <br>
     <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023. (Oral Paper Presentation)
   </li>
