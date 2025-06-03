@@ -394,7 +394,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, IEEE TCDS; IEEE TCAS-I; IEEE TCAS-II; IEEE TIP; Applied Intelligence.
-+ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025.
++ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT).
   
 # 🎣 Activities
 - *2025.05.14*, Attended the the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
