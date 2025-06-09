@@ -383,7 +383,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025. (Under Review)
   </li>
 
-    <li id="MA-Pub3"> 
+  <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen 3*, Chuanchi Wang, Hu Jingqing<br>
     Jialan Zheng, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*  
