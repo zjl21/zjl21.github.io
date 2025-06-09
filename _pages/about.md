@@ -379,7 +379,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
-    Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen 3*, Chuanchi Wang, Hu Jingqing<br>
+    Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen*, Chuanchi Wang, Hu Jingqing<br>
     <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025. (Under Review)
   </li>
 
