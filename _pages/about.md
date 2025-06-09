@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/19b78b50-725c-437f-9197-db93074e07ef)![image](https://github.com/user-attachments/assets/2f1626a6-cb55-45bc-bc2e-885e755766f3)![image](https://github.com/user-attachments/assets/c3bf24bc-d094-4eb9-9265-5e445ce334d9)![image](https://github.com/user-attachments/assets/31b32fff-9ee9-4153-aa00-13458dab49f0)![image](https://github.com/user-attachments/assets/f84d1c3a-a069-4948-a30d-30c27c84c370)---
 permalink: /
 title: ""
 author_profile: true
@@ -108,7 +108,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-#### JOURNAL PAPERS
+
+<h2 id="JOURNAL PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">JOURNAL PAPERS</h2>
+
 <ol reversed>
 <li id="JP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer</span> <br> 
@@ -125,7 +127,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 </ol>
 
-#### CONFERENCE PAPERS
+
+<h2 id="CONFERENCE PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE PAPERS</h2>
+
 <ol reversed>
   <li id="CP-Pubx"> 
     <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
@@ -184,7 +188,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 </ol>
 
-#### CONFERENCE SHORT PAPERS
+
+<h2 id="CONFERENCE SHORT PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE SHORT PAPERS</h2>
+
 <ol reversed>
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
@@ -209,7 +215,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 
-#### CONFERENCE ABSTRACTS
+<h2 id="CONFERENCE ABSTRACTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE ABSTRACTS</h2>
+
 <ol reversed>
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
@@ -355,6 +362,35 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 </ol>
 
+<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>
+
+<ol reversed>
+  <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Why Temporal Normalization is Essential for Remote Photoplethysmography?</span> <br>
+    Kegang Wang, Jiankai Tang, Yantao Wei, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xin Liu, Yuntao Wang*<br> 
+    <i> ACM Multimedia <strong>(ACM MM). </strong></i> 2025. (Under Review)
+  </li>
+
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation</span> <br>
+    Yuanhan Wang, Yifei Chen, Shuo Jiang, Wenjing Yu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghao Zhu, Feiwei Qin, Changmiao Wang*<br> 
+    <i>The British Machine Vision Conference <strong>(BMVC). </strong></i> 2025. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
+    Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen 3*, Chuanchi Wang, Hu Jingqing<br>
+    <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025. (Under Review)
+  </li>
+
+    <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
+    Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen 3*, Chuanchi Wang, Hu Jingqing<br>
+    Jialan Zheng, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*  
+
+    <i>Imaging Neuroscience <strong>(ImagingNeurosci). </strong></i> 2025. (Under Review)
+  </li>
+</ol>
 
 # 🎖 Honors and Awards
 - [[Certificate]](https://arktis2022.github.io/) *2025* **2025 OHBM: Merit Abstract Award**
