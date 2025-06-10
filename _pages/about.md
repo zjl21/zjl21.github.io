@@ -362,7 +362,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 </ol>
 
-<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>
+<h2 id="Manuscripts Under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>
 
 <ol reversed>
   <li id="MA-Pub0"> 
