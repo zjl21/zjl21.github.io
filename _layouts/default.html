@@ -30,15 +30,10 @@ layout: compress
     {% include scripts.html %}
 
     <!-- mapmyvisitors.com 脚本保持不变，它自己在一个 script 标签里 -->
-    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=341&t=tt&d=205wPHv6VMPy-G6P7yhvoJ_-xD30nn9Szu9dx2vgpm8'></script>
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=CPzjW6aXZjEzJxVYHPK8Z6jGcXfDy7SdS3heFhGEXhk"></script>
 
     <!-- 为 "Show more" 功能创建一个新的、独立的 script 标签 -->
     <script>
-      // 这里是你之前注释掉的旧版本代码，现在可以删除了，或者保持注释状态如果你想参考
-      //   document.addEventListener('DOMContentLoaded', function() {
-      //   const newsContainer = document.querySelector('.news-container');
-      //   // ... (旧代码的其余部分) ...
-      // });
 
       document.addEventListener('DOMContentLoaded', function() {
         console.log("DEBUG: DOM fully loaded and parsed"); // 1. 确认 DOMContentLoaded 事件触发
