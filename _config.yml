@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingxuan Liu (刘铭轩)"
+title                    : "Jialan Zheng (郑佳兰)"
 description              : --------------
-repository               : "Arktis2022/Arktis2022.github.io"
+repository               : "zjl21/zjl21.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingxuan Liu"
+  name             : "Jialan Zheng"
   avatar           : "images/profile.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
