@@ -355,7 +355,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   
 # 🔗 LINKS
 
-- BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)
-- Haoxiang Li: [School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)
-- Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/)
-- Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)
+- [BIRTHLab](https://birthlab.github.io/): The lab for Brain Imaging Research at Tsinghua
+- [Mingxuan Liu](https://arktis2022.github.io/): School of Biomedical Engineering, Tsinghua University
+- [Haoxiang Li]((https://lihaoxiang-20.github.io/)): School of Biomedical Engineering, Tsinghua University
+- [Yifei Chen](https://justlfc03.github.io/): School of Biomedical Engineering, Tsinghua University
+- [Yingqi Hao](https://yingqihao2022.github.io/): School of Biomedical Engineering, Tsinghua University
