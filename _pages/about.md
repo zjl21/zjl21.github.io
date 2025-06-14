@@ -79,9 +79,9 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author
 
 
-<h2 id="FIRST AUTHOR CONFERENCE ABSTRACTS" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">FIRST AUTHOR CONFERENCE ABSTRACTS <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[+]</span></h2>
+<h2 id="FIRST AUTHOR CONFERENCE ABSTRACTS" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">FIRST AUTHOR CONFERENCE ABSTRACTS <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
 
-<div class="collapsible-target" markdown="1" style="display: none;">
+<div class="collapsible-target" markdown="1">
 
 <ol reversed>
 
@@ -297,9 +297,9 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 </div>
 
-<h2 id="Manuscripts Under Review" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts Under Review <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[+]</span></h2>
+<h2 id="Manuscripts Under Review" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts Under Review <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
 
-<div class="collapsible-target" markdown="1" style="display: none;">
+<div class="collapsible-target" markdown="1">
 
 <ol reversed>
 
@@ -324,8 +324,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 - *2025* **ISMRM: Educational Stipend Award**
 - *2024* **National Scholarship, Ministry of Education**, P.R. China <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 5/130 in department*.
 - *2024* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
-- *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students** [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing)<br> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
-- *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
+- *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students** [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing)<br> &nbsp; &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
+- *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
 - *2024* **ISMRM: Educational Stipend Award**
 - *2023* **National Scholarship, Ministry of Education**, P.R. China <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 2/130 in department*.
 - *2023* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University.
