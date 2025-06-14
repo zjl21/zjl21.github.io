@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jialan Zheng"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ"
-  email            : "arktis@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Mingxuan-Liu-18"
+  googlescholar    : "https://scholar.google.com/citations?user=JbeHQAIAAAAJ&hl=zh-CN"
+  email            : "zhengjialan21@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Arktis2022"
+  github           : "zjl21"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-0603-4228"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

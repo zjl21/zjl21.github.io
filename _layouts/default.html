@@ -20,14 +20,6 @@ layout: compress
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
-          <!-- 新组件开始 -->
-          <a href="https://time.is/Anywhere_on_Earth" id="time_is_link" rel="nofollow" style="font-size:18px">Anywhere on Earth Time:</a>
-          <span id="_zU-720" style="font-size:18px; display:inline;"></span>
-          <script src="//widget.time.is/zh.js"></script>
-          <script>
-          time_is_widget.init({"_zU-720":{id:"Anywhere_on_Earth_zU-720", template:"TIME DATE", date_format:"year年mnum月dnum日dayname"}});
-          </script>
-          <!-- 新组件结束 -->
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
@@ -37,7 +29,102 @@ layout: compress
 
     {% include scripts.html %}
 
+    <!-- mapmyvisitors.com 脚本保持不变，它自己在一个 script 标签里 -->
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=341&t=tt&d=205wPHv6VMPy-G6P7yhvoJ_-xD30nn9Szu9dx2vgpm8'></script>
+
+    <!-- 为 "Show more" 功能创建一个新的、独立的 script 标签 -->
+    <script>
+      // 这里是你之前注释掉的旧版本代码，现在可以删除了，或者保持注释状态如果你想参考
+      //   document.addEventListener('DOMContentLoaded', function() {
+      //   const newsContainer = document.querySelector('.news-container');
+      //   // ... (旧代码的其余部分) ...
+      // });
+
+      document.addEventListener('DOMContentLoaded', function() {
+        console.log("DEBUG: DOM fully loaded and parsed"); // 1. 确认 DOMContentLoaded 事件触发
+
+        const newsContainer = document.querySelector('.news-container');
+        console.log("DEBUG: News container element:", newsContainer); // 2. 检查 newsContainer 是否被选中
+
+        if (!newsContainer) {
+          console.warn('DEBUG: News container (.news-container) not found. Script will not run further for news.');
+          return; // 如果没找到容器，后续代码不执行
+        }
+
+        // 确保 newsContainer 存在后再尝试 querySelectorAll
+        const newsItems = Array.from(newsContainer.querySelectorAll('p'));
+        const itemsToShowInitially = 5;
+
+        // 5. 检查新闻条目数量是否足够显示 "Show more" 按钮
+        if (newsItems.length <= itemsToShowInitially) {
+          console.log("DEBUG: Not enough news items (" + newsItems.length + ") to warrant a 'Show more' button. Total items: " + newsItems.length + ", Needed > " + itemsToShowInitially);
+          return; // 如果条目不足，不创建按钮
+        }
+
+        // 初始隐藏第 itemsToShowInitially 条之后的新闻
+        for (let i = itemsToShowInitially; i < newsItems.length; i++) {
+          if (newsItems[i]) {
+            newsItems[i].style.display = 'none';
+          }
+        }
+        // 创建 "Show more" 按钮
+        const showMoreButton = document.createElement('button');
+        showMoreButton.textContent = 'Show more';
+        showMoreButton.className = 'show-more-button'; // 用于CSS样式
+
+        // 将按钮添加到 newsContainer 的末尾
+        newsContainer.appendChild(showMoreButton);
+
+        // 给按钮添加点击事件
+        let showingAll = false;
+
+        showMoreButton.addEventListener('click', function() {
+          showingAll = !showingAll;
+
+          for (let i = itemsToShowInitially; i < newsItems.length; i++) {
+            if (newsItems[i]) {
+              newsItems[i].style.display = showingAll ? '' : 'none'; // '' 会恢复默认 display
+            }
+          }
+
+          this.textContent = showingAll ? 'Show less' : 'Show more';
+        });
+      });
+
+        document.addEventListener('DOMContentLoaded', function() {
+        const triggers = document.querySelectorAll('.collapsible-trigger');
+
+        triggers.forEach(trigger => {
+          // 可折叠的内容预期是触发器元素的下一个兄弟元素
+          const target = trigger.nextElementSibling;
+          const symbolSpan = trigger.querySelector('.toggle-symbol');
+
+          // 确保目标元素存在并且有正确的类名
+          if (target && target.classList.contains('collapsible-target')) {
+            trigger.style.cursor = 'pointer'; // 让标题看起来可点击
+
+            trigger.addEventListener('click', function() {
+              const isHidden = target.style.display === 'none' || target.style.display === '';
+              
+              if (isHidden) {
+                target.style.display = 'block'; // 显示内容
+                if (symbolSpan) {
+                  symbolSpan.textContent = '[-]'; // 将符号改为减号
+                }
+              } else {
+                target.style.display = 'none'; // 隐藏内容
+                if (symbolSpan) {
+                  symbolSpan.textContent = '[+]'; // 将符号改为加号
+                }
+              }
+            });
+          } else {
+            // 可选：如果结构不如预期，可以打印警告
+            // console.warn('找到了可折叠触发器，但没有找到有效的相邻目标元素：', trigger);
+          }
+        });
+      });
+    </script>
 
   </body>
 </html>
