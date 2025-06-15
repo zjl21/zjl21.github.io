@@ -26,7 +26,6 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <a href='https://scholar.google.com/citations?hl=zh-CN&user=JbeHQAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-
 <div class="news-container" markdown="1" id='-news'>
 
 # 🔥 News
