@@ -32,7 +32,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
-<p><strong>2025.05.28:</strong> 🎉🎉 Awarded <strong>Future Scholars Scholarship</strong>!</p>
+<p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
 <p><strong>2025.05.12:</strong> Attended the the ISMRM 2025 in Honolulu and gave a <a href="../images/ISMRM-2025-poster.jpg">poster presentation</a>.</p>
 
@@ -320,7 +320,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 - *2025* **Outstanding Bachelor's Graduate of Beijing**<br /> &nbsp; &nbsp; &nbsp; &nbsp; *6/130 in department*
 - *2025* **Outstanding Bachelor's Graduate of Tsinghua University**<br /> &nbsp; &nbsp; &nbsp; &nbsp; *2/130 in department*
-- *2025* **Future Scholars Scholarship** <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top 3 in department*.
+- *2025* [**Future Scholars Scholarship**](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm) <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top 3 in department*.
 - *2025* **ISMRM: Educational Stipend Award**
 - *2024* **National Scholarship, Ministry of Education**, P.R. China <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 5/130 in department*.
 - *2024* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
