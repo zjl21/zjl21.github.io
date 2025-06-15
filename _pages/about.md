@@ -14,7 +14,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 
 # 😉 About Me
 
@@ -52,6 +52,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2024.07.25:</strong> 🎉🎉 Awarded <a href="../images/NBMEC-1st.pdf">the 1st prize</a> at the 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).</p>
 
+<p><strong>2024.06.25:</strong> Travel to Boston for summer research.</p>
+
 <p><strong>2024.05.08:</strong> Attended the ISMRM 2024 in Singapore and gave a <a href="../images/ISMRM-2024-poster.png">poster presentation</a>.</p>
 
 <p><strong>2024.02.13:</strong> 🎉🎉 Awarded <strong>Educational Stipend Award</strong> by ISMRM 2024.</p>
@@ -70,9 +72,17 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 </div>
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 
 - *2021.09 - 2025.06*, Undergraduate student: **Tanwei College** (Major in **Chemical Biology + Biomedical Engineering**), Tsinghua University, China. 
+
+<span class='anchor' id='-internships'></span>
+
+# 💻 Internships
+
+- *2024.06 - 2024.09*, student intern: [**Athinoula A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/), Massachusetts General Hospital, Harvard Medical School, MA, USA. Research under Professor [Susie Y. Huang](https://www.martinos.org/investigator/susie-huang/) and [Hong-Hsi Lee](https://leehhtw.github.io/).
 
 # 📝 Publications 
 
@@ -342,10 +352,30 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 💰 Funding
 
+<h2 id="PROJECT LEADER" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">PROJECT LEADER <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
+
+<div class="collapsible-target" markdown="1">
+
 - *2024-2026* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥50k)
 - *2024* **"Venture into the World" Undergraduate Summer Overseas Study Support Program**, Tsinghua University (¥19k)
 - *2023-2024* **Initiative Scientific Research Program**, Tsinghua University (¥20k)
 - *2023-2024* **Student Research Training (SRT) Program**, Tsinghua University (¥5k)
+
+</div>
+
+<h2 id="KEY MEMBER" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">KEY MEMBER <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[+]</span></h2>
+
+<div class="collapsible-target" markdown="1" style="display: none;">
+
+- *2025-2026* **Initiative Scientific Research Program**, Tsinghua University
+- *2025-2026* **Initiative Scientific Research Program**, Tsinghua University (as instructor)
+- *2024-2027* **Capital Health Development Special Program for Major Brain Diseases** (Outstanding Young Investigator Innovation Project) (¥200k)
+- *2024-2026* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥80k)
+- *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥50k)
+- *2023-2024* **Initiative Scientific Research Program**, Tsinghua University (¥50k)
+
+</div>
+
 
 <span class='anchor' id='-academic-service'></span>
 
