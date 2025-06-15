@@ -24,6 +24,9 @@ I am very fortunate to be advised by [Prof. Qiyuan Tian](https://bme.tsinghua.ed
 
 You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf).
 
+<a href='https://scholar.google.com/citations?hl=zh-CN&user=JbeHQAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
 <div class="news-container" markdown="1" id='-news'>
 
 # 🔥 News
@@ -45,6 +48,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2024.12.25:</strong> 🎉🎉 Our paper regarding <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Zheng,%20Jialan.pdf">short-range association fibers</a> have been accepted by <a href="https://www.ismrm.org/workshops/2025/Diffusion40/">ISMRM 2025 Workshop on 40 Years of Diffusion</a> as oral presentation!</p>
 
 <p><strong>2024.12.11:</strong> 🎉🎉 Awarded <strong>Scholarship for Science and Technology Innovation Excellence</strong> by Tsinghua University.</p>
+
+<p><strong>2024.09.18:</strong> 🎉🎉 Admitted to the <strong>Ph.D. program in Biomedical Engineering at Tsinghua University</strong>, under the supervision of <strong>Prof. Qiyuan Tian</strong>.</p>
 
 <p><strong>2024.09.02:</strong> 🎉🎉 Awarded <strong>Beijing Natural Science Foundation funding</strong> as Principal Investigator!</p>
 
