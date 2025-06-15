@@ -343,7 +343,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 # 💰 Funding
 
 - *2024-2026* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥50k)
-- *2024* **"Venture into the World" Undergraduate SUmmer Overseas Study Support Program**, Tsinghua University (¥19k)
+- *2024* **"Venture into the World" Undergraduate Summer Overseas Study Support Program**, Tsinghua University (¥19k)
 - *2023-2024* **Initiative Scientific Research Program**, Tsinghua University (¥20k)
 - *2023-2024* **Student Research Training (SRT) Program**, Tsinghua University (¥5k)
 
