@@ -48,11 +48,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2024.12.11:</strong> 🎉🎉 Awarded <strong>Scholarship for Science and Technology Innovation Excellence</strong> by Tsinghua University.</p>
 
+<p><strong>2024.10.10:</strong> 🎉🎉 Awarded <strong>National Scholarship</strong> by Ministry of Education!</p>
+
 <p><strong>2024.09.18:</strong> 🎉🎉 Admitted to the <strong>Ph.D. program in Biomedical Engineering at Tsinghua University</strong>, under the supervision of <strong>Prof. Qiyuan Tian</strong>.</p>
 
 <p><strong>2024.09.02:</strong> 🎉🎉 Awarded <strong>Beijing Natural Science Foundation funding</strong> as Principal Investigator!</p>
-
-<p><strong>2024.12.11:</strong> 🎉🎉 Awarded <strong>Scholarship for Science and Technology Innovation Excellence</strong> by Tsinghua University.</p>
 
 <p><strong>2024.07.25:</strong> 🎉🎉 Awarded <a href="../images/NBMEC-1st.pdf">the 1st prize</a> at the 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).</p>
 
@@ -332,16 +332,16 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🎖 Honors and Awards 
 
-- *2025* **Outstanding Bachelor's Graduate of Beijing**<br /> &nbsp; &nbsp; &nbsp; &nbsp; *6/130 in department*
-- *2025* **Outstanding Bachelor's Graduate of Tsinghua University**<br /> &nbsp; &nbsp; &nbsp; &nbsp; *2/130 in department*
-- *2025* [**Future Scholars Scholarship**](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm) <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top 3 in department*.
-- *2025* **ISMRM: Educational Stipend Award**
-- *2024* **National Scholarship, Ministry of Education**, P.R. China <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 5/130 in department*.
-- *2024* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
-- *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students** [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing)<br> &nbsp; &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
-- *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
+- *2025* **Outstanding Bachelor's Graduate of Beijing**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *6/130 in department*
+- *2025* **Outstanding Bachelor's Graduate of Tsinghua University**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *2/130 in department*
+- *2025* [**Future Scholars Scholarship**](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm). <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top 3 in department*.
+- *2025* **ISMRM: Educational Stipend Award**.
+- *2024* **National Scholarship, Ministry of Education**, P.R. China. <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 5/130 in department*.
+- *2024* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University.
+- *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students**. [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing)<br> &nbsp; &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
+- *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University**. <br /> &nbsp; &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
 - *2024* **ISMRM: Educational Stipend Award**
-- *2023* **National Scholarship, Ministry of Education**, P.R. China <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 2/130 in department*.
+- *2023* **National Scholarship, Ministry of Education**, P.R. China. <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 2/130 in department*.
 - *2023* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University.
 - *2022* **Scholarship for Comprehensive Excellence**, Tsinghua University.
 - *2022* **Scholarship for Academic Excellence**, Tanwei College.
@@ -350,7 +350,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🦜 Invited Talks
 
-- *2025* **ISMRM workshop on 40 years of diffusion: past, present and future perspective**
+- *2025* **ISMRM workshop on 40 years of diffusion: past, present and future perspective**.
 
 <span class='anchor' id='-funding'></span>
 
