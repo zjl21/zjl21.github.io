@@ -123,7 +123,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="FCA-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Revealing Diffusion Frequency-Dependence in Surface-to-Volume Ratio limit using OGSE sequence on the Connectome 2.0 Scanner.</span> <br>
     <a href="../images/ISMRM-2025-OGSE.pdf">[Paper]</a>  <br>
-    <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Wen Zhong, Dongsuk Song, Julianna Gerold, Qiyuan Tian, Hua Guo, Susie Y. Huang, Lee Hong-Hsi*<br>
+    <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Wen Zhong, Dongsuk Song, Julianna Gerold, Qiyuan Tian, Hua Guo, Susie Y. Huang, Hong-Hsi Lee*<br>
     <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
   </li>
 
