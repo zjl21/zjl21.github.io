@@ -102,21 +102,21 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="FCA-Pub5"> 
     <span style="color:#000000; font-weight:bold;">Quantification of Human Brain White Matter Myelination using ViSTa MRI Fingerprinting</span> <br>
      <a href="../images/OHBM-2025-myelin.pdf">[Paper]</a>  <br>
-     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Li Z, Mingxuan Liu, Hongjia Yang, Cao X, Liao C, Salat DH, Huang SY, Qiyuan Tian*<br>
+     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Zihan Li, Mingxuan Liu, Hongjia Yang, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
     <i>the annual meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
 
   <li id="FCA-Pub4"> 
     <span style="color:#000000; font-weight:bold;">Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation</span> <br>
      <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Zheng,%20Jialan.pdf">[Paper]</a>  <br>
-     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Li Z, Mingxuan Liu, Hongjia Yang, Cao X, Liao C, Salat DH, Huang SY, Qiyuan Tian*<br>
+     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Zihan Li, Mingxuan Liu, Hongjia Yang, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
     <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Presentation)
   </li>
 
   <li id="FCA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Impacts of diffusion MRI spatial resolution on the short-range association fiber reconstruction and connectivity estimation</span> <br>
     <a href="../images/ISMRM-2025-SAF.pdf">[Paper]</a>  <br>
-    <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Zihan Li, Mingxuan Liu, Hongjia Yang, Cao X, Liao C, Salat DH, Huang SY, Qiyuan Tian*<br>
+    <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Zihan Li, Mingxuan Liu, Hongjia Yang, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
     <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
   </li>
 
