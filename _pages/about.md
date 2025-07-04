@@ -30,6 +30,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2025.06.29:</strong> 🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/qrd2wtS4ZCoU63NVBsOmPA"><strong>Outstanding Graduate Spotlight</strong></a> by the School of Biomedical Engineering, Tsinghua University!</p>
+
 <p><strong>2025.06.25:</strong> Attended the the OHBM 2025 in Brisbane and gave a <a href="../images/OHBM-2025-poster.png">poster presentation</a>.</p>
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
