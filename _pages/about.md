@@ -30,9 +30,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2025.07.18:</strong> Attended the MICS 2025 in Cixi, China.</p>
+
 <p><strong>2025.06.29:</strong> 🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/qrd2wtS4ZCoU63NVBsOmPA"><strong>Outstanding Graduate Spotlight</strong></a> by the School of Biomedical Engineering, Tsinghua University!</p>
 
-<p><strong>2025.06.25:</strong> Attended the the OHBM 2025 in Brisbane and gave a <a href="../images/OHBM-2025-poster.png">poster presentation</a>.</p>
+<p><strong>2025.06.25:</strong> Attended the the OHBM 2025 in Brisbane, Australia and gave a <a href="../images/OHBM-2025-poster.png">poster presentation</a>.</p>
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
@@ -40,7 +42,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
-<p><strong>2025.05.12:</strong> Attended the the ISMRM 2025 in Honolulu and gave a <a href="../images/ISMRM-2025-poster.jpg">poster presentation</a>.</p>
+<p><strong>2025.05.12:</strong> Attended the the ISMRM 2025 in Honolulu, USA and gave a <a href="../images/ISMRM-2025-poster.jpg">poster presentation</a>.</p>
 
 <p><strong>2025.02.17:</strong> Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present and Future Perspectives in Kyoto, Japan and gave an <a href="../images/ISMRM-diffusion-workshop-2025-oral.jpg">oral presentation</a>.</p>
 
