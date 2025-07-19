@@ -32,13 +32,19 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.07.18:</strong> Attended the MICS 2025 in Cixi, China.</p>
 
+<p><strong>2025.07.11:</strong> Visited Xiamen to meet with the Magnetic Resonance guided Focused UltraSound (MRgFUS) project team at West China Xiamen Hospital, Sichuan University.</p>
+
 <p><strong>2025.06.29:</strong> 🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/qrd2wtS4ZCoU63NVBsOmPA"><strong>Outstanding Graduate Spotlight</strong></a> by the School of Biomedical Engineering, Tsinghua University!</p>
 
 <p><strong>2025.06.25:</strong> Attended the the OHBM 2025 in Brisbane, Australia and gave a <a href="../images/OHBM-2025-poster.png">poster presentation</a>.</p>
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
-<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
+<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
