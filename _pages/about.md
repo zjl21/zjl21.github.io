@@ -40,7 +40,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
-<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
+<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
@@ -71,6 +75,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2024.02.13:</strong> 🎉🎉 Awarded <strong>Educational Stipend Award</strong> by ISMRM 2024.</p>
 
 <p><strong>2024.02.12:</strong> 🎉🎉 Our paper regarding <a href="https://archive.ismrm.org/2024/2860.html">COVID-19</a> has been accepted by <a href="https://www.ismrm.org/24m/">ISMRM 2024</a>.</p>
+
+<p><strong>2023.12.31:</strong> 🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/lzQ0zM7Qa3cbaBE48SWFLw"><strong>Tanwei Spotlight</strong></a> by Tanwei College, Tsinghua University!</p>
 
 <p><strong>2023.12.11:</strong> 🎉🎉 Awarded <strong>Scholarship for Science and Technology Innovation Excellence</strong> by Tsinghua University.</p>
 
