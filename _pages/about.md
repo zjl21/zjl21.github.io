@@ -161,7 +161,13 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
-    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7">[Paper]</a> <br> 
+    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7
+        
+        
+        
+        
+        
+        ">[Paper]</a> <br> 
     Hongjia Yang#, Guanhua Wang#, Ziyu Li, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yuxin Hu, Xiaozhi Cao, Congyu Liao, Huihui Ye, Qiyuan Tian* <br>
     <i>Magnetic Resonance Materials in Physics, Biology and Medicine <strong>(MAGMA). </strong></i> 2024.
   </li>
@@ -193,6 +199,18 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
+
+  <li id="CCA-RSNA-2025-2"> 
+    <span style="color:#000000; font-weight:bold;">HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure Imaging Using Deep Learning</span> <br>
+    Yuhang He, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, ..., Qiyuan Tian, Ziyu Li*<br>
+    <i> the Annual Meeting of Radiology Society of North America <strong>(RSNA). </strong></i> 2025. (Poster)
+  </li>
+
+  <li id="CCA-RSNA-2025-1"> 
+    <span style="color:#000000; font-weight:bold;">Functional Hand Motor Cortex Is Not Always on Anatomical "Handknob"</span> <br>
+    Ziang Wang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Hongjia Yang, Jennifer McNab, Zuoxiang He, Qiyuan Tian*<br>
+    <i> the Annual Meeting of Radiology Society of North America <strong>(RSNA). </strong></i> 2025. (Poster)
+  </li>
 
   <li id="CCA-OHBM-2025-2"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
