@@ -371,7 +371,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 - *2025* **Outstanding Bachelor's Graduate of Beijing**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *6/130 in department*
 - *2025* **Outstanding Bachelor's Graduate of Tsinghua University**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *2/130 in department*
-- *2025* [**Future Scholars Scholarship**](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm). <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top 3 in department*.
+- *2025* [**Future Scholars Scholarship**](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm). <br> &nbsp; &nbsp; &nbsp; &nbsp; *3/47 in department*.
 - *2025* **ISMRM: Educational Stipend Award**.
 - *2024* **National Scholarship, Ministry of Education**, P.R. China. <br> &nbsp; &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically. 5/130 in department*.
 - *2024* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University.
