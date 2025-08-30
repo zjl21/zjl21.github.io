@@ -18,7 +18,7 @@ redirect_from:
 
 # 😉 About Me
 
-I'm fourth-year undergraduate student from [Tanwei College](https://www.twc.tsinghua.edu.cn/) and [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes diffusion MRI and neuroscience.
+I'm first-year doctoral student from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes diffusion MRI and neuroscience.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian](https://bme.tsinghua.edu.cn/info/1068/1037.htm) of [Birth Lab](https://birthlab.github.io/).
 
@@ -41,6 +41,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        
         
         
         
@@ -94,7 +98,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 📖 Educations
 
-- *2021.09 - 2025.06*, Undergraduate student: **Tanwei College** (Major in **Chemical Biology + Biomedical Engineering**), Tsinghua University, China. 
+- *2021.09 - 2025.06*, Undergraduate student: **Tanwei College** (Major in **Chemical Biology + Biomedical Engineering**), Tsinghua University, China.
+- *2025.09 - now*, Doctoral student: **School of Biomedical Engineering**, Tsinghua University, China.
 
 <span class='anchor' id='-internships'></span>
 
