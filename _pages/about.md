@@ -40,15 +40,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
-<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
-        
-        
-        
-        
-        
-        
-        
-        ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
+<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
