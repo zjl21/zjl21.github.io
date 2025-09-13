@@ -354,7 +354,14 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <ol reversed>
 
-  <li id="MA-Pub3"> 
+  <li id="MA-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">Revealing membrane integrity in human brain using ocillating-gradient diffusion sequence in two frequency-varying regimes</span> <br>
+    <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">[Paper]</a>  <br> 
+    Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee*<br>  
+    <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Under Review)
+  </li>
+
+  <li id="MA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
     <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, Mingxuan Liu, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
