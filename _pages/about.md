@@ -232,7 +232,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="CCA-ISMRM-diffusion-workshop-2025-3"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
     <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Zihan.pdf">[Paper]</a>  <br> 
-     Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Ziang Wang, Mingxuan Liu, Hongjia Yang, Guochen Ning, Hong'en Liao, Qiyuan Tian*<br>
+     Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Ziang Wang, Mingxuan Liu, Hongjia Yang, Guochen Ning, Hongen Liao, Qiyuan Tian*<br>
     <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
   </li>
 
@@ -318,7 +318,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="CCA-RSNA-2024-1"> 
     <span style="color:#000000; font-weight:bold;">Improving Microstructure Quantification using Self-supervised and Physicsinformed Deep Learning.</span> <br>
-    Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Yi Jing, Hong'en Liao, Qiyuan Tian*<br>
+    Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Yi Jing, Hongen Liao, Qiyuan Tian*<br>
     <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Poster)
   </li>
   
