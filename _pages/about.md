@@ -434,4 +434,6 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 - [Mingxuan Liu](https://arktis2022.github.io/): School of Biomedical Engineering, Tsinghua University
 - [Haoxiang Li](https://lihaoxiang-20.github.io/): School of Biomedical Engineering, Tsinghua University
 - [Yifei Chen](https://justlfc03.github.io/): School of Biomedical Engineering, Tsinghua University
+- [Xuguang Bai](https://jasonw375.github.io/): School of Biomedical Engineering, Tsinghua University
+- [Yijin Li](https://liyijin6815.github.io/): School of Biological Science and Medical Engineering, Beihang University.
 - [Yingqi Hao](https://yingqihao2022.github.io/): School of Biomedical Engineering, Tsinghua University
