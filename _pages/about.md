@@ -349,7 +349,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="MUR-Pub3"> 
     <span style="color:#000000; font-weight:bold;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span><br> 
     Yifei Chen#; Zihan Li#; Yuanhan Wang; Yijin Li; <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>; Hongjia Yang; Mingxuan Liu; Tolga Cukur; Qiuyun Fan; Ziyu Li*, Qiyuan Tian*<br>  
-    <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Under Review)
+    <i>Medical Image Analysis <strong>(MedIA). </strong></i> 2025. (Under Review)
   </li>
 
   <li id="MUR-Pub2"> 
@@ -360,19 +360,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="MUR-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
-    <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        ">[Paper]</a>  <br> 
+    <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, Mingxuan Liu, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
     <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Under Review)
   </li>
