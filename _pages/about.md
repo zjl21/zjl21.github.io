@@ -40,7 +40,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
-<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
+<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
@@ -114,7 +118,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
     <span style="color:#000000; font-weight:bold;">Quantification of Human Brain White Matter Myelination using ViSTa MRI Fingerprinting</span> <br>
      <a href="../images/OHBM-2025-myelin.pdf">[Paper]</a>  <br>
      <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Zihan Li, Mingxuan Liu, Hongjia Yang, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
-    <i>the annual meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2025. (Poster)
+    <i>the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
 
   <li id="FCA-Pub4"> 
@@ -128,21 +132,21 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
     <span style="color:#000000; font-weight:bold;">Impacts of diffusion MRI spatial resolution on the short-range association fiber reconstruction and connectivity estimation</span> <br>
     <a href="../images/ISMRM-2025-SAF.pdf">[Paper]</a>  <br>
     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Cong Yang, Wen Zhong, Ziang Wang, Haoxiang Li, Zihan Li, Mingxuan Liu, Hongjia Yang, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
   </li>
 
   <li id="FCA-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Revealing Diffusion Frequency-Dependence in Surface-to-Volume Ratio limit using OGSE sequence on the Connectome 2.0 Scanner.</span> <br>
     <a href="../images/ISMRM-2025-OGSE.pdf">[Paper]</a>  <br>
     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Wen Zhong, Dongsuk Song, Julianna Gerold, Qiyuan Tian, Hua Guo, Susie Y. Huang, Hong-Hsi Lee*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
   </li>
 
   <li id="FCA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Short-term White Matter Microstructural Changes in Young Adults Infected with SARS-COV-2 Omicron Variant.</span> <br>
     <a href="https://archive.ismrm.org/2024/2860.html">[Paper]</a>  <br>
     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Jiachen Liu, Cong Yang, Hongjia Yang, Zihan Li, Haoxiang Li, Haiyan Ding, Xihai Zhao, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Digital Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Digital Poster)
   </li>
 
 </ol>
@@ -158,13 +162,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
-    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7
-        
-        
-        
-        
-        
-        ">[Paper]</a> <br> 
+    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7">[Paper]</a> <br> 
     Hongjia Yang#, Guanhua Wang#, Ziyu Li, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yuxin Hu, Xiaozhi Cao, Congyu Liao, Huihui Ye, Qiyuan Tian* <br>
     <i>Magnetic Resonance Materials in Physics, Biology and Medicine <strong>(MAGMA). </strong></i> 2024.
   </li>
@@ -253,87 +251,87 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="CCA-ISMRM-2025-9"> 
     <span style="color:#000000; font-weight:bold;">Revealing membrane integrity in human brain using oscillating-gradient diffusion sequence in two frequency-varying regimes.</span> <br>
     Dongsuk Song, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y. Huang, Hong-Hsi Lee*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
 
   <li id="CCA-ISMRM-2025-9"> 
     <span style="color:#000000; font-weight:bold;">FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry</span> <br>
     Hongjia Yang, Mingxuan Liu, Yi Liao, Juncheng Zhu, Haoxiang Li, Zihan Li, Jize Zhang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
 
   <li id="CCA-ISMRM-2025-8"> 
     <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
     Haoxiang Li, Yi Liao, Juncheng Zhu, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, ZIhan Li, Ziyu Li, Qiyuan Tian, Haibo Qu*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, TOP 5%)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
 
   <li id="CCA-ISMRM-2025-7"> 
     <span style="color:#000000; font-weight:bold;">DeepEddy: high-quality fast eddy current and bulk motion correction using deep learning-based image synthesis and co-registration</span> <br>
-    Jize Zhang, Frederik Lange, Jesper Andersson, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yi Jing, Hongjia Yang, Mingxuan Liu, Zihan Li, Wenchuan Wu, Qiyuan Tian, Li Z*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, Magna Cum Laude Merit Award, Top 15%)
+    Jize Zhang, Frederik Lange, Jesper Andersson, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yi Jing, Hongjia Yang, Mingxuan Liu, Zihan Li, Wenchuan Wu, Qiyuan Tian, Ziyu Li*<br>
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, Magna Cum Laude Merit Award, Top 15%)
   </li>
   
   <li id="CCA-ISMRM-2025-6"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
     Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Ziang Wang, Mingxuan Liu, Guochen Ning, Hongen Liao, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
   </li>
   
   <li id="CCA-ISMRM-2025-5"> 
     <span style="color:#000000; font-weight:bold;">FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage</span> <br>
     Mingxuan Liu, Yi Liao, Juncheng Zhu, Haoxiang Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;"> Jialan Zheng</span>, Zihan Li, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CCA-ISMRM-2025-4"> 
     <span style="color:#000000; font-weight:bold;">CortexKAN: Multi-input KAN for fetal cortical surface reconstruction</span> <br>
     Haoxiang Li, Mingxuan Liu, Yi Liao, Juncheng Zhu,  <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Haibo Qu, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CCA-ISMRM-2025-3"> 
     <span style="color:#000000; font-weight:bold;">FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences</span> <br>
     Yijin Li, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Li Z, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
   
   <li id="CCA-ISMRM-2025-2"> 
     <span style="color:#000000; font-weight:bold;">DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling</span> <br>
     Yifei Chen, Zihan Li, Yuanhan Wang, Ziyu Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Qiyuan Tian*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CCA-ISMRM-2025-1"> 
     <span style="color:#000000; font-weight:bold;">High-fidelity Ultra-fast Diffusion Tensor Imaging in Stroke Patients Using Transfer Learning</span> <br>
-    Yi Jing, Ziyu Li, Yu Y, Zhou J, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Wenchuan Wu, Qiyuan Tian, Jie Lu*<br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
+    Yi Jing, Ziyu Li, Yang Yu, Jinglin Zhou, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Wenchuan Wu, Qiyuan Tian, Jie Lu*<br>
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CCA-RSNA-2024-2"> 
     <span style="color:#000000; font-weight:bold;">Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning</span> <br>
-    Mingxuan Liu Haoxiang Li, Juncheng Zhu, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian*<br>
-    <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Oral Paper Presentation)
+    Mingxuan Liu, Haoxiang Li, Juncheng Zhu, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Ziyu Li, Qiyuan Tian*<br>
+    <i>the Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Oral Paper Presentation)
   </li>
 
   <li id="CCA-RSNA-2024-1"> 
     <span style="color:#000000; font-weight:bold;">Improving Microstructure Quantification using Self-supervised and Physicsinformed Deep Learning.</span> <br>
     Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Yi Jing, Hongen Liao, Qiyuan Tian*<br>
-    <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Poster)
+    <i>the Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2024. (Poster)
   </li>
   
   <li id="CCA-ISMRM-2024-2"> 
     <span style="color:#000000; font-weight:bold;">Image Quality Assessment using an Orientation Recognition Network for Fetal MRI</span> <br>
     <a href="https://archive.ismrm.org/2024/0726.html">[Paper]</a>  <br> 
     Mingxuan Liu, Haoxiang Li, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Xiao Zhang, Qiyuan Tian* <br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
   </li>
 
   <li id="CCA-ISMRM-2024-1"> 
     <span style="color:#000000; font-weight:bold;">FetalSurfer: Automated Fetal Cortical Surface Reconstruction</span> <br>
     <a href="https://archive.ismrm.org/2024/3635.html">[Paper]</a>  <br> 
     Haoxiang Li, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Qiyuan Tian* <br>
-    <i>the annual meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Digital Poster)
+    <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Digital Poster)
   </li>
 
 </ol>
