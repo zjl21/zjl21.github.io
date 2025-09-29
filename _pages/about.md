@@ -44,6 +44,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
+        
+        
         ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
@@ -347,13 +351,13 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="MUR-Pub3"> 
     <span style="color:#000000; font-weight:bold;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span><br> 
     Yifei Chen#; Zihan Li#; Yuanhan Wang; Yijin Li; <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>; Hongjia Yang; Mingxuan Liu; Tolga Cukur; Qiuyun Fan; Ziyu Li*, Qiyuan Tian*<br>  
-    <i>Medical Image Analysis <strong>(MedIA). </strong></i> 2025. (Submitted)
+    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Submitted)
   </li>
 
   <li id="MUR-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Revealing membrane integrity in human brain using ocillating-gradient diffusion sequence in two frequency-varying regimes</span><br> 
     Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee*<br>  
-    <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Submitted)
+    <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Under Review)
   </li>
 
   <li id="MUR-Pub1"> 
