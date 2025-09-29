@@ -350,7 +350,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="MUR-Pub3"> 
     <span style="color:#000000; font-weight:bold;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span><br> 
-    Yifei Chen#; Zihan Li#; Yuanhan Wang; Yijin Li; <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>; Hongjia Yang; Mingxuan Liu; Tolga Cukur; Qiuyun Fan; Ziyu Li*, Qiyuan Tian*<br>  
+    Yifei Chen#, Zihan Li#, Yuanhan Wang, Yijin Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li*, Qiyuan Tian*<br>  
     <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Submitted)
   </li>
 
