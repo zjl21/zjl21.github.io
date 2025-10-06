@@ -54,6 +54,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
+        
+        
         ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
@@ -431,9 +435,9 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 - *2025-2026* **Initiative Scientific Research Program**, Tsinghua University
-- *2025-2026* **Initiative Scientific Research Program**, Tsinghua University (as instructor)
+- *2025-2026* **Initiative Scientific Research Program**, Tsinghua University (as instructor) (¥40k)
 - *2024-2027* **Capital Health Development Special Program for Major Brain Diseases** (Outstanding Young Investigator Innovation Project) (¥200k)
-- *2024-2026* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥80k)
+- *2024-2025* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥80k)
 - *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program** (¥50k)
 - *2023-2024* **Initiative Scientific Research Program**, Tsinghua University (¥50k)
 
