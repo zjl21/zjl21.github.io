@@ -108,8 +108,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 📖 Educations
 
-- *2021.09 - 2025.06*, Undergraduate student: **Tanwei College** (Major in **Chemical Biology + Biomedical Engineering**), Tsinghua University, China.
 - *2025.09 - now*, Doctoral student: **School of Biomedical Engineering**, Tsinghua University, China.
+- *2021.09 - 2025.06*, Undergraduate student: **Tanwei College** (Major in **Chemical Biology + Biomedical Engineering**), Tsinghua University, China.
 
 <span class='anchor' id='-internships'></span>
 
