@@ -48,6 +48,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
+        
+        
         ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
@@ -166,7 +170,9 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
-    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7">[Paper]</a> <br> 
+    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7
+        
+        ">[Paper]</a> <br> 
     Hongjia Yang#, Guanhua Wang#, Ziyu Li, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yuxin Hu, Xiaozhi Cao, Congyu Liao, Huihui Ye, Qiyuan Tian* <br>
     <i>Magnetic Resonance Materials in Physics, Biology and Medicine <strong>(MAGMA). </strong></i> 2024.
   </li>
@@ -184,6 +190,13 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="CCP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction</span> <br>
+    <a href="https://openreview.net/forum?id=Ra0xioC3He">[Paper]</a> <br> 
+    Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Bixiao Cui, Qiyuan Tian, Jie Lu* <br>
+    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(IEEE BIBM). </strong></i> 2025. (Regular Paper)
+  </li>
+
+  <li id="CCP-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
     <a href="https://openreview.net/forum?id=Ra0xioC3He">[Paper]</a> <br> 
     Haoxiang Li#, Mingxuan Liu#, Xuguang Bai, Yi Liao, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Haibo Qu, Qiyuan Tian* <br>
     <i>ICLR 2025 Workshop on AI for Children <strong>(ICLR Workshop). </strong></i> 2025. (Oral Paper Presentation)
