@@ -30,6 +30,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2025.10.18:</strong> Attended 2025 BCI-MRI Summit & World's First BCI-Customized MRI Platform Launch in Tianjin, China.</p>
+
 <p><strong>2025.07.18:</strong> Attended the MICS 2025 in Cixi, China.</p>
 
 <p><strong>2025.07.11:</strong> Visited Xiamen to meet with the Magnetic Resonance guided Focused UltraSound (MRgFUS) project team at West China Xiamen Hospital, Sichuan University.</p>
@@ -41,6 +43,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        
         
         
         
