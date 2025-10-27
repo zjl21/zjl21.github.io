@@ -30,6 +30,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2025.10.21:</strong> 🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</p>
+
 <p><strong>2025.10.18:</strong> Attended <a href="https://mp.weixin.qq.com/s/Tm_it1mMHU_Qo1K4pEFviA">BCI-MRI Summit & World's First BCI-Customized MRI Platform Launch</a> in Tianjin, China.</p>
 
 <p><strong>2025.07.18:</strong> Attended the MICS 2025 in Cixi, China.</p>
@@ -180,14 +182,14 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <ol reversed>
 
-  <li id="CCP-Pub1"> 
+  <li id="CCP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction</span> <br>
     <a href="https://openreview.net/forum?id=Ra0xioC3He">[Paper]</a> <br> 
     Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Bixiao Cui, Qiyuan Tian, Jie Lu* <br>
     <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(IEEE BIBM). </strong></i> 2025. (Regular Paper)
   </li>
 
-  <li id="CCP-Pub2"> 
+  <li id="CCP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
     Haoxiang Li#, Mingxuan Liu#, Xuguang Bai, Yi Liao, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Haibo Qu, Qiyuan Tian* <br>
     <i>ICLR 2025 Workshop on AI for Children <strong>(ICLR Workshop). </strong></i> 2025. (Oral Paper Presentation)
@@ -366,7 +368,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="MUR-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
-    <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">[Paper]</a>  <br> 
+    <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        ">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, Mingxuan Liu, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
     <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Revision)
   </li>
@@ -379,6 +385,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🎖 Honors and Awards 
 
+- *2025* **Scholarship for Comprehensive Excellence**, Tsinghua University.
 - *2025* **Outstanding Bachelor's Graduate of Beijing**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *6/130 in department*
 - *2025* **Outstanding Bachelor's Graduate of Tsinghua University**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *2/130 in department*
 - *2025* [**Future Scholars Scholarship**](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm). <br> &nbsp; &nbsp; &nbsp; &nbsp; *3/47 in department*.
