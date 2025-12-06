@@ -377,9 +377,9 @@ Precise VIM Targeting </span> <br>
 
 </div>
 
-<h2 id="Manuscripts Under Review" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts Under Review <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
+<h2 id="Manuscripts Under Review" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts Under Review <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[+]</span></h2>
 
-<div class="collapsible-target" markdown="1">
+<div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
 
