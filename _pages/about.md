@@ -30,6 +30,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2025.12.06:</strong> 🎉🎉 Our paper  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
+
 <p><strong>2025.10.21:</strong> 🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</p>
 
 <p><strong>2025.10.18:</strong> Attended <a href="https://mp.weixin.qq.com/s/Tm_it1mMHU_Qo1K4pEFviA">BCI-MRI Summit & World's First BCI-Customized MRI Platform Launch</a> in Tianjin, China.</p>
@@ -162,11 +164,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
-    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7
-        
-        
-        
-        ">[Paper]</a> <br> 
+    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7">[Paper]</a> <br> 
     Hongjia Yang#, Guanhua Wang#, Ziyu Li, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yuxin Hu, Xiaozhi Cao, Congyu Liao, Huihui Ye, Qiyuan Tian* <br>
     <i>Magnetic Resonance Materials in Physics, Biology and Medicine <strong>(MAGMA). </strong></i> 2024.
   </li>
@@ -385,27 +383,10 @@ Precise VIM Targeting </span> <br>
 
 <ol reversed>
 
-  <li id="MUR-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span><br> 
-    Yifei Chen#, Zihan Li#, Yuanhan Wang, Yijin Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li*, Qiyuan Tian*<br>  
-    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Under Review)
-  </li>
-
-  <li id="MUR-Pub2"> 
+  <li id="MUR-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Revealing membrane integrity in human brain using ocillating-gradient diffusion sequence in two frequency-varying regimes</span><br> 
     Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee*<br>  
     <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Revision)
-  </li>
-
-  <li id="MUR-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
-    <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
-        
-        
-        
-        ">[Paper]</a>  <br> 
-    <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, Mingxuan Liu, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
-    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Revision)
   </li>
 
 </ol>
