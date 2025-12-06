@@ -109,6 +109,15 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author
 
+<h2 id="FIRST AUTHOR JOURNAL PAPERS" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">FIRST AUTHOR CONFERENCE ABSTRACTS <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
+
+<li id="FJP-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
+     <!-- <a href="../images/OHBM-2025-myelin.pdf">[Paper]</a>  <br> -->
+     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, Mingxuan Liu, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
+    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026.
+  </li>
+
 
 <h2 id="FIRST AUTHOR CONFERENCE ABSTRACTS" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">FIRST AUTHOR CONFERENCE ABSTRACTS <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
 
