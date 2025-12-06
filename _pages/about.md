@@ -111,6 +111,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <h2 id="FIRST AUTHOR JOURNAL PAPERS" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">FIRST AUTHOR CONFERENCE ABSTRACTS <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[-]</span></h2>
 
+<div class="collapsible-target" markdown="1">
+
+<ol reversed>
+
 <li id="FJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
      <!-- <a href="../images/OHBM-2025-myelin.pdf">[Paper]</a>  <br> -->
