@@ -30,7 +30,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
-<p><strong>2025.12.06:</strong> 🎉🎉 Our paper  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
+<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on">paper  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
 
 <p><strong>2025.10.21:</strong> 🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</p>
 
