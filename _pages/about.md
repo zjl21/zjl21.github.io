@@ -177,6 +177,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
+  <li id="CJP-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">Complementary sensitivity of fixed-time and fixed-oscillation regimes to exchange and structural disorder in the human brain revealed using oscillating-gradient diffusion MRI with ultra-strong gradients</span><br> 
+        Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee*<br>  
+        <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Revision)
+    </li>
 
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
@@ -400,9 +405,9 @@ Precise VIM Targeting </span> <br>
 <ol reversed>
 
   <li id="MUR-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">Revealing membrane integrity in human brain using ocillating-gradient diffusion sequence in two frequency-varying regimes</span><br> 
-    Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee*<br>  
-    <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2025. (Revision)
+    <span style="color:#000000; font-weight:bold;">SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data</span><br> 
+    Muye Zhang#, Hongjia Yang#, Jiaxin Xiao, Wanqing Liu, Yuhang He, Ting Yin, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Mingxuan Liu, Wei Liu, Congyu Liao, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Yi Liao, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>  
+    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026. (Submitted)
   </li>
 
 </ol>
