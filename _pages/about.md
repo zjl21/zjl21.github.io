@@ -30,7 +30,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
-<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on">paper</a>  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
+<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on
+        
+        
+        
+        ">paper</a>  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
 
 <p><strong>2025.10.21:</strong> 🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</p>
 
@@ -46,7 +50,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
-<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
+<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
@@ -227,32 +235,32 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <li id="CCA-ISMRM-2026-5"> 
     <span style="color:#000000; font-weight:bold;">Probing water exchange and structural disorder in the human brain with oscillating-gradient diffusion MRI </span> <br>
     Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee<br>
-    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Submitted)
+    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Oral)
   </li>
 
 <li id="CCA-ISMRM-2026-4"> 
     <span style="color:#000000; font-weight:bold;">Super-Resolution with Noisy References for High-Resolution Pediatric Brain MRI  </span> <br>
     Muye Zhang, Hongjia Yang, Juncheng Zhu, Jiaxin Xiao, Yuhang He, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Ting Yin, Wei Liu, Ziyu Li, Yi Liao, Qiyuan Tian*<br>
-    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Submitted)
+    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Poster)
   </li>
 
 <li id="CCA-ISMRM-2026-3"> 
     <span style="color:#000000; font-weight:bold;">AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions.  </span> <br>
     Yifei Chen, Guo Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai,  <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Bixiao Cui, Qiyuan Tian*<br>
-    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Submitted)
+    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Flash Presentation)
   </li>
 
 <li id="CCA-ISMRM-2026-2"> 
     <span style="color:#000000; font-weight:bold;">Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH).  </span> <br>
     Mingxuan Liu, Haoxiang Li, Hongjia Yang, Yi Liao, Juncheng Zhu,  <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yingqi Hao, Zihan Li, Ziyu Li, Ziang Wang, Yijin Li, Junwei Huang, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
-    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Submitted)
+    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Poster)
   </li>
 
 <li id="CCA-ISMRM-2026-1"> 
     <span style="color:#000000; font-weight:bold;">Beyond the Hand Knob: Automated Gyrus-Based Mapping of the Hand Motor Cortex for
 Precise VIM Targeting </span> <br>
     Ziang Wang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Kasidit Anmahapong, Hongjia Yang, Zuo-Xiang He, Xue Zhang, Qiuan Tian*<br>
-    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Submitted)
+    <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Poster)
   </li>
 
   <li id="CCA-RSNA-2025-2"> 
