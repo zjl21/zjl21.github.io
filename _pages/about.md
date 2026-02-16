@@ -30,7 +30,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
-<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on
+<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/E
+        
+        ffects-of-diffusion-MRI-spatial-resolution-on
+        
+        
         
         
         
@@ -51,6 +55,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        
         
         
         
@@ -192,6 +200,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="CJP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Complementary sensitivity of fixed-time and fixed-oscillation regimes to exchange and structural disorder in the human brain revealed using oscillating-gradient diffusion MRI with ultra-strong gradients</span><br> 
         Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee*<br>  
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/mrm.70300">[Paper]</a>  <br>
         <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2026.
     </li>
 
