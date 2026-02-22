@@ -139,7 +139,13 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
   <li id="FJP-Pub1"> 
       <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
-       <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on">[Paper]</a>  <br>
+       <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on
+        
+        
+        
+        
+        
+        ">[Paper]</a>  <br>
        <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, Mingxuan Liu, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>
       <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026.
   </li>
@@ -153,6 +159,13 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1">
 
 <ol reversed>
+
+  <li id="FCA-Pub6"> 
+    <span style="color:#000000; font-weight:bold;">Tractography‑Based Mapping of Spatial Patterns in Early Childhood White Matter Maturation</span> <br>
+     <a href="../images/OHBM-2026-development.pdf">[Paper]</a>  <br>
+     <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Xun Yuan, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
+    <i>the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2026. (Poster)
+  </li>
 
   <li id="FCA-Pub5"> 
     <span style="color:#000000; font-weight:bold;">Quantification of Human Brain White Matter Myelination using ViSTa MRI Fingerprinting</span> <br>
@@ -247,11 +260,23 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <ol reversed>
 
+<li id="CCA-OHBM-2026-2"> 
+    <span style="color:#000000; font-weight:bold;">Normative Cortical Trajectories From 1,158 Fetuses Using an Improved Surface Reconstruction Pipeline </span> <br>
+    Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Xiaotian Hu, Yi Liao, Hongen Liao, Qiyuan Tian*<br>
+    <i> the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2026. (Poster)
+</li>
+
+<li id="CCA-OHBM-2026-1"> 
+    <span style="color:#000000; font-weight:bold;">Normative Cortical Trajectories From 1,158 Fetuses Using an Improved Surface Reconstruction Pipeline </span> <br>
+    Hongjia Yang, Mingxuan Liu, Yi Liao, Juncheng Zhu, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
+    <i> the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2026. (Poster)
+</li>
+
 <li id="CCA-ISMRM-2026-5"> 
     <span style="color:#000000; font-weight:bold;">Probing water exchange and structural disorder in the human brain with oscillating-gradient diffusion MRI </span> <br>
     Dongsuk Sung, Kwok-Shing Chan, Julianna Gerold, Wen Zhong <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee<br>
     <i> the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2026. (Oral)
-  </li>
+</li>
 
 <li id="CCA-ISMRM-2026-4"> 
     <span style="color:#000000; font-weight:bold;">Super-Resolution with Noisy References for High-Resolution Pediatric Brain MRI  </span> <br>
