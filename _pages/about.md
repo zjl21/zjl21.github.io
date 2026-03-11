@@ -467,7 +467,7 @@ Precise VIM Targeting </span> <br>
   <li id="MUR-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI</span><br> 
     Mingxuan Liu, Yingqi Hao, Yi Liao, Juncheng Zhu, Haoxiang Li, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Min Kang, Yan Song, Hua Lai, Xiaolin Zhou, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
-    <i>The Lancet Medical Imaging & Theranostics. 2026. (Submitted)
+    <i>The Lancet Medical Imaging & Theranostics.</i> 2026. (Submitted)
   </li>
 
   <li id="MUR-Pub1"> 
