@@ -68,6 +68,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
+        
+        
         ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
@@ -126,6 +130,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 # 💻 Internships
 
 - *2024.06 - 2024.09*, student intern: [**Athinoula A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/), Massachusetts General Hospital, Harvard Medical School, MA, USA. Research under Professor [Susie Y. Huang](https://www.martinos.org/investigator/susie-huang/) and [Hong-Hsi Lee](https://leehhtw.github.io/).
+ 
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -454,13 +460,13 @@ Precise VIM Targeting </span> <br>
 
   <li id="MUR-Pub3"> 
     <span style="color:#000000; font-weight:bold;">3D Fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution</span><br> 
-    Hongjia Yang#, Yi Liao#, Mingxuan Liu, Juncheng Zhu, Haoxiang Li, Fenglin Jia, Zihan Li, Muye Zhang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziang Wang, Jize Zhang, Yifei Chen, Yijin Li, Lekai Luo, Jing Liu, Hua Lai, Xiaoling Zhou, Min Kang, Yan Song, Gang Ning, Ziyu Li, Xue Zhang, Haibo Qu*, Qiyuan Tian*.  
+    Hongjia Yang#, Yi Liao#, Mingxuan Liu, Juncheng Zhu, Haoxiang Li, Fenglin Jia, Zihan Li, Muye Zhang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziang Wang, Jize Zhang, Yifei Chen, Yijin Li, Lekai Luo, Jing Liu, Hua Lai, Xiaoling Zhou, Min Kang, Yan Song, Gang Ning, Ziyu Li, Xue Zhang, Haibo Qu*, Qiyuan Tian*<br>
     <i>Nature Biomedical Engineering <strong>(nBME). </strong></i> 2026. (Submitted)
   </li>
 
   <li id="MUR-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI</span><br> 
-    Mingxuan Liu, Yingqi Hao, Yi Liao, Juncheng Zhu, Haoxiang Li, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Min Kang, Yan Song, Hua Lai, Xiaolin Zhou, Gang Ning, Haibo Qu, Qiyuan Tian*.
+    Mingxuan Liu, Yingqi Hao, Yi Liao, Juncheng Zhu, Haoxiang Li, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Min Kang, Yan Song, Hua Lai, Xiaolin Zhou, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
     <i>The Lancet Medical Imaging & Theranostics. 2026. (Submitted)
   </li>
 
