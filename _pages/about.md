@@ -454,7 +454,7 @@ Precise VIM Targeting </span> <br>
 
   <li id="MUR-Pub2"> 
     <span style="color:#000000; font-weight:bold;">3D Fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution</span><br> 
-    Hongjia Yang#, Yi Liao#, Mingxuan Liu , Juncheng Zhu , Haoxiang Li , Fenglin Jia , Zihan Li , Muye Zhang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span><br>, Ziang Wang, Jize Zhang , Yifei Chen , Yijin Li , Lekai Luo , Jing Liu , Hua Lai , Xiaoling Zhou , Min Kang , Yan Song , Gang Ning , Ziyu Li , Xue Zhang , Haibo Qu*, Qiyuan Tian*.  
+    Hongjia Yang#, Yi Liao#, Mingxuan Liu, Juncheng Zhu, Haoxiang Li, Fenglin Jia, Zihan Li, Muye Zhang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span><br>, Ziang Wang, Jize Zhang, Yifei Chen, Yijin Li, Lekai Luo, Jing Liu, Hua Lai, Xiaoling Zhou, Min Kang, Yan Song, Gang Ning, Ziyu Li, Xue Zhang, Haibo Qu*, Qiyuan Tian*.  
     <i>Nature Biomedical Engineering <strong>(nBME). </strong></i> 2026. (Submitted)
   </li>
 
