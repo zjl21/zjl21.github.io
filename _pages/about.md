@@ -452,6 +452,12 @@ Precise VIM Targeting </span> <br>
 
 <ol reversed>
 
+  <li id="MUR-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">3D Fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution</span><br> 
+    Hongjia Yang#, Yi Liao#, Mingxuan Liu , Juncheng Zhu , Haoxiang Li , Fenglin Jia , Zihan Li , Muye Zhang , Jialan Zheng <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span><br>, Ziang Wang , Jize Zhang , Yifei Chen , Yijin Li , Lekai Luo , Jing Liu , Hua Lai , Xiaoling Zhou , Min Kang , Yan Song , Gang Ning , Ziyu Li , Xue Zhang , Haibo Qu*, Qiyuan Tian*.  
+    <i>Nature Biomedical Engineering <strong>(nBME). </strong></i> 2026. (Submitted)
+  </li>
+
   <li id="MUR-Pub1"> 
     <span style="color:#000000; font-weight:bold;">SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data</span><br> 
     Muye Zhang#, Hongjia Yang#, Jiaxin Xiao, Wanqing Liu, Yuhang He, Ting Yin, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Mingxuan Liu, Wei Liu, Congyu Liao, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Yi Liao, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>  
