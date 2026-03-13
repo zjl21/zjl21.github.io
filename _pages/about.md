@@ -32,7 +32,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2026.02.13:</strong> 🎉🎉 Our paper regarding <a href="../images/OHBM-2026-development.pdf">pediatric brain development</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2026</a>.</p>
 
-<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/E
+<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/I
+        
+        MAG.a.1089/134558/E
+        
+        
         
         ffects-of-diffusion-MRI-spatial-resolution-on
         
@@ -57,6 +61,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        
         
         
         
@@ -267,7 +275,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <ol reversed>
 
 <li id="CCA-OHBM-2026-2"> 
-    <span style="color:#000000; font-weight:bold;">Normative Cortical Trajectories From 1,158 Fetuses Using an Improved Surface Reconstruction Pipeline </span> <br>
+    <span style="color:#000000; font-weight:bold;">DIMONER: DIffusion Model Optimization via implicit NEural Representations with signal embedding </span> <br>
     Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Xiaotian Hu, Yi Liao, Hongen Liao, Qiyuan Tian*<br>
     <i> the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2026. (Poster)
 </li>
@@ -467,7 +475,7 @@ Precise VIM Targeting </span> <br>
   <li id="MUR-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI</span><br> 
     Mingxuan Liu, Yingqi Hao, Yi Liao, Juncheng Zhu, Haoxiang Li, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Min Kang, Yan Song, Hua Lai, Xiaolin Zhou, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
-    <i>The Lancet Medical Imaging & Theranostics.</i> 2026. (Submitted)
+    <i>The Lancet Medical Imaging & Theranostics <strong>(LMIT). </strong>.</i> 2026. (Submitted)
   </li>
 
   <li id="MUR-Pub1"> 
