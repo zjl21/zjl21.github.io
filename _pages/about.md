@@ -34,6 +34,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/I
         
+        
+        
         MAG.a.1089/134558/E
         
         
@@ -481,7 +483,7 @@ Precise VIM Targeting </span> <br>
   <li id="MUR-Pub1"> 
     <span style="color:#000000; font-weight:bold;">SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data</span><br> 
     Muye Zhang#, Hongjia Yang#, Jiaxin Xiao, Wanqing Liu, Yuhang He, Ting Yin, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Mingxuan Liu, Wei Liu, Congyu Liao, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Yi Liao, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
-    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026. (Submitted)
+    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026. (Revision)
   </li>
 
 </ol>
