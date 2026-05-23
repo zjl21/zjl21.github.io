@@ -36,6 +36,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
         MAG.a.1089/134558/E
         
         
@@ -63,6 +65,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
         
         
         
@@ -467,6 +471,24 @@ Precise VIM Targeting </span> <br>
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
+
+  <li id="MUR-Pub5"> 
+    <span style="color:#000000; font-weight:bold;">Spatiotemporal heterochrony and hemispheric asymmetry of human fetal brain biophysical maturation revealed by T1 mapping</span><br> 
+    Keyu Chen#, Hongjia Yang#, Fenglin Jia#, Haoxiang Li#, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Mingxuan Liu, Xiaotian Hu, Yingqi Hao, Juncheng Zhu, Zihan Li, Lekai Luo, Ziyu Li, Yi Liao, Xue Zhang, Haibo Qu<br>
+    <i>Proceedings of the National Academy of Sciences <strong>(PNAS). </strong></i> 2026.
+  </li>
+
+  <li id="MUR-Pub4"> 
+    <span style="color:#000000; font-weight:bold;">Annotation-free deep learning for detection and segmentation of fetal germinal matrixintraventricular hemorrhage in brain MRI</span><br> 
+    Mingxuan Liu, Yingqi Hao, Yi Liao, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
+    <i>Radiology <strong>(RAD). </strong></i> 2026.
+  </li>
+
+  <li id="MUR-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">A physics-informed foundation model for quantitative diffusion MRI</span><br> 
+    Zihan Li#, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>#, Ziyu Li*, Xun Yuan, Kasidit Anmahapong, Ziang Wang, Mingxuan Liu, Hongjia Yang, Yifei Chen, Zhuhao Wang, Yuhang He, Fang Chen, Rui Li, Huaiqiang Sun, Yi Liao, Congyu Liao, Yang Yang, Haibo Qu, Xue Zhang, Hongen Liao, Qiyuan Tian*<br>
+    <i>Nature Computanional Science <strong>(NCS). </strong></i> 2026.
+  </li>
 
   <li id="MUR-Pub2"> 
     <span style="color:#000000; font-weight:bold;">3D Fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution</span><br> 
