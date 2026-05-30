@@ -40,6 +40,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
         MAG.a.1089/134558/E
         
         
@@ -489,7 +491,7 @@ Precise VIM Targeting </span> <br>
   <li id="MUR-Pub3"> 
     <span style="color:#000000; font-weight:bold;">A physics-informed foundation model for quantitative diffusion MRI</span><br> 
     Zihan Li#, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>#, Ziyu Li*, Xun Yuan, Kasidit Anmahapong, Ziang Wang, Mingxuan Liu, Hongjia Yang, Yifei Chen, Zhuhao Wang, Yuhang He, Fang Chen, Rui Li, Huaiqiang Sun, Yi Liao, Congyu Liao, Yang Yang, Haibo Qu, Xue Zhang, Hongen Liao, Qiyuan Tian*<br>
-    <i>Nature Computanional Science <strong>(NCS). </strong></i> 2026.
+    <i>Nature Communications <strong>(NC). </strong></i> 2026.
   </li>
 
   <li id="MUR-Pub2"> 
