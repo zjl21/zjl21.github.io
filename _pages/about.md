@@ -38,6 +38,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
         MAG.a.1089/134558/E
         
         
@@ -475,12 +477,12 @@ Precise VIM Targeting </span> <br>
   <li id="MUR-Pub5"> 
     <span style="color:#000000; font-weight:bold;">Spatiotemporal heterochrony and hemispheric asymmetry of human fetal brain biophysical maturation revealed by T1 mapping</span><br> 
     Keyu Chen#, Hongjia Yang#, Fenglin Jia#, Haoxiang Li#, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Mingxuan Liu, Xiaotian Hu, Yingqi Hao, Juncheng Zhu, Zihan Li, Lekai Luo, Ziyu Li, Yi Liao, Xue Zhang, Haibo Qu<br>
-    <i>Proceedings of the National Academy of Sciences <strong>(PNAS). </strong></i> 2026.
+    <i>Science Bulletin <strong>(SCIB). </strong></i> 2026.
   </li>
 
   <li id="MUR-Pub4"> 
     <span style="color:#000000; font-weight:bold;">Annotation-free deep learning for detection and segmentation of fetal germinal matrixintraventricular hemorrhage in brain MRI</span><br> 
-    Mingxuan Liu, Yingqi Hao, Yi Liao, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
+    Mingxuan Liu, Yingqi Hao, Yi Liao, Haoxiang Li, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
     <i>Radiology <strong>(RAD). </strong></i> 2026.
   </li>
 
