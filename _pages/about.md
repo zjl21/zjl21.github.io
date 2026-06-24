@@ -30,9 +30,15 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2026.06.15:</strong> Attended the the OHBM 2026 in Bordeaux, France and gave a poster presentation.</p>
+
 <p><strong>2026.02.13:</strong> 🎉🎉 Our paper regarding <a href="../images/OHBM-2026-development.pdf">pediatric brain development</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2026</a>.</p>
 
 <p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/I
+        
+        
+        
+        
         
         
         
@@ -69,6 +75,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
 <p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
         
         
         
@@ -236,6 +244,13 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
+  <li id="CJP-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling</span><br> 
+        Yifei Chen#, Zihan Li#, Yuanhan Wang, Yijin Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li*, Jie Lu*, Qiyuan Tian*<br>  
+    <a href="https://www.sciencedirect.com/science/article/pii/S1053811926003472">[Paper]</a>  <br>
+        <i>NeuroImage <strong>(NIMG). </strong></i> 2026.
+    </li>
+  
   <li id="CJP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Complementary sensitivity of fixed-time and fixed-oscillation regimes to exchange and structural disorder in the human brain revealed using oscillating-gradient diffusion MRI with ultra-strong gradients</span><br> 
         Dongsuk Sung*, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee<br>  
@@ -464,47 +479,6 @@ Precise VIM Targeting </span> <br>
     <a href="https://archive.ismrm.org/2024/3635.html">[Paper]</a>  <br> 
     Haoxiang Li, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Qiyuan Tian* <br>
     <i>the Annual Meeting of International Society of Magnetic Resonance for Medicine <strong>(ISMRM). </strong></i> 2024. (Poster)
-  </li>
-
-</ol>
-
-</div>
-
-<h2 id="Manuscripts Under Review" class="collapsible-trigger" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts Under Review <span class="toggle-symbol" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">[+]</span></h2>
-
-<div class="collapsible-target" markdown="1" style="display: none;">
-
-<ol reversed>
-
-  <li id="MUR-Pub5"> 
-    <span style="color:#000000; font-weight:bold;">Spatiotemporal heterochrony and hemispheric asymmetry of human fetal brain biophysical maturation revealed by T1 mapping</span><br> 
-    Keyu Chen#, Hongjia Yang#, Fenglin Jia#, Haoxiang Li#, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Mingxuan Liu, Xiaotian Hu, Yingqi Hao, Juncheng Zhu, Zihan Li, Lekai Luo, Ziyu Li, Yi Liao, Xue Zhang, Haibo Qu<br>
-    <i>Science Bulletin <strong>(SCIB). </strong></i> 2026.
-  </li>
-
-  <li id="MUR-Pub4"> 
-    <span style="color:#000000; font-weight:bold;">Annotation-free deep learning for detection and segmentation of fetal germinal matrixintraventricular hemorrhage in brain MRI</span><br> 
-    Mingxuan Liu, Yingqi Hao, Yi Liao, Haoxiang Li, Hongjia Yang, Yifei Chen, Yijin Li, Kasidit Anmahapong, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
-    <i>Radiology <strong>(RAD). </strong></i> 2026.
-  </li>
-
-  <li id="MUR-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">A physics-informed foundation model for quantitative diffusion MRI</span><br> 
-    Zihan Li#, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>#, Ziyu Li*, Xun Yuan, Kasidit Anmahapong, Ziang Wang, Mingxuan Liu, Hongjia Yang, Yifei Chen, Zhuhao Wang, Yuhang He, Fang Chen, Rui Li, Huaiqiang Sun, Yi Liao, Congyu Liao, Yang Yang, Haibo Qu, Xue Zhang, Hongen Liao, Qiyuan Tian*<br>
-    <i>Nature Communications <strong>(NC). </strong></i> 2026.
-  </li>
-
-  <li id="MUR-Pub2"> 
-    <span style="color:#000000; font-weight:bold;">3D Fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution</span><br> 
-    Hongjia Yang#, Yi Liao#, Mingxuan Liu, Juncheng Zhu, Haoxiang Li, Fenglin Jia, Zihan Li, Muye Zhang, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziang Wang, Jize Zhang, Yifei Chen, Yijin Li, Lekai Luo, Jing Liu, Hua Lai, Xiaoling Zhou, Min Kang, Yan Song, Gang Ning, Ziyu Li, Xue Zhang, Haibo Qu*, Qiyuan Tian*<br>
-    <i>Nature Biomedical Engineering <strong>(nBME). </strong></i> 2026. (Revision)
-  </li>
-
-
-  <li id="MUR-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data</span><br> 
-    Muye Zhang#, Hongjia Yang#, Jiaxin Xiao, Wanqing Liu, Yuhang He, Ting Yin, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Zihan Li, Mingxuan Liu, Wei Liu, Congyu Liao, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Yi Liao, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
-    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026. (Revision)
   </li>
 
 </ol>
