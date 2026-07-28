@@ -544,6 +544,7 @@ Precise VIM Targeting </span> <br>
 # 🎓 Academic Service
 
 - Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
+- Peer reviewer of [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)
   
 # 🔗 LINKS
 
