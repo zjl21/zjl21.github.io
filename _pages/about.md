@@ -254,13 +254,21 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="CJP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Complementary sensitivity of fixed-time and fixed-oscillation regimes to exchange and structural disorder in the human brain revealed using oscillating-gradient diffusion MRI with ultra-strong gradients</span><br> 
         Dongsuk Sung*, Kwok-Shing Chan, Julianna Gerold, Wen Zhong, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Qiyuan Tian, Hua Guo, Susie Y Huang, Hong-Hsi Lee<br>  
-    <a href="https://onlinelibrary.wiley.com/doi/10.1002/mrm.70300">[Paper]</a>  <br>
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/mrm.70300
+        
+        
+        
+        ">[Paper]</a>  <br>
         <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2026.
     </li>
 
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
-    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7">[Paper]</a> <br> 
+    <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7
+        
+        
+        
+        ">[Paper]</a> <br> 
     Hongjia Yang#, Guanhua Wang#, Ziyu Li, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Yuxin Hu, Xiaozhi Cao, Congyu Liao, Huihui Ye, Qiyuan Tian* <br>
     <i>Magnetic Resonance Materials in Physics, Biology and Medicine <strong>(MAGMA). </strong></i> 2024.
   </li>
@@ -298,6 +306,18 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
+
+<li id="CCA-RSNA-2026-1"> 
+    <span style="color:#000000; font-weight:bold;">Regionally Selective Brain Alterations in Fetal Growth Restriction Revealed by MRI-derived Morphological Fratures and Machine Learning </span> <br>
+    Siyao Li, Hongjia Yang, Mingxuan Liu, Yi Liao, Haoxiang Li, Juncheng Zhu, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
+    <i> the Annual Meeting of Radiology Society of North America <strong>(RSNA). </strong></i> 2026. (Poster)
+</li>
+
+<li id="CCA-OHBM-2026-3"> 
+    <span style="color:#000000; font-weight:bold;">Normative Cortical Trajectories From 1,158 Fetuses Using an Improved Surface Reconstruction Pipeline </span> <br>
+    Hongjia Yang, Mingxuan Liu, Yi Liao, Haoxiang Li, Juncheng Zhu, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
+    <i> the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2026. (Poster)
+</li>
 
 <li id="CCA-OHBM-2026-2"> 
     <span style="color:#000000; font-weight:bold;">DIMONER: DIffusion Model Optimization via implicit NEural Representations with signal embedding </span> <br>
