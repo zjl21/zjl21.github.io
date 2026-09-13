@@ -34,7 +34,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2026.02.13:</strong> 🎉🎉 Our paper regarding <a href="../images/OHBM-2026-development.pdf">pediatric brain development</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2026</a>.</p>
 
-<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on">paper</a>  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
+<p><strong>2025.12.06:</strong> 🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on
+        
+        
+        
+        ">paper</a>  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</p>
 
 <p><strong>2025.10.21:</strong> 🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</p>
 
@@ -50,7 +54,11 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
-<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
+<p><strong>2025.06.08:</strong> Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2
+        
+        
+        
+        ">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</p>
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
@@ -263,12 +271,6 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
     <span style="color:#000000; font-weight:bold;">Regionally Selective Brain Alterations in Fetal Growth Restriction Revealed by MRI-derived Morphological Fratures and Machine Learning </span> <br>
     Siyao Li, Hongjia Yang, Mingxuan Liu, Yi Liao, Haoxiang Li, Juncheng Zhu, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
     <i> the Annual Meeting of Radiology Society of North America <strong>(RSNA). </strong></i> 2026. (Poster)
-</li>
-
-<li id="CCA-OHBM-2026-3"> 
-    <span style="color:#000000; font-weight:bold;">Normative Cortical Trajectories From 1,158 Fetuses Using an Improved Surface Reconstruction Pipeline </span> <br>
-    Hongjia Yang, Mingxuan Liu, Yi Liao, Haoxiang Li, Juncheng Zhu, Zihan Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
-    <i> the Annual Meeting of Organization of Human Brain Mapping <strong>(OHBM). </strong></i> 2026. (Poster)
 </li>
 
 <li id="CCA-OHBM-2026-2"> 
