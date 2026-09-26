@@ -46,7 +46,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.06.29:</strong> 🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/qrd2wtS4ZCoU63NVBsOmPA"><strong>Outstanding Graduate Spotlight</strong></a> by the School of Biomedical Engineering, Tsinghua University!</p>
 
-<p><strong>2025.06.25:</strong> Attended the the OHBM 2025 in Brisbane, Australia and gave a <a href="../images/OHBM-2025-poster.png">poster presentation</a>.</p>
+<p><strong>2025.06.25:</strong> Attended the the OHBM 2025 in Brisbane, Australia and gave a poster presentation.</p>
 
 <p><strong>2025.06.21:</strong> 🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</p>
 
@@ -54,9 +54,9 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2025.05.28:</strong> 🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</p>
 
-<p><strong>2025.05.12:</strong> Attended the the ISMRM 2025 in Honolulu, USA and gave a <a href="../images/ISMRM-2025-poster.jpg">poster presentation</a>.</p>
+<p><strong>2025.05.12:</strong> Attended the the ISMRM 2025 in Honolulu, USA and gave a poster presentation.</p>
 
-<p><strong>2025.02.17:</strong> Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present and Future Perspectives in Kyoto, Japan and gave an <a href="../images/ISMRM-diffusion-workshop-2025-oral.jpg">oral presentation</a>.</p>
+<p><strong>2025.02.17:</strong> Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present and Future Perspectives in Kyoto, Japan and gave an oral presentation.</p>
 
 <p><strong>2025.02.12:</strong> 🎉🎉 Our paper regarding <a href="../images/OHBM-2025-myelin.pdf">myelination</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2025</a>.</p>
 
@@ -76,7 +76,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2024.06.25:</strong> Travel to Boston for summer research.</p>
 
-<p><strong>2024.05.08:</strong> Attended the ISMRM 2024 in Singapore and gave a <a href="../images/ISMRM-2024-poster.png">poster presentation</a>.</p>
+<p><strong>2024.05.08:</strong> Attended the ISMRM 2024 in Singapore and gave a poster presentation.</p>
 
 <p><strong>2024.02.13:</strong> 🎉🎉 Awarded <strong>Educational Stipend Award</strong> by ISMRM 2024.</p>
 
@@ -88,7 +88,7 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 <p><strong>2023.10.11:</strong> 🎉🎉 Awarded <strong>National Scholarship</strong> by Ministry of Education!</p>
 
-<p><strong>2023.10.02:</strong> Attended the <a href="https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/">NUS-THU Joint Workshop on Biomedical Engineering 2023</a> hosted by the <a href="https://nus.edu.sg/">National University of Singapore</a> and posted a <a href="../images/THU-NUS-poster.pdf">poster</a>.</p>
+<p><strong>2023.10.02:</strong> Attended the <a href="https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/">NUS-THU Joint Workshop on Biomedical Engineering 2023</a> hosted by the <a href="https://nus.edu.sg/">National University of Singapore</a> and posted a poster.</p>
 
 <p><strong>2023.12.11:</strong> 🎉🎉 Awarded <strong>Scholarship for Academic Excellence</strong> by Tanwei College.</p>
 
