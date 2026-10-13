@@ -190,6 +190,14 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 <div class="collapsible-target" markdown="1" style="display: none;">
 
 <ol reversed>
+  <li id="CJP-Pub4"> 
+    <span style="color:#000000; font-weight:bold;">SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data</span><br> 
+        Muye Zhang#, Hongjia Yang# Zihan Li#, Jiaxin Xiao, Wanqing Liu, Yuhang He, Ting Yin, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Mingxuan Liu, Wei Liu, Congyu Liao, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Yi Liao, Ziyu Li*, Haibo Qu*, Qiyuan Tian*<br>  
+    <a href="https://direct.mit.edu/imag/article-abstract/doi/10.1162/IMAG.a.1433/139398/SRNR-Deep-learning-based-MRI-Super-Resolution?redirectedFrom=fulltext">[Paper]</a>  <br>
+        <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026.
+    </li>
+
+<ol reversed>
   <li id="CJP-Pub3"> 
     <span style="color:#000000; font-weight:bold;">MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling</span><br> 
         Yifei Chen#, Zihan Li#, Yuanhan Wang, Yijin Li, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li*, Jie Lu*, Qiyuan Tian*<br>  
@@ -204,6 +212,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
         
         
         
+        
+        
+        
+        
         ">[Paper]</a>  <br>
         <i>Magnetic Resonance in Medicine <strong>(MRM). </strong></i> 2026.
     </li>
@@ -211,6 +223,10 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
   <li id="CJP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Artificial intelligence for neuro MRI acquisition: a review</span> <br>
     <a href="https://link.springer.com/article/10.1007/s10334-024-01182-7
+        
+        
+        
+        
         
         
         
