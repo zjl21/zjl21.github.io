@@ -30,6 +30,8 @@ You can find my CV here: [Jialan Zheng's Curriculum Vitae](../images/CV-Core.pdf
 
 # 🔥 News
 
+<p><strong>2026.10.20:</strong> 🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</p>
+
 <p><strong>2026.06.15:</strong> Attended the the OHBM 2026 in Bordeaux, France and gave a poster presentation.</p>
 
 <p><strong>2026.02.13:</strong> 🎉🎉 Our paper regarding <a href="../images/OHBM-2026-development.pdf">pediatric brain development</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2026</a>.</p>
@@ -448,6 +450,7 @@ Precise VIM Targeting </span> <br>
 
 # 🎖 Honors and Awards 
 
+- *2026* **Scholarship for Comprehensive Excellence**, Tsinghua University.
 - *2025* **Scholarship for Comprehensive Excellence**, Tsinghua University.
 - *2025* **Outstanding Bachelor's Graduate of Beijing**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *6/130 in department*
 - *2025* **Outstanding Bachelor's Graduate of Tsinghua University**.<br /> &nbsp; &nbsp; &nbsp; &nbsp; *2/130 in department*
