@@ -91,7 +91,7 @@ groups:
   - id: "coauthor-journal-papers"
     heading:
       en: "COAUTHOR JOURNAL PAPERS"
-      zh: "合作作者期刊论文"
+      zh: "共同作者期刊论文"
     expanded: false
     papers:
       - id: "CJP-Pub4"
@@ -134,7 +134,7 @@ groups:
   - id: "coauthor-conference-papers"
     heading:
       en: "COAUTHOR CONFERENCE PAPERS"
-      zh: "合作作者会议论文"
+      zh: "共同作者会议论文"
     expanded: false
     papers:
       - id: "CCP-Pub2"
@@ -159,7 +159,7 @@ groups:
   - id: "coauthor-conference-abstracts"
     heading:
       en: "COAUTHOR CONFERENCE ABSTRACTS"
-      zh: "合作作者会议摘要"
+      zh: "共同作者会议摘要"
     expanded: false
     papers:
       - id: "CCA-RSNA-2026-1"
