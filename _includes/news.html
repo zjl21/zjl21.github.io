@@ -1,0 +1,3 @@
+{% for item in site.data.news %}
+<p id="news-{{ item.id }}"><strong>{{ item.date | replace: '-', '.' }}:</strong> <span data-i18n-zh="{{ item.zh | escape }}">{{ item.en }}</span></p>
+{% endfor %}

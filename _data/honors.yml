@@ -1,0 +1,180 @@
+# Each award keeps its English and Chinese title/note together. Keep its ID when reordering.
+
+- id: 2026-comprehensive-scholarship
+  year: "2026"
+  en:
+    title: >-
+      <strong>Scholarship for Comprehensive Excellence</strong>, Tsinghua University.
+    note: ""
+  zh:
+    title: >-
+      清华大学<strong>综合优秀奖学金</strong>。
+    note: ""
+
+- id: 2025-comprehensive-scholarship
+  year: "2025"
+  en:
+    title: >-
+      <strong>Scholarship for Comprehensive Excellence</strong>, Tsinghua University.
+    note: ""
+  zh:
+    title: >-
+      清华大学<strong>综合优秀奖学金</strong>。
+    note: ""
+
+- id: 2025-beijing-outstanding-graduate
+  year: "2025"
+  en:
+    title: >-
+      <strong>Outstanding Bachelor's Graduate of Beijing</strong>.
+    note: >-
+      <em>6/130 in department</em>
+  zh:
+    title: >-
+      <strong>北京市优秀本科毕业生</strong>。
+    note: >-
+      <em>院系内 6/130</em>
+
+- id: 2025-tsinghua-outstanding-graduate
+  year: "2025"
+  en:
+    title: >-
+      <strong>Outstanding Bachelor's Graduate of Tsinghua University</strong>.
+    note: >-
+      <em>2/130 in department</em>
+  zh:
+    title: >-
+      <strong>清华大学优秀本科毕业生</strong>。
+    note: >-
+      <em>院系内 2/130</em>
+
+- id: 2025-future-scholars-scholarship
+  year: "2025"
+  en:
+    title: >-
+      <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>.
+    note: >-
+      <em>3/47 in department</em>.
+  zh:
+    title: >-
+      <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>未来学者奖学金</strong></a>。
+    note: >-
+      <em>院系内 3/47</em>。
+
+- id: 2025-ismrm-stipend
+  year: "2025"
+  en:
+    title: >-
+      <strong>ISMRM: Educational Stipend Award</strong>.
+    note: ""
+  zh:
+    title: >-
+      <strong>ISMRM 教育参会资助奖（Educational Stipend Award）</strong>。
+    note: ""
+
+- id: 2024-national-scholarship
+  year: "2024"
+  en:
+    title: >-
+      <strong>National Scholarship, Ministry of Education</strong>, P.R. China.
+    note: >-
+      <em>Top scholarship in China. 0.2% domestically. 5/130 in department</em>.
+  zh:
+    title: >-
+      <strong>中华人民共和国教育部国家奖学金</strong>。
+    note: >-
+      <em>中国最高等级奖学金，全国获奖比例 0.2%；院系内 5/130</em>。
+
+- id: 2024-innovation-scholarship
+  year: "2024"
+  en:
+    title: >-
+      <strong>Scholarship for Science and Technology Innovation Excellence</strong>, Tsinghua University.
+    note: ""
+  zh:
+    title: >-
+      清华大学<strong>科技创新优秀奖学金</strong>。
+    note: ""
+
+- id: 2024-biomedical-design-first-prize
+  year: "2024"
+  en:
+    title: >-
+      <strong>First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students</strong>. <a href="https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing">[Certificate]</a>
+    note: >-
+      <em>A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)</em>
+  zh:
+    title: >-
+      <strong>第九届全国大学生生物医学工程创新设计竞赛一等奖</strong>。<a href="https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing">[证书]</a>
+    note: >-
+      <em>基于深度学习的胎儿脑磁共振影像异常检测框架（前 5%）</em>
+
+- id: 2024-challenge-cup-third-prize
+  year: "2024"
+  en:
+    title: >-
+      <strong>Third Prize at the 42nd "Challenge Cup" of Tsinghua University</strong>.
+    note: >-
+      <em>Automated Fetal MRI Image Processing and Anomaly Detection</em>
+  zh:
+    title: >-
+      <strong>清华大学第四十二届“挑战杯”三等奖</strong>。
+    note: >-
+      <em>胎儿磁共振影像自动处理与异常检测</em>
+
+- id: 2024-ismrm-stipend
+  year: "2024"
+  en:
+    title: >-
+      <strong>ISMRM: Educational Stipend Award</strong>
+    note: ""
+  zh:
+    title: >-
+      <strong>ISMRM 教育参会资助奖（Educational Stipend Award）</strong>
+    note: ""
+
+- id: 2023-national-scholarship
+  year: "2023"
+  en:
+    title: >-
+      <strong>National Scholarship, Ministry of Education</strong>, P.R. China.
+    note: >-
+      <em>Top scholarship in China. 0.2% domestically. 2/130 in department</em>.
+  zh:
+    title: >-
+      <strong>中华人民共和国教育部国家奖学金</strong>。
+    note: >-
+      <em>中国最高等级奖学金，全国获奖比例 0.2%；院系内 2/130</em>。
+
+- id: 2023-innovation-scholarship
+  year: "2023"
+  en:
+    title: >-
+      <strong>Scholarship for Science and Technology Innovation Excellence</strong>, Tsinghua University.
+    note: ""
+  zh:
+    title: >-
+      清华大学<strong>科技创新优秀奖学金</strong>。
+    note: ""
+
+- id: 2022-comprehensive-scholarship
+  year: "2022"
+  en:
+    title: >-
+      <strong>Scholarship for Comprehensive Excellence</strong>, Tsinghua University.
+    note: ""
+  zh:
+    title: >-
+      清华大学<strong>综合优秀奖学金</strong>。
+    note: ""
+
+- id: 2022-academic-scholarship
+  year: "2022"
+  en:
+    title: >-
+      <strong>Scholarship for Academic Excellence</strong>, Tanwei College.
+    note: ""
+  zh:
+    title: >-
+      探微书院<strong>学业优秀奖学金</strong>。
+    note: ""

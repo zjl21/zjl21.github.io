@@ -1,0 +1,17 @@
+<ul class="honors-list">
+  {% for honor in site.data.honors %}
+  <li id="honor-{{ honor.id }}">
+    <div class="honor-row">
+      <em class="honor-year">{{ honor.year }}</em>
+      <div class="honor-body">
+        <span class="honor-title" data-i18n-zh="{{ honor.zh.title | escape }}">{{ honor.en.title }}</span>
+        {% assign english_note = honor.en.note | default: "" %}
+        {% assign chinese_note = honor.zh.note | default: "" %}
+        {% if english_note != "" or chinese_note != "" %}
+        <span class="honor-note" data-i18n-zh="{{ chinese_note | escape }}">{{ english_note }}</span>
+        {% endif %}
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

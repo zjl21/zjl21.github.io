@@ -1,4 +1,4 @@
-/* The English source stays in the HTML; Chinese translations live in _data/translations.json. */
+/* English renders without JS. Chinese comes from paired data or the UI translation dictionary. */
 (function () {
   'use strict';
 
@@ -16,7 +16,9 @@
 
   function translateElement(element) {
     if (!english.has(element)) english.set(element, element.innerHTML);
-    element.innerHTML = translated(element.dataset.i18n, english.get(element));
+    var chinese = element.getAttribute('data-i18n-zh');
+    element.innerHTML = root.lang === 'zh-CN' && chinese !== null
+      ? chinese : translated(element.dataset.i18n, english.get(element));
   }
 
   function refreshNavigation() {
@@ -66,7 +68,7 @@
 
   function setLanguage(language, updateUrl) {
     root.lang = language;
-    document.querySelectorAll('[data-i18n]').forEach(translateElement);
+    document.querySelectorAll('[data-i18n], [data-i18n-zh]').forEach(translateElement);
     ['alt', 'aria-label'].forEach(function (attribute) {
       document.querySelectorAll('[data-i18n-' + attribute + ']').forEach(function (element) {
         var saved = englishAttributes.get(element) || {};

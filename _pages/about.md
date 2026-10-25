@@ -32,71 +32,7 @@ redirect_from:
 # <span data-i18n="heading.news">🔥 News</span>
 {: #section-news }
 
-<p><strong>2026.10.20:</strong> <span data-i18n="news.01">🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</span></p>
-
-<p><strong>2026.06.15:</strong> <span data-i18n="news.02">Attended the the OHBM 2026 in Bordeaux, France and gave a poster presentation.</span></p>
-
-<p><strong>2026.02.13:</strong> <span data-i18n="news.03">🎉🎉 Our paper regarding <a href="../images/OHBM-2026-development.pdf">pediatric brain development</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2026</a>.</span></p>
-
-<p><strong>2025.12.06:</strong> <span data-i18n="news.04">🎉🎉 Our <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on">paper</a>  has been accepted by <a href="https://direct.mit.edu/imag">Imaging Neuroscience</a>.</span></p>
-
-<p><strong>2025.10.21:</strong> <span data-i18n="news.05">🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</span></p>
-
-<p><strong>2025.10.18:</strong> <span data-i18n="news.06">Attended <a href="https://mp.weixin.qq.com/s/Tm_it1mMHU_Qo1K4pEFviA">BCI-MRI Summit & World's First BCI-Customized MRI Platform Launch</a> in Tianjin, China.</span></p>
-
-<p><strong>2025.07.18:</strong> <span data-i18n="news.07">Attended the MICS 2025 in Cixi, China.</span></p>
-
-<p><strong>2025.07.11:</strong> <span data-i18n="news.08">Visited Xiamen to meet with the Magnetic Resonance guided Focused UltraSound (MRgFUS) project team at West China Xiamen Hospital, Sichuan University.</span></p>
-
-<p><strong>2025.06.29:</strong> <span data-i18n="news.09">🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/qrd2wtS4ZCoU63NVBsOmPA"><strong>Outstanding Graduate Spotlight</strong></a> by the School of Biomedical Engineering, Tsinghua University!</span></p>
-
-<p><strong>2025.06.25:</strong> <span data-i18n="news.10">Attended the the OHBM 2025 in Brisbane, Australia and gave a poster presentation.</span></p>
-
-<p><strong>2025.06.21:</strong> <span data-i18n="news.11">🎉🎉 Awarded <strong>Outstanding Bachelor's Graduate of Beijing (6/130)</strong> and <strong>Outstanding Bachelor's Graduate of Tsinghua University (2/130)</strong>!</span></p>
-
-<p><strong>2025.06.08:</strong> <span data-i18n="news.12">Our <a href="https://www.biorxiv.org/content/10.1101/2025.06.04.657810v2">paper</a> has been submitted to <em><a href="https://direct.mit.edu/imag">Imaging Neuroscience</a></em>, wish it <a href="../images/IN-good-luck.jpg">good luck</a>!</span></p>
-
-<p><strong>2025.05.28:</strong> <span data-i18n="news.13">🎉🎉 Awarded <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>!</span></p>
-
-<p><strong>2025.05.12:</strong> <span data-i18n="news.14">Attended the the ISMRM 2025 in Honolulu, USA and gave a poster presentation.</span></p>
-
-<p><strong>2025.02.17:</strong> <span data-i18n="news.15">Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present and Future Perspectives in Kyoto, Japan and gave an oral presentation.</span></p>
-
-<p><strong>2025.02.12:</strong> <span data-i18n="news.16">🎉🎉 Our paper regarding <a href="../images/OHBM-2025-myelin.pdf">myelination</a> has been accepted by <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229">OHBM 2025</a>.</span></p>
-
-<p><strong>2025.02.01:</strong> <span data-i18n="news.17">🎉🎉 Our papers regarding <a href="../images/ISMRM-2025-OGSE.pdf">OGSE sequence</a> and <a href="../images/ISMRM-2025-SAF.pdf">short-range association fibers</a> have been accepted by <a href="https://www.ismrm.org/25m/">ISMRM 2025</a>.</span></p>
-
-<p><strong>2024.12.25:</strong> <span data-i18n="news.18">🎉🎉 Our paper regarding <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Zheng,%20Jialan.pdf">short-range association fibers</a> have been accepted by <a href="https://www.ismrm.org/workshops/2025/Diffusion40/">ISMRM 2025 Workshop on 40 Years of Diffusion</a> as oral presentation!</span></p>
-
-<p><strong>2024.12.11:</strong> <span data-i18n="news.19">🎉🎉 Awarded <strong>Scholarship for Science and Technology Innovation Excellence</strong> by Tsinghua University.</span></p>
-
-<p><strong>2024.10.10:</strong> <span data-i18n="news.20">🎉🎉 Awarded <strong>National Scholarship</strong> by Ministry of Education!</span></p>
-
-<p><strong>2024.09.18:</strong> <span data-i18n="news.21">🎉🎉 Admitted to the <strong>Ph.D. program in Biomedical Engineering at Tsinghua University</strong>, under the supervision of <strong>Prof. Qiyuan Tian</strong>.</span></p>
-
-<p><strong>2024.09.02:</strong> <span data-i18n="news.22">🎉🎉 Awarded <strong>Beijing Natural Science Foundation funding</strong> as Principal Investigator!</span></p>
-
-<p><strong>2024.07.25:</strong> <span data-i18n="news.23">🎉🎉 Awarded <a href="../images/NBMEC-1st.pdf">the 1st prize</a> at the 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).</span></p>
-
-<p><strong>2024.06.25:</strong> <span data-i18n="news.24">Travel to Boston for summer research.</span></p>
-
-<p><strong>2024.05.08:</strong> <span data-i18n="news.25">Attended the ISMRM 2024 in Singapore and gave a poster presentation.</span></p>
-
-<p><strong>2024.02.13:</strong> <span data-i18n="news.26">🎉🎉 Awarded <strong>Educational Stipend Award</strong> by ISMRM 2024.</span></p>
-
-<p><strong>2024.02.12:</strong> <span data-i18n="news.27">🎉🎉 Our paper regarding <a href="https://archive.ismrm.org/2024/2860.html">COVID-19</a> has been accepted by <a href="https://www.ismrm.org/24m/">ISMRM 2024</a>.</span></p>
-
-<p><strong>2023.12.31:</strong> <span data-i18n="news.28">🎉🎉 Honored to be featured in the <a href="https://mp.weixin.qq.com/s/lzQ0zM7Qa3cbaBE48SWFLw"><strong>Tanwei Spotlight</strong></a> by Tanwei College, Tsinghua University!</span></p>
-
-<p><strong>2023.12.11:</strong> <span data-i18n="news.29">🎉🎉 Awarded <strong>Scholarship for Science and Technology Innovation Excellence</strong> by Tsinghua University.</span></p>
-
-<p><strong>2023.10.11:</strong> <span data-i18n="news.30">🎉🎉 Awarded <strong>National Scholarship</strong> by Ministry of Education!</span></p>
-
-<p><strong>2023.10.02:</strong> <span data-i18n="news.31">Attended the <a href="https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/">NUS-THU Joint Workshop on Biomedical Engineering 2023</a> hosted by the <a href="https://nus.edu.sg/">National University of Singapore</a> and posted a poster.</span></p>
-
-<p><strong>2023.12.11:</strong> <span data-i18n="news.32">🎉🎉 Awarded <strong>Scholarship for Academic Excellence</strong> by Tanwei College.</span></p>
-
-<p><strong>2023.12.11:</strong> <span data-i18n="news.33">🎉🎉 Awarded <strong>Comprehensive Excellence Scholarship</strong> by Tsinghua University!</span></p>
+{% include news.html %}
 
 </div>
 
@@ -456,21 +392,7 @@ Precise VIM Targeting </span> <br>
 # <span data-i18n="heading.honors">🎖 Honors and Awards</span>
 {: #section-honors }
 
-- <span data-i18n="honors.01"><em>2026</em> <strong>Scholarship for Comprehensive Excellence</strong>, Tsinghua University.</span>
-- <span data-i18n="honors.02"><em>2025</em> <strong>Scholarship for Comprehensive Excellence</strong>, Tsinghua University.</span>
-- <span data-i18n="honors.03"><em>2025</em> <strong>Outstanding Bachelor's Graduate of Beijing</strong>.<br /> &nbsp; &nbsp; &nbsp; &nbsp; <em>6/130 in department</em></span>
-- <span data-i18n="honors.04"><em>2025</em> <strong>Outstanding Bachelor's Graduate of Tsinghua University</strong>.<br /> &nbsp; &nbsp; &nbsp; &nbsp; <em>2/130 in department</em></span>
-- <span data-i18n="honors.05"><em>2025</em> <a href="https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm"><strong>Future Scholars Scholarship</strong></a>. <br> &nbsp; &nbsp; &nbsp; &nbsp; <em>3/47 in department</em>.</span>
-- <span data-i18n="honors.06"><em>2025</em> <strong>ISMRM: Educational Stipend Award</strong>.</span>
-- <span data-i18n="honors.07"><em>2024</em> <strong>National Scholarship, Ministry of Education</strong>, P.R. China. <br> &nbsp; &nbsp; &nbsp; &nbsp; <em>Top scholarship in China. 0.2% domestically. 5/130 in department</em>.</span>
-- <span data-i18n="honors.08"><em>2024</em> <strong>Scholarship for Science and Technology Innovation Excellence</strong>, Tsinghua University.</span>
-- <span data-i18n="honors.09"><em>2024</em> <strong>First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students</strong>. [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing)<br> &nbsp; &nbsp; &nbsp; &nbsp; <em>A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)</em></span>
-- <span data-i18n="honors.10"><em>2024</em> <strong>Third Prize at the 42nd "Challenge Cup" of Tsinghua University</strong>. <br /> &nbsp; &nbsp; &nbsp; &nbsp; <em>Automated Fetal MRI Image Processing and Anomaly Detection</em></span>
-- <span data-i18n="honors.11"><em>2024</em> <strong>ISMRM: Educational Stipend Award</strong></span>
-- <span data-i18n="honors.12"><em>2023</em> <strong>National Scholarship, Ministry of Education</strong>, P.R. China. <br> &nbsp; &nbsp; &nbsp; &nbsp; <em>Top scholarship in China. 0.2% domestically. 2/130 in department</em>.</span>
-- <span data-i18n="honors.13"><em>2023</em> <strong>Scholarship for Science and Technology Innovation Excellence</strong>, Tsinghua University.</span>
-- <span data-i18n="honors.14"><em>2022</em> <strong>Scholarship for Comprehensive Excellence</strong>, Tsinghua University.</span>
-- <span data-i18n="honors.15"><em>2022</em> <strong>Scholarship for Academic Excellence</strong>, Tanwei College.</span>
+{% include honors.html %}
 
 <span class='anchor' id='-invited-talks'></span>
 
