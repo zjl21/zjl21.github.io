@@ -1,5 +1,5 @@
 <ul>
 {% for entry in include.entries %}
-  <li id="{{ include.id_prefix }}-{{ entry.id }}"><span data-i18n-zh="{{ entry.zh | escape }}">{{ entry.en }}</span>{% if entry.gpa %}<br>{{ site.data.ui["education.gpa"].en }}: {{ entry.gpa }}{% endif %}</li>
+  <li id="{{ include.id_prefix }}-{{ entry.id }}">{% if entry.date and entry.date != empty %}<time datetime="{{ entry.date | replace: '.', '-' | escape }}">{{ entry.date | escape }}</time> · {% endif %}<span data-i18n-zh="{{ entry.zh | escape }}">{{ entry.en }}</span>{% if entry.gpa %}<br>{{ site.data.ui["education.gpa"].en }}: {{ entry.gpa }}{% endif %}</li>
 {% endfor %}
 </ul>
