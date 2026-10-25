@@ -1,4 +1,4 @@
-/* English renders without JS. Chinese comes from paired data or the UI translation dictionary. */
+/* Content is paired in _data; ui.yml supplies interface labels. English renders without JS. */
 (function () {
   'use strict';
 
@@ -6,12 +6,17 @@
   var dictionary = JSON.parse(document.getElementById('site-translations').textContent);
   var english = new WeakMap();
   var englishAttributes = new WeakMap();
-  var englishTitle = document.title;
   var toggle = document.querySelector('.language-toggle');
 
   function translated(key, fallback) {
-    return root.lang === 'zh-CN' && Object.prototype.hasOwnProperty.call(dictionary, key)
-      ? dictionary[key] : fallback;
+    var entry = dictionary[key];
+    var language = root.lang === 'zh-CN' ? 'zh' : 'en';
+    return entry && Object.prototype.hasOwnProperty.call(entry, language)
+      ? entry[language] : fallback;
+  }
+
+  function uiText(key) {
+    return translated(key, '');
   }
 
   function translateElement(element) {
@@ -37,22 +42,21 @@
     // Translated prose contains new link nodes; bind the existing image viewer again.
     var $ = window.jQuery;
     if (!$ || !$.fn.magnificPopup) return;
-    var chinese = root.lang === 'zh-CN';
     $('.page__content a[href$=".jpg"], .page__content a[href$=".jpeg"], .page__content a[href$=".JPG"], .page__content a[href$=".png"], .page__content a[href$=".gif"]')
       .addClass('image-popup').magnificPopup({
         type: 'image',
-        tClose: chinese ? '关闭（Esc）' : 'Close (Esc)',
-        tLoading: chinese ? '正在加载图片…' : 'Loading image #%curr%...',
+        tClose: uiText('image.close'),
+        tLoading: uiText('image.loading'),
         gallery: {
           enabled: true,
           navigateByImgClick: true,
           preload: [0, 1],
-          tPrev: chinese ? '上一张（左方向键）' : 'Previous (Left arrow key)',
-          tNext: chinese ? '下一张（右方向键）' : 'Next (Right arrow key)',
-          tCounter: '%curr% / %total%'
+          tPrev: uiText('image.previous'),
+          tNext: uiText('image.next'),
+          tCounter: uiText('image.counter')
         },
         image: {
-          tError: chinese ? '<a href="%url%">图片</a>加载失败。' : '<a href="%url%">Image #%curr%</a> could not be loaded.'
+          tError: uiText('image.error')
         },
         removalDelay: 500,
         mainClass: 'mfp-zoom-in',
@@ -70,22 +74,23 @@
     root.lang = language;
     document.querySelectorAll('[data-i18n], [data-i18n-zh]').forEach(translateElement);
     ['alt', 'aria-label'].forEach(function (attribute) {
-      document.querySelectorAll('[data-i18n-' + attribute + ']').forEach(function (element) {
+      document.querySelectorAll('[data-i18n-' + attribute + '], [data-i18n-' + attribute + '-zh]').forEach(function (element) {
         var saved = englishAttributes.get(element) || {};
         if (!(attribute in saved)) saved[attribute] = element.getAttribute(attribute);
         englishAttributes.set(element, saved);
-        element.setAttribute(attribute, translated(element.getAttribute('data-i18n-' + attribute), saved[attribute]));
+        var chinese = element.getAttribute('data-i18n-' + attribute + '-zh');
+        element.setAttribute(attribute, root.lang === 'zh-CN' && chinese !== null
+          ? chinese : translated(element.getAttribute('data-i18n-' + attribute), saved[attribute]));
       });
     });
     document.querySelectorAll('[data-i18n-citations]').forEach(function (badge) {
       var source = new URL(badge.src, window.location.href);
-      source.searchParams.set('label', language === 'zh-CN' ? '引用次数' : 'citations');
+      source.searchParams.set('label', uiText('badge.label'));
       badge.src = source.href;
-      badge.alt = language === 'zh-CN' ? '谷歌学术引用次数' : 'Google Scholar citations';
+      badge.alt = uiText('badge.alt');
     });
-    document.title = language === 'zh-CN' ? '郑佳兰 - 个人主页' : englishTitle;
     toggle.setAttribute('aria-pressed', String(language === 'zh-CN'));
-    toggle.setAttribute('aria-label', language === 'zh-CN' ? 'Switch to English' : '切换到简体中文');
+    toggle.setAttribute('aria-label', uiText('language.switch'));
     toggle.title = toggle.getAttribute('aria-label');
     try { window.localStorage.setItem('site-language', language); } catch (error) { /* Optional persistence. */ }
     if (updateUrl) {
@@ -110,7 +115,7 @@
       function updateNews() {
         items.slice(5).forEach(function (item) { item.hidden = !showingAll; });
         showMore.dataset.i18n = showingAll ? 'news.less' : 'news.more';
-        english.set(showMore, showingAll ? 'Show less' : 'Show more');
+        english.set(showMore, dictionary[showMore.dataset.i18n].en);
         showMore.setAttribute('aria-expanded', String(showingAll));
         translateElement(showMore);
       }

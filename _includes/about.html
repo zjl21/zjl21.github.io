@@ -1,0 +1,11 @@
+{% for paragraph in site.data.about %}
+<p data-i18n-zh="{{ paragraph[1].zh | escape }}">{{ paragraph[1].en }}</p>
+{% endfor %}
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign badge_data_url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<a href="{{ site.data.profile.googlescholar | escape }}"><img data-i18n-citations alt="{{ site.data.ui['badge.alt'].en | escape }}" src="https://img.shields.io/endpoint?url={{ badge_data_url | url_encode }}&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label={{ site.data.ui['badge.label'].en | url_encode }}"></a>

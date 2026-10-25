@@ -1,6 +1,6 @@
 <script src="assets/js/main.min.js"></script>
 
-<script id="site-translations" type="application/json">{{ site.data.translations | jsonify }}</script>
+<script id="site-translations" type="application/json">{{ site.data.ui | jsonify }}</script>
 <script src="{{ '/assets/js/i18n.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
 
 {% include analytics.html %}

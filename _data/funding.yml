@@ -1,0 +1,64 @@
+- id: "project-leader"
+  anchor: "PROJECT LEADER"
+  heading:
+    en: "PROJECT LEADER"
+    zh: "项目负责人"
+  expanded: true
+  projects:
+    - id: "beijing-qiyan-2024-2026"
+      en: >-
+        <em>2024-2026</em> <strong>Beijing Natural Science Foundation Undergraduate "Qiyan" Program</strong> (¥50k)
+      zh: >-
+        <em>2024—2026</em>，<strong>北京市自然科学基金本科生“启研”计划</strong>（5 万元）
+    - id: "venture-world-2024"
+      en: >-
+        <em>2024</em> <strong>"Venture into the World" Undergraduate Summer Overseas Study Support Program</strong>, Tsinghua University (¥19k)
+      zh: >-
+        <em>2024</em>，清华大学<strong>“闯世界”本科生暑期海外研修计划</strong>（1.9 万元）
+    - id: "academic-advancement-2023-2024"
+      en: >-
+        <em>2023-2024</em> <strong>Initiative Scientific Research Program</strong>, Tsinghua University (¥20k)
+      zh: >-
+        <em>2023—2024</em>，清华大学<strong>学术推进计划</strong>（2 万元）
+    - id: "srt-2023-2024"
+      en: >-
+        <em>2023-2024</em> <strong>Student Research Training (SRT) Program</strong>, Tsinghua University (¥5k)
+      zh: >-
+        <em>2023—2024</em>，清华大学<strong>学生研究训练（SRT）计划</strong>（0.5 万元）
+- id: "key-member"
+  anchor: "KEY MEMBER"
+  heading:
+    en: "KEY MEMBER"
+    zh: "主要参与者"
+  expanded: false
+  projects:
+    - id: "academic-advancement-2025-2026"
+      en: >-
+        <em>2025-2026</em> <strong>Initiative Scientific Research Program</strong>, Tsinghua University
+      zh: >-
+        <em>2025—2026</em>，清华大学<strong>学术推进计划</strong>
+    - id: "academic-advancement-instructor-2025-2026"
+      en: >-
+        <em>2025-2026</em> <strong>Initiative Scientific Research Program</strong>, Tsinghua University (as instructor) (¥40k)
+      zh: >-
+        <em>2025—2026</em>，清华大学<strong>学术推进计划</strong>（担任指导教师；4 万元）
+    - id: "capital-health-2024-2027"
+      en: >-
+        <em>2024-2027</em> <strong>Capital Health Development Special Program for Major Brain Diseases</strong> (Outstanding Young Investigator Innovation Project) (¥200k)
+      zh: >-
+        <em>2024—2027</em>，<strong></strong>（20 万元）
+    - id: "beijing-qiyan-2024-2025"
+      en: >-
+        <em>2024-2025</em> <strong>Beijing Natural Science Foundation Undergraduate "Qiyan" Program</strong> (¥80k)
+      zh: >-
+        <em>2024—2025</em>，<strong>北京市自然科学基金本科生“启研”计划</strong>（8 万元）
+    - id: "beijing-qiyan-2023-2024"
+      en: >-
+        <em>2023-2024</em> <strong>Beijing Natural Science Foundation Undergraduate "Qiyan" Program</strong> (¥50k)
+      zh: >-
+        <em>2023—2024</em>，<strong>北京市自然科学基金本科生“启研”计划</strong>（5 万元）
+    - id: "academic-advancement-member-2023-2024"
+      en: >-
+        <em>2023-2024</em> <strong>Initiative Scientific Research Program</strong>, Tsinghua University (¥50k)
+      zh: >-
+        <em>2023—2024</em>，清华大学<strong>学术推进计划</strong>（5 万元）

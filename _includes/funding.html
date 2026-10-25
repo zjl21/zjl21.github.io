@@ -1,0 +1,6 @@
+{% for group in site.data.funding %}
+<h2 id="{{ group.anchor | escape }}" class="collapsible-trigger"><span data-i18n-zh="{{ group.heading.zh | escape }}">{{ group.heading.en }}</span> <span class="toggle-symbol">{% if group.expanded %}[-]{% else %}[+]{% endif %}</span></h2>
+<div class="collapsible-target"{% unless group.expanded %} style="display: none;"{% endunless %}>
+{% include bilingual-list.html entries=group.projects id_prefix=group.id %}
+</div>
+{% endfor %}

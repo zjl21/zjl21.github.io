@@ -2,19 +2,19 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button type="button" data-i18n-aria-label="nav.menu" aria-label="Open navigation menu"><div class="navicon"></div></button>
+        <button type="button" data-i18n-aria-label="nav.menu" aria-label="{{ site.data.ui['nav.menu'].en | escape }}"><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/#-about-me" target="_self" data-i18n="nav.home">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self" data-i18n="{{ link.i18n }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ site.data.ui['nav.home'].url }}" target="_self" data-i18n="nav.home">{{ site.data.ui['nav.home'].en }}</a></li>
+          {% for section in site.data.sections %}
+            <li class="masthead__menu-item"><a href="/#{{ section.anchor }}" target="_self" data-i18n-zh="{{ section.navigation.zh | escape }}">{{ section.navigation.en }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      <button type="button" class="language-toggle" hidden aria-label="Switch to Simplified Chinese" aria-pressed="false">
-        <span class="language-toggle__en" lang="en-US">EN</span>
+      <button type="button" class="language-toggle" hidden aria-label="{{ site.data.ui['language.switch'].en | escape }}" aria-pressed="false">
+        <span class="language-toggle__en" lang="en-US">{{ site.data.ui['language.en'].en }}</span>
         <span aria-hidden="true">/</span>
-        <span class="language-toggle__zh" lang="zh-CN">中文</span>
+        <span class="language-toggle__zh" lang="zh-CN">{{ site.data.ui['language.zh'].zh }}</span>
       </button>
     </div>
   </div>

@@ -8,14 +8,15 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+{% capture profile_title %}{{ site.data.profile.name.en }} ({{ site.data.profile.name.zh }}){% endcapture %}
+<title data-i18n-zh="{{ site.data.profile.name.zh | escape }} - {{ site.data.ui['page.home'].zh | escape }}">{{ profile_title | escape }} - {{ site.data.ui['page.home'].en | escape }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
-{% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
+{% assign seo_author = page.author | default: page.author[0] | default: site.data.profile.name.en %}
 {% if seo_author %}
   {% if seo_author.twitter %}
     {% assign seo_author_twitter = seo_author.twitter %}
@@ -30,8 +31,8 @@
 {% endif %}
 
 <meta property="og:locale" content="en">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:site_name" content="{{ profile_title | escape }}">
+<meta property="og:title" content="{{ profile_title | escape }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">

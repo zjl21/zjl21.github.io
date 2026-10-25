@@ -73,6 +73,31 @@ html[lang="zh-CN"] body {
   margin-top: 0.1em;
 }
 
+.collapsible-trigger {
+  color: #2c4a88;
+  padding-top: 60px;
+  margin-top: -60px;
+}
+
+.publication-title {
+  color: #000;
+  font-weight: 700;
+}
+
+.publication-author-notes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75em;
+  padding: 0.35em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #bdc1c4;
+}
+
+.publication-author-symbol {
+  color: #b02418;
+  font-weight: 700;
+}
+
 [hidden] {
   display: none !important;
 }

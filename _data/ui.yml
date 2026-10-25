@@ -1,0 +1,60 @@
+nav.home:
+  en: "Homepage"
+  zh: "主页"
+  url: "/#-about-me"
+nav.menu:
+  en: "Open navigation menu"
+  zh: "打开导航菜单"
+profile.email:
+  en: "Email"
+  zh: "电子邮箱"
+profile.scholar:
+  en: "Google Scholar"
+  zh: "谷歌学术"
+news.more:
+  en: "Show more"
+  zh: "展开更多"
+news.less:
+  en: "Show less"
+  zh: "收起动态"
+page.home:
+  en: "Homepage"
+  zh: "个人主页"
+language.switch:
+  en: "切换到简体中文"
+  zh: "Switch to English"
+language.en:
+  en: "EN"
+  zh: "EN"
+language.zh:
+  en: "中文"
+  zh: "中文"
+badge.label:
+  en: "citations"
+  zh: "引用次数"
+badge.alt:
+  en: "Google Scholar citations"
+  zh: "谷歌学术引用次数"
+image.close:
+  en: "Close (Esc)"
+  zh: "关闭（Esc）"
+image.loading:
+  en: "Loading image #%curr%..."
+  zh: "正在加载图片…"
+image.previous:
+  en: "Previous (Left arrow key)"
+  zh: "上一张（左方向键）"
+image.next:
+  en: "Next (Right arrow key)"
+  zh: "下一张（右方向键）"
+image.counter:
+  en: "%curr% / %total%"
+  zh: "%curr% / %total%"
+image.error:
+  en: >-
+    <a href="%url%">Image #%curr%</a> could not be loaded.
+  zh: >-
+    <a href="%url%">图片</a>加载失败。
+education.gpa:
+  en: "GPA"
+  zh: "GPA"

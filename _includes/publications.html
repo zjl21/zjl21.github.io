@@ -1,0 +1,22 @@
+<div class="publication-author-notes">
+{% for note in site.data.publications.author_notes %}
+  <span><span class="publication-author-symbol">{{ note.symbol | escape }}</span> {{ note.description | escape }}</span>
+{% endfor %}
+</div>
+
+{% for group in site.data.publications.groups %}
+<h2 id="{{ group.heading | escape }}" class="collapsible-trigger">{{ group.heading | escape }} <span class="toggle-symbol">{% if group.expanded %}[-]{% else %}[+]{% endif %}</span></h2>
+<div class="collapsible-target"{% unless group.expanded %} style="display: none;"{% endunless %}>
+<ol reversed>
+{% for paper in group.papers %}
+  <li id="{{ paper.id | escape }}">
+    <span class="publication-title">{{ paper.title | escape }}</span><br>
+    {% if paper.url and paper.link_after_authors != true %}<a href="{{ paper.url | escape }}">{{ site.data.publications.paper_label | escape }}</a><br>{% endif %}
+    {{ paper.authors }}<br>
+    {% if paper.url and paper.link_after_authors %}<a href="{{ paper.url | escape }}">{{ site.data.publications.paper_label | escape }}</a><br>{% endif %}
+    <i>{{ paper.venue }}</i> {{ paper.year }}.{% if paper.presentation %} ({{ paper.presentation | escape }}){% endif %}
+  </li>
+{% endfor %}
+</ol>
+</div>
+{% endfor %}
