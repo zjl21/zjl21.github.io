@@ -1,8 +1,12 @@
 author_notes:
   - symbol: "#"
-    description: "co-first author"
+    description:
+      en: "co-first author"
+      zh: "共同一作"
   - symbol: "*"
-    description: "corresponding author"
+    description:
+      en: "corresponding author"
+      zh: "通讯作者"
 paper_label: "[Paper]"
 groups:
   - id: "first-author-journal-papers"

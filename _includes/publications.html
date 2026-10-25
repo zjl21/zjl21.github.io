@@ -1,6 +1,6 @@
 <div class="publication-author-notes">
 {% for note in site.data.publications.author_notes %}
-  <span><span class="publication-author-symbol">{{ note.symbol | escape }}</span> {{ note.description | escape }}</span>
+  <span><span class="publication-author-symbol">{{ note.symbol | escape }}</span> <span data-i18n-zh="{{ note.description.zh | escape }}">{{ note.description.en | escape }}</span></span>
 {% endfor %}
 </div>
 
