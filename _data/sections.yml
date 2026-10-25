@@ -2,10 +2,10 @@
   anchor: "-about-me"
   heading:
     en: "😉 About Me"
-    zh: "😉 关于我"
+    zh: "😉 个人概况"
   navigation:
     en: "About Me"
-    zh: "关于我"
+    zh: "个人概况"
   template: "about.html"
 - id: "news"
   anchor: "-news"
@@ -49,10 +49,10 @@
   anchor: "-honors-and-awards"
   heading:
     en: "🎖 Honors and Awards"
-    zh: "🎖 荣誉与奖励"
+    zh: "🎖 荣誉奖励"
   navigation:
     en: "Honors and Awards"
-    zh: "荣誉与奖励"
+    zh: "荣誉奖励"
   template: "honors.html"
 - id: "talks"
   anchor: "-invited-talks"
@@ -76,10 +76,10 @@
 - id: "service"
   anchor: "-academic-service"
   heading:
-    en: "🎓 Academic Service"
-    zh: "🎓 学术服务"
+    en: "🎓 Public Service"
+    zh: "🎓 公共服务"
   navigation:
-    en: "Academic Service"
-    zh: "学术服务"
+    en: "Public Service"
+    zh: "公共服务"
   template: "bilingual-list.html"
   data: "service"
