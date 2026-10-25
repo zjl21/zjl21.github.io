@@ -101,26 +101,18 @@
   en:
     title: >-
       <strong>First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students</strong>. <a href="https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing">[Certificate]</a>
-    note: >-
-      <em>A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)</em>
   zh:
     title: >-
       <strong>第九届全国大学生生物医学工程创新设计竞赛一等奖</strong>。<a href="https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing">[证书]</a>
-    note: >-
-      <em>基于深度学习的胎儿脑磁共振影像异常检测框架（前 5%）</em>
 
 - id: 2024-challenge-cup-third-prize
   year: "2024"
   en:
     title: >-
       <strong>Third Prize at the 42nd "Challenge Cup" of Tsinghua University</strong>.
-    note: >-
-      <em>Automated Fetal MRI Image Processing and Anomaly Detection</em>
   zh:
     title: >-
       <strong>清华大学第四十二届“挑战杯”三等奖</strong>。
-    note: >-
-      <em>胎儿磁共振影像自动处理与异常检测</em>
 
 - id: 2024-ismrm-stipend
   year: "2024"
