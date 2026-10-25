@@ -15,7 +15,9 @@
 
 侧栏图片的替代文字和导航按钮的无障碍标签分别使用 `data-i18n-alt` 和 `data-i18n-aria-label`。
 
-论文与摘要标题、论文作者署名、期刊名称保留发表时的英文。会议名称、发表形式和获奖说明已翻译，ISMRM 专有奖项同时保留英文原名便于核对。PDF 等链接资源的内容没有改动。
+论文列表的分类标题、作者贡献说明、论文及摘要标题、作者署名、期刊和会议名称、发表形式、获奖说明与 [Paper] 链接文字，在中英文页面中均保留英文。列表内容直接维护在 `_pages/about.md`，无需添加中文译文。学术成果这一栏目标题和导航文字仍随界面语言切换。
+
+中英文页面均已删除友情链接栏目。学术服务条目在 `_pages/about.md` 中维护英文、在 `_data/translations.json` 中维护中文。
 
 ## 已确认的中文名称
 
@@ -28,15 +30,8 @@
 - Tanwei Spotlight：探微风采录
 - Outstanding Graduate Spotlight：优秀毕业生风采录
 
-ISMRM Educational Stipend Award 暂译为“教育参会资助奖”；Summa Cum Laude Merit Award 暂译为“最高荣誉摘要奖”；Magna Cum Laude Merit Award 暂译为“优异摘要奖”；Oral Power Pitch 暂译为“口头快闪报告”。按站点所有者要求保留英文原名，供后续校订。
+荣誉与动态中的 ISMRM Educational Stipend Award 暂译为“教育参会资助奖”，并保留英文原名供后续校订。论文列表内的 ISMRM 奖项和报告形式全部保留英文。
 
 ## 待确认
 
 `Capital Health Development Special Program for Major Brain Diseases (Outstanding Young Investigator Innovation Project)` 的正式中文名尚未确认。中文版 `funding.07` 的项目名称位置留空，保留 2024—2027 年和 20 万元金额；英文版显示完整原文。
-
-## 中文姓名核对来源
-
-仅核对名称，不修改原站点记载的经历或单位。
-
-- [BIRTH Lab](https://birthlab.github.io/)：田启源、刘铭轩、李浩翔。
-- [陈一飞的主页](https://justlfc03.github.io/)、[白旭光的主页](https://jasonw375.github.io/)、[李奕瑾的主页](https://liyijin6815.github.io/)、[郝英奇的主页](https://yingqihao2022.github.io/)。
