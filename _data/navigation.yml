@@ -1,28 +1,37 @@
 # main links links
 main:
   - title: "About Me"
+    i18n: nav.about
     url: "/#-about-me"
 
   - title: "News"
+    i18n: nav.news
     url: "/#-news"
 
   - title: "Educations"
+    i18n: nav.education
     url: "/#-educations"
 
   - title: "Internships"
+    i18n: nav.internships
     url: "/#-internships"
 
   - title: "Publications"
-    url: "/#-publications"
+    i18n: nav.publications
+    url: "/#publications"
 
   - title: "Honors and Awards"
+    i18n: nav.honors
     url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
+    i18n: nav.talks
     url: "/#-invited-talks"
 
   - title: "Funding"
+    i18n: nav.funding
     url: "/#-funding"
 
   - title: "Academic Service"
-    url: "/#-funding"
+    i18n: nav.service
+    url: "/#-academic-service"
