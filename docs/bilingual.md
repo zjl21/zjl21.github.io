@@ -62,7 +62,7 @@
 
 `url` 和 `presentation` 可省略。`link_after_authors: true` 可让 [Paper] 链接放在作者之后；不写则放在标题之后。`authors` / `venue` 可以包含 HTML，以保留本人署名高亮和会议缩写样式。论文标题、作者、期刊/会议、展示形式在两种语言下均保持英文，不需要写 `zh`。
 
-`groups` 决定分类顺序和默认展开状态，`expanded: true` 表示默认展开。论文列表编号由网页自动生成，新增时不需要改其他论文的 ID。
+`groups` 决定分类顺序和默认展开状态，`heading.en` / `heading.zh` 保存中英文分类标题，`expanded: true` 表示默认展开。论文列表编号由网页自动生成，新增时不需要改其他论文的 ID。
 
 作者符号说明放在 `author_notes` 中，使用 `description.en` / `description.zh` 保存中英文，例如“共同一作”和“通讯作者”。
 

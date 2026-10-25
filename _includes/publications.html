@@ -5,7 +5,7 @@
 </div>
 
 {% for group in site.data.publications.groups %}
-<h2 id="{{ group.heading | escape }}" class="collapsible-trigger">{{ group.heading | escape }} <span class="toggle-symbol">{% if group.expanded %}[-]{% else %}[+]{% endif %}</span></h2>
+<h2 id="{{ group.heading.en | escape }}" class="collapsible-trigger"><span data-i18n-zh="{{ group.heading.zh | escape }}">{{ group.heading.en | escape }}</span> <span class="toggle-symbol">{% if group.expanded %}[-]{% else %}[+]{% endif %}</span></h2>
 <div class="collapsible-target"{% unless group.expanded %} style="display: none;"{% endunless %}>
 <ol reversed>
 {% for paper in group.papers %}

@@ -10,7 +10,9 @@ author_notes:
 paper_label: "[Paper]"
 groups:
   - id: "first-author-journal-papers"
-    heading: "FIRST AUTHOR JOURNAL PAPERS"
+    heading:
+      en: "FIRST AUTHOR JOURNAL PAPERS"
+      zh: "第一作者期刊论文"
     expanded: true
     papers:
       - id: "FJP-Pub1"
@@ -24,7 +26,9 @@ groups:
         url: >-
           https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on
   - id: "first-author-conference-abstracts"
-    heading: "FIRST AUTHOR CONFERENCE ABSTRACTS"
+    heading:
+      en: "FIRST AUTHOR CONFERENCE ABSTRACTS"
+      zh: "第一作者会议摘要"
     expanded: true
     papers:
       - id: "FCA-Pub6"
@@ -85,7 +89,9 @@ groups:
         url: "https://archive.ismrm.org/2024/2860.html"
         presentation: "Poster"
   - id: "coauthor-journal-papers"
-    heading: "COAUTHOR JOURNAL PAPERS"
+    heading:
+      en: "COAUTHOR JOURNAL PAPERS"
+      zh: "合作作者期刊论文"
     expanded: false
     papers:
       - id: "CJP-Pub4"
@@ -126,7 +132,9 @@ groups:
         year: "2024"
         url: "https://link.springer.com/article/10.1007/s10334-024-01182-7"
   - id: "coauthor-conference-papers"
-    heading: "COAUTHOR CONFERENCE PAPERS"
+    heading:
+      en: "COAUTHOR CONFERENCE PAPERS"
+      zh: "合作作者会议论文"
     expanded: false
     papers:
       - id: "CCP-Pub2"
@@ -149,7 +157,9 @@ groups:
         year: "2025"
         presentation: "Oral"
   - id: "coauthor-conference-abstracts"
-    heading: "COAUTHOR CONFERENCE ABSTRACTS"
+    heading:
+      en: "COAUTHOR CONFERENCE ABSTRACTS"
+      zh: "合作作者会议摘要"
     expanded: false
     papers:
       - id: "CCA-RSNA-2026-1"
