@@ -139,7 +139,7 @@ groups:
     papers:
       - id: "CCP-Pub2"
         title: >-
-          FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction
+          WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation
         authors: >-
           Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Bixiao Cui, Qiyuan Tian, Jie Lu*
         venue: >-
@@ -149,7 +149,7 @@ groups:
         presentation: "Regular Paper"
       - id: "CCP-Pub1"
         title: >-
-          WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation
+          FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction
         authors: >-
           Haoxiang Li#, Mingxuan Liu#, Xuguang Bai, Yi Liao, <span style="color:#b02418; font-weight:bold;">Jialan Zheng</span>, Hongjia Yang, Zihan Li, Haibo Qu, Qiyuan Tian*
         venue: >-
