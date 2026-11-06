@@ -11,6 +11,17 @@
       清华大学<strong>综合优秀奖学金</strong>。
     note: ""
 
+- id: 2026-tsinghua-merit-student
+  year: "2026"
+  en:
+    title: >-
+      <strong>Merit Student</strong>, Tsinghua University.
+    note: ""
+  zh:
+    title: >-
+      清华大学<strong>三好学生</strong>。
+    note: ""
+
 - id: 2025-comprehensive-scholarship
   year: "2025"
   en:
